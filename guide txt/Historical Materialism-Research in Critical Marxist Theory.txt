@@ -1,0 +1,557 @@
+Scope 
+
+ 
+
+Historical Materialism (HIMA) is an interdisciplinary journal dedicated to exploring and developing the 
+critical and explanatory potential of Marxist theory. The journal started as a project at the London 
+School of Economics from 1995 to 1998. The advisory editorial board comprises many leading Marxists, 
+including Robert Brenner, Maurice Godelier, Michael Lebowitz, Justin Rosenberg, Ellen Meiksins Wood 
+and others. Marxism has manifested itself in the late 1990s from the pages of The Financial Times to new 
+work by Fredric Jameson, Terry Eagleton and David Harvey. Unburdened by pre-1989 ideological 
+baggage, Historical Materialism stands at the edge of a vibrant intellectual current, publishing a new 
+generation of Marxist thinkers and scholars. 
+
+
+Ethical and Legal Conditions 
+
+ 
+
+The publication of a manuscript in a peer-reviewed work is expected to follow standards of ethical 
+behavior for all parties involved in the act of publishing: authors, editors, and reviewers. Authors, editors, 
+and reviewers should thoroughly acquaint themselves with Brill’s publication ethics, which may be 
+downloaded here: brill.com/page/ethics/publication-ethics-cope-compliance. 
+
+ 
+
+Online Submission 
+
+
+ 
+
+The Journal now uses online submission only. Authors should submit their manuscript online via the 
+Editorial Manager (EM) online submission system at: editorialmanager.com/hima. 
+
+First-time users of EM need to register first. Prior to submission, authors are encouraged to read the 
+‘Instructions for Authors’ and the EM instructions available by following the above link and clicking on 
+the ‘help’ icon in the top left hand menu on the page. Online submission considerably shortens overall 
+publication time. When submitting via the website, you will be guided stepwise through the creation 
+and uploading of the various files. 
+
+Please upload source files (.doc, etc.) and not .pdf files. 
+
+For figures, please see below. Any figure files should be uploaded separately, and should have a high 
+density of at least 300 dpi at a size suitable for printing. 
+
+The revised document is uploaded the same way as the initial submission. The system automatically 
+generates an electronic (PDF) proof, which is then used for reviewing purposes. All correspondence, 
+including the editor’s request for revision and final decision, is sent by e-mail. 
+
+ 
+
+Double-blinded Peer Review 
+
+HIMA uses a double-blind peer review system, which means that manuscript author(s) do not know who 
+the reviewers are, and that reviewers do not know the names of the author(s). When you submit your 
+article via Editorial Manager, you will be asked to submit a separate title page which includes the full 
+
+
+title of the manuscript, the names and complete contact details of all authors, the abstract, keywords, 
+and any acknowledgement texts. This page will not be accessible to the referees. All other files 
+(manuscript, figures, tables, etc.) should not contain any information concerning author names, 
+institutions, etc. The names of these files and the document properties should also be anonymized. 
+
+ 
+
+Contact Address 
+
+For any questions or problems relating to your manuscript please contact the Editor at: 
+historicalmaterialism@soas.ac.uk. For eventual questions about Editorial Manager, authors can also 
+contact the Brill EM Support Department at: em@brill.com. 
+
+ 
+
+File Format 
+
+Please submit essays preferably in Word (.doc) and RTF. If they are unavailable, please send the piece in 
+another (named) word processor format but include Text and RTF formats if at all possible. 
+
+If you have to provide mathematical proof for your arguments, please do so in an appendix. Otherwise, 
+graphs and figures can be inserted in the main text. 
+
+We ask that all authors subscribe to the journal and encourage other individuals and institutions to 
+subscribe. 
+
+
+Submission Requirements 
+
+ 
+
+Language 
+
+Manuscripts should be written in British English. Spelling should be consistent throughout. 
+
+This includes -ise/-ising/-isation rather than -ize/-izing/-ization, and double-checking all non-English 
+words. (Please note: the word ‘critique’ is used only as a noun, and never as a verb in the journal. The 
+same applies to other Americanisms such as ‘to impact’, ‘to protest sthg’, which are strictly forbidden.) 
+
+ 
+
+Font 
+
+All articles should be in Arial font, 14 point and double-spaced (Arial, 10 point and single-spaced for 
+footnotes). 
+
+
+Manuscript Structure 
+
+ 
+
+Authors should please include your postal address and, where possible, fax number and e-mail address. 
+
+The article should be presented in the following form: 
+
+ 
+
+Article Title 
+
+Author name 
+
+Affiliation 
+
+
+Abstract 
+
+Keywords 
+
+Main text 
+
+References 
+
+Appendix 
+
+ 
+
+Abstract and Keywords 
+
+Please include a short abstract of no more than 150 words as well as up to six or seven keywords. 
+
+ 
+
+Bibliographical Note 
+
+Also include a brief description of your current institutional affiliation, research interests and recent 
+publications for our ‘Notes on Contributors’ section, in case your piece should be accepted. 
+
+ 
+
+Section Headings 
+
+We strongly recommend that your essay be broken up into parts, marked by sub-titles (numbered or 
+not), which can be further broken up into sub-parts which can be marked by sub-sub-titles. 
+
+Sub-titles should be in bold, ranged left and in sentence case (i.e. only the first letter of the sub-title 
+should be capitalised, except for exceptions referred to above). They should be separated from the 
+preceding text by two paragraph spaces and from the succeeding text by one paragraph space, e.g.: 
+
+ 
+
+ 
+
+Towards a definition of the problem 
+
+ 
+
+Sub-sub-titles should be in bold italics, ranged left and in sentence case. They should be separated from 
+the preceding text by one paragraph space and from the succeeding text by one paragraph space, e.g.: 
+
+ 
+
+Young Marx’s relationship to Feuerbach 
+
+ 
+
+Abbreviations 
+
+Please avoid abbreviations of the type e.g., i.e., etc., when possible and choose rather constructions of the 
+type ‘for example’, ‘for instance’, ‘that is’, ‘namely’, ‘in other words’, ‘and so on’, ‘and so forth’. 
+
+Full points after abbreviations: e.g., ed., pp., cms. and after contractions: yds., edn. except the following: 
+Mr, Mrs, Miss, Ms, Dr and St 
+
+ 
+
+Acronyms 
+
+Acronyms should be capitalised but should not be separated by dots (unless they appear so in a citation), 
+for example: NATO, USA, CPGB. 
+
+ 
+
+
+Bibliography 
+
+A bibliography should be placed at the end of the text containing all sources cited in alphabetical and 
+chronological order. Book titles are to be italicised; article titles from journals or edited volumes should 
+be placed in ‘single quotation marks’, while the journal/volume from which it is taken should be listed in 
+italics. 
+
+To distinguish different series of a journal from each other (for example, with New Left Review), please 
+put the series number as a large Roman numeral, followed by the volume and issue number: 
+
+Anderson, Perry 1976, ‘The Antinomies of Antonio Gramsci’, New Left Review, I, 100: 5–78. 
+
+The bibliographical listings of essays from journals (but not from edited volumes) should include volume 
+and issue number, as well as page ranges, but without using pp. Please see examples below for exact 
+formatting. 
+
+In the bibliography, books cited which are reprints of earlier works should have the original publication 
+date included in square brackets after the date of the edition cited. In footnotes, however, only the later 
+edition’s date should be given. 
+
+In the bibliography, when citing editions which are taken from a series of collected works, the date given 
+should be the date of publication of the particular volume, followed as above in square brackets by the 
+date of the original work’s publication. The volume number should be listed. Please see the Engels 
+reference below for the exact format of these references. 
+
+If two or more pages are cited, we have pp. x–y. Please note that there is no space between number and 
+n-dash. Ranges of pages (or years, or any other series of numbers) are cited as said. Not pp. 65–68, but pp. 
+65–8 (not ‘sixty-five to sixty-eight’ but ‘sixty-five to -eight’). Therefore, not pp. 112–3, but pp. 112–13. 
+
+Please use the n-dash, and not the normal dash or the m-dash for page ranges. 
+
+In giving references to a page and those following, 'pp. 56ff.' is the style to be used, rather than ‘p. 56 ff.,’ 
+or ‘pp. 56ff,’ or other variants. 
+
+If you are citing a chapter from a book (collectively authored or single-authored) or from an annual 
+publication (for example, Socialist Register) there is no need to provide the page range. In the latter case, 
+it should be treated as a collectively authored book, with the editors listed in the normal manner. 
+
+ 
+
+Anonymous Articles in Newspapers 
+
+Financial Times 2019. 
+
+And, in the bibliography: 
+
+Financial Times 2019, ‘Title of the article’, Month or issue number: Page. 
+
+ 
+
+Internet References 
+
+Internet references should appear in the usual form in the footnote (with author name and date) and in 
+the bibliography as follows: 
+
+Author name, date, ‘Title of document or article’, available at: <www.urladdress>. 
+
+ 
+
+
+Titles within Titles: 
+
+In article titles, when referring to a book, the latter title should appear in italics, as in: 
+
+‘Rereading Reading Capital’ 
+
+In book titles, when referring to a book title, the latter should appear with single quote marks: 
+
+The New Dialectic and Marx’s ‘Capital’ 
+
+ 
+
+Publication Locations 
+
+Publication locations for book references should only include the main place of publication, not all the 
+details listed in the book. Thus: 
+
+Cambridge: Cambridge University Press. 
+
+And not: 
+
+Cambridge and New York: Cambridge University Press. 
+
+If the book is published in the United States, the state should only appear when there is a possible 
+confusion with a UK town. For example: Cambridge, MA: Harvard University Press. 
+
+But not in other cases, such as: Atlantic Highlands: Humanities Press. 
+
+For journal references, if a doi number is available, please insert it. 
+
+It will help us enormously and save a great deal of time if you ensure that your references accord in every 
+detail with the examples below. For example: no comma between author name and date of publication; 
+full stops after the ‘p’ before page numbers, followed by a space before the number; full stops at the ends 
+of footnotes and references: no line between items in bibliographies. 
+
+ 
+
+References 
+
+Blackbourn, David and Geoff Eley 1984, The Peculiarities of German History: Bourgeois Society and Politics 
+in Nineteenth-Century Germany, Oxford: Oxford University Press. 
+
+Bonefeld, Werner and John Holloway (eds.) 1991, Post-Fordism and Social Form: A Marxist Debate on the 
+Post-Fordist State, London: Macmillan. 
+
+Brewer, Anthony 1980, Theories of Imperialism: A Critical Survey, London: Routledge. 
+
+Burnham, Peter 1991, ‘Neo-Gramscian Hegemony and the International Order’, Capital and Class, 45: 73–
+94. 
+
+Burnham, Peter 1995, ‘Capital, Crisis and the International State System’ in Global Capital, National State 
+and Politics of Money, edited by Werner Bonefeld and John Holloway, London: Macmillan. 
+
+Engels, Friedrich 1987 [1878], Anti-Dühring in Marx and Engels Collected Works Volume 25, Moscow: 
+Progress Publishers. 
+
+Gill, Stephen 1995, ‘Globalisation, Market Civilisation and Disciplinary Neoliberalism’, Millennium, 24, 3: 
+399–423. 
+
+Psychopedis, Kostas 1992, ‘Dialectical Theory: Problems of Reconstruction’, in Open Marxism: Dialectics 
+and History, edited by Werner Bonefeld, Richard Gunn et al., London: Pluto Press. 
+
+Vilar, Pierre 1976 [1969], A History of Gold and Money: 1450–1920, London: NLB. 
+
+ 
+
+
+Capitalisation 
+
+Capital letters should generally be avoided with nouns unless they are derived from proper names 
+(Marxism, Leninist) or refer to titles (Communist Party, the Bavarian Republic of Workers’ Councils, the 
+Nazis). In the case of ‘communist/communism’, socialist/socialism’, ‘social-democratic/social 
+democracy’, they should be kept in lower case if they refer to broad movements and currents of thought 
+that might include a wide range of parties, institutions and so forth. However, when they refer to specific 
+parties (the Italian Socialist Party, Russian Communism, the German Social-Democratic Party, etc.), they 
+should be capitalised. 
+
+ 
+
+Dates and Figures 
+
+6 September 1972. 
+
+‘Nineteenth century’ (or ‘nineteenth-century’ when used as an adjective). Please avoid ‘19th century’. 
+
+Do not use apostrophes when referring to decades: 1930s , and not 1930’s. 
+
+Numbers from one to nine (and first to ninth) spelt out, from 10 to 999,999 in figures if there is heavy use 
+of figures in the text. Otherwise spell out. Then 1 million, 2.7 million, etc. 
+
+Percentages use figures and (two words) per cent, e.g. 8 per cent. When a large number of percentages 
+are being used, it is permissible to use the % sign. 
+
+ 
+
+Ellipses 
+
+When words are omitted, there is a space, three dots, followed by a space. 
+
+Original: 
+
+Johnson, building on the work of Raymond Aron, provides a neo-Durkheimian view of the 
+homogenising effects of international society. This is problematic, and no alternative is considered. 
+
+After Ellipses: 
+
+Johnson … provides a neo-Durkheimian view of … international society. This is problematic and 
+no alternative is considered. 
+
+If the words omitted go over the end of a sentence, the following word must be capitalised to point out 
+that a new sentence has started. If it is not the words that started the new sentence in the original, a 
+capital must be provided in square brackets. Moreover, an extra dot must be added. 
+
+Johnson … provides a neo-Durkheimian view. … This is problematic, and no alternative is 
+considered. 
+
+Or: Johnson … provides a neo-Durkheimian view. … [N]o alternative is considered. 
+
+NB: If ‘dot–dot–dot’ is actually used for dramatic effect then it is closed up on the left. 
+
+Whatever they say... 
+
+ 
+
+Footnotes 
+
+The journal uses an author/date/page system in footnotes (with fuller references in bibliographies). 
+
+
+Footnotes should be used both to cite sources and to make any brief comments not deemed appropriate 
+for the main text. The only exception to the rule that all quotations are footnoted is in reviews, which are 
+discussed below. 
+
+All footnotes should spell out author/date/page in full: op. cit., ibid., loc. cit. and similar are not generally 
+used (ibid. is only used when the following reference is exactly the same (author, date and page reference) 
+as the previous reference). 
+
+Where a footnote refers to more than one page reference, the style be 'pp. 45, 87' or 'pp. 45, 87, 103, 156'. If 
+there are several references to different authors or works with page references, each one should be 
+separated by a semi-colon: ‘Burke 1973, p. 13; Andrews 1990, pp. 24, 52 90; Marx 1973, p. 12.’ 
+
+Where a footnote refers to a note, whether in a work cited or a note to the author's present text, the style 
+should be 'p. 53, n. 124' rather than ‘p. 53 n. 124' or ‘p. 53, note 124'. 
+
+Footnotes come after any punctuation. 
+
+…as has been argued elsewhere.7 This is the basis… 
+
+Not: 
+
+…as has been argued elsewhere7. This is the basis… 
+
+Footnote examples: 
+
+1 Brewer 1980, p. 88. 
+
+2 Brewer 1980, p. 89. 
+
+3 Blackbourn and Eley 1984, p. 59; compare pp. 77–9. 
+
+4 See Burnham 1991, and 1995. 
+
+5 Vilar 1976, p. 67. 
+
+6 Engels 1987, p. 104. 
+
+ 
+
+Quotations 
+
+Quotations of up to two sentences in length should be included in the main text, enclosed within ‘single 
+quotation marks’. Quotations over this length should be given a separate paragraph. This paragraph 
+should not be italicised, and should be indented with wider margins than the main essay. The paragraph 
+should be separated from the main text by a one-line space above and below the quotation. The 
+indented paragraph should not be in quotation marks. Quotations within the quotation should be in 
+‘single quotes’. 
+
+That Bowden’s partial severing of the unity of theory and praxis complements his material/social 
+dichotomy is clear from his response to the following observation by Minton: 
+
+ 
+
+In Marx’s terms, it is not labour which is ‘the source of all wealth’. Nature is, he claims, ‘just as 
+much the source of use values’, which is the material of wealth. Labour is a manifestation of a 
+natural force, after all.32 
+
+ 
+
+
+Bowden’s apparent dismissal of the implicit argument in this quote is quite unsatisfactory and must 
+be rejected. 
+
+ 
+
+If the main quotation is shorter and is included in the main text within single quotation marks, 
+quotations within it should have “double quotation marks”. 
+
+Minton is quite clear that ‘[i]n Marx’s terms, it is not labour which is “the source of all wealth”.’ 
+Bowden’s response to this is inadequate. 
+
+If an article contains a quotation the original of which breaks any of our style rules, the original style is 
+retained within the quotation. 
+
+ 
+
+Punctuation, N-dashes and Hyphenation 
+
+When an abbreviated word comes at the end of a sentence, there is only one full stop. 
+
+... in the European countries, France, Italy, etc. 
+
+Not: ... France, Italy, etc.. 
+
+Use hyphens only for hyphenated words. 
+
+When dashes are used as semi-parentheses, then it is text/space/n-dash/space/text. 
+
+Whatever the notion – and Lacan is unclear on this – we cannot ... 
+
+N–dashes used also for dates when they mean ‘from x date to y date’, the same rules as for page numbers 
+(i.e., as it is said). When used in this way, they are closed up. 
+
+1948–9 
+
+Compound nouns are hyphenated in the journal: surplus-value, labour-power, value-form, etc. 
+
+Also hyphenated are compound adjectival constructions, e.g.: classical-Marxist, social-democratic, 
+revolutionary-socialist. However, please note that, in the adjective+noun construction, they are not 
+hyphenated, e.g.: classical Marxism, social democracy, revolutionary socialism. 
+
+
+Reviews 
+
+
+ 
+
+Within a review, page references for the book or books being reviewed should not be in footnotes, but 
+should be in brackets within the main body of the text after any quotations. The full publication details 
+should be listed at the beginning of the review, with the format title/author/place: publisher, year. All 
+quotes from any other sources than the book(s) under review should be footnoted, however, and a full 
+bibliography should be included as for other articles (see rules above). 
+
+Review title: 
+
+Cuba Libre 
+
+Peter Marshall 
+
+Boston: Faber and Faber, 1987 
+
+Reference: 
+
+... Marshall claims that ‘regular troops were no longer … a pool of labour’ (pp. 83-4). 
+
+
+Publication 
+
+ 
+
+Proofs 
+
+Upon acceptance, a PDF of the article proofs will be sent to the each author/ the designated author by e-
+mail to check carefully for factual and typographic errors. Authors are responsible for checking these 
+proofs and are strongly urged to make use of the Comment & Markup toolbar to note their corrections 
+directly on the proofs. At this stage in the production process only minor corrections are allowed. 
+Alterations to the original manuscript at this stage will result in considerable delay in publication and, 
+therefore, are not accepted unless charged to the author. Proofs should be returned promptly. 
+
+ 
+
+E-offprints 
+
+A PDF file of the article will be supplied free of charge by the publisher to authors for personal use. Brill 
+is a RoMEO yellow publisher. The Author retains the right to self-archive the submitted (pre-peer-review) 
+version of the article at any time. The submitted version of an article is the author's version that has not 
+been peer-reviewed, nor had any value added to it by Brill (such as formatting or copy editing). The 
+Author retains the right to self-archive the accepted (peer-reviewed) version after an embargo period of 
+12 months. The accepted version means the version which has been accepted for publication and 
+contains all revisions made after peer reviewing and copy editing, but has not yet been typeset in the 
+publisher’s lay-out. The publisher’s lay-out must not be used in any repository or on any 
+website (brill.com/resources/authors/publishing-books-brill/self-archiving-rights). 
+
+ 
+
+Consent to P
+ublish 
+
+
+ 
+
+Transfer of Copyright 
+
+By submitting a manuscript, the author agrees that the copyright for the article is transferred to the 
+publisher if and when the article is accepted for publication. For that purpose the author needs to sign 
+the Consent to Publish which will be sent with the first proofs of the manuscript. 
+
+ 
+
+Open Access 
+
+Should the author wish to publish the article in Open Access he/she can choose the Brill Open option. 
+This allows for non-exclusive Open Access publication under a Creative Commons license in exchange 
+for an Article Publication Charge (APC), upon signing a special Brill Open Consent to Publish Form. 
+
+More information on Brill Open can be found on brill.com/brillopen. 
+
+

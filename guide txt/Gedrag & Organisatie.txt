@@ -1,0 +1,835 @@
+
+
+
+
+
+
+
+Tutorial for Authors
+Version 15.0 ¡V Q2/2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright ? 2018, Aries Systems Corporation
+
+This document is the confidential and proprietary information of Aries Systems Corporation, and may not be disseminated or copied without the express written permission of Aries Systems Corporation. The information contained in this document is tentative, and is provided solely for planning purposes of the recipient. The features described for this software release are likely to change before the release design and content are finalized. Aries Systems Corporation assumes no liability or responsibility for decisions made by third parties based upon the contents of this document, and shall in no way be bound to performance therefore. Editorial Manager is a registered trademark and the property of Aries Systems Corporation.
+
+
+
+AUTHOR SOFTWARE REQUIREMENTS	4
+REGISTERING WITH THE PUBLICATION¡¦S EM SITE	4
+Standard Registration	4
+Duplicate Registration Check	5
+Possible Outcome of Duplicate User Test	5
+Registration Using ORCID	5
+Registration Process	8
+Multiple E-Mail Address Request	12
+Custom Registration Questions and Registration Confirmation	12
+LOGGING IN	13
+Standard Login	13
+Single Sign-on via ORCID	14
+Time Zone Display	15
+Multi-Language Toggle	16
+Changing Passwords	16
+Send Username/Password	16
+Entering Unavailable Dates	17
+SUBMITTING A NEW MANUSCRIPT	19
+Submission Step Limits	19
+Submission Steps	19
+Submission Step Limits	20
+Article Type Selection	20
+Attach Files	21
+Upload Any Additional Files	21
+File Ordering Mechanism	21
+Removing Files	22
+General Information	22
+Reviewer Preferences: Suggest and Oppose Reviewers	22
+Suggest Reviewers	22
+Oppose Reviewers	23
+Additional Information	23
+Comments	24
+Manuscript Data	24
+Author PDF Approval	25
+Fees and Payments	25
+Submission Fees	25
+Request Waiver Submission Step	29
+Other Fees	30
+Additional Views of the ¡¥Fees and Payments¡¦ Page	31
+TRACKING YOUR SUBMISSION	33
+Artwork Quality Check	33
+Displaying AQC Results	33
+Similarity Check Results	35
+Reference Checking	36
+Send E-mail	38
+Other Author Access to Submissions	39
+Submitting Revised Manuscripts	42
+View Submission	42
+File Inventory	42
+Attachments	43
+Submit Revision	43
+Viewing Correspondence History	45
+Decline to Revise	47
+Reinstate a Declined Revision	47
+View Decision	47
+Author Rebuttal of a Rejected or Withdrawn Submission	47
+INVITED AND COMMISSIONED PAPERS	47
+Invited Author¡¦s Perspective	48
+
+
+
+
+Author Software Requirements 
+
+Authors using Editorial Manager (EM) must have Adobe Acrobat Reader (a PDF reader) installed. To install this software, download the free Adobe Acrobat Reader at the following address:
+
+http://get.adobe.com/reader/
+
+Users should contact their IT department if they experience difficulty installing or utilizing this software. Adobe also offers a help database for the free Reader at the following address:
+
+http://www.adobe.com/support/reader/
+
+General Software and Hardware requirements for EM are at the following address:
+
+http://www.ariessys.com/views-press/faqs/
+
+Note: A pop-up alert is displayed if the system is accessed with an unsupported browser.
+Registering with the Publication¡¦s EM Site
+
+Standard Registration
+
+A set of menu options is available at the top of the screen on the main navigation menu. Click on ¡¥REGISTER¡¦.
+
+
+
+The following screen will be displayed:
+
+
+
+Fill in the Required Pre-Registration information and click ¡¥Continue >>¡¦ when done. There will then be a ¡¥Duplicate Registration Check¡¦.
+
+Duplicate Registration Check
+
+EM will check whether a user is already registered, once the First Name, Last Name, and E-Mail Address fields have been entered. Click on the button labeled ¡¥Continue¡¦. This will execute a search of the database for a duplicate record.
+
+Note: It is important that users enter their name exactly as they are known. It is not unusual for variations in spelling to cause duplicate entries in the database.
+Possible Outcome of Duplicate User Test
+
+If a match is found (i.e., presence of duplicates), the user will not be able to proceed with the Registration. The user may opt to receive an e-mail containing the Username and Password associated with the e-mail address that is already in the system.
+
+
+
+Users should click on ¡¥Yes¡¦ if they could already be registered. If the user is certain that he or she is not already registered, he or she should click on ¡¥No¡¦. The system will then present the ¡¥Registration¡¦ page, which provides an option to change First Name, Last Name, E-Mail Address or all three fields.
+
+If no matches are found (i.e., no duplicates), then proceed to the second step ¡V the Registration process.
+
+Registration Using ORCID
+
+Users may not only retrieve their ORCID record, but also retrieve name and contact details from their ORCID record. Users who select this option will experience the standard ORCID authorization interaction, giving EM permission to read information from their profile.
+
+
+
+You are taken to ORCID to sign in.
+
+
+
+
+
+
+
+
+
+
+You grant permission for ORCID to push information to your EM registration.
+
+
+If the data are available and not set to private in the ORCID record, the following fields will be populated into your EM registration:
+* Given/First Name
+* Family/Last Name
+* E-mail Address
+* Position
+* Institution
+* Department
+* City
+* State or Province
+* Country
+* Keywords (if configured as a Registration Field)
+
+Note: A Publication may require a Corresponding Author to have an authenticated ORCID record before they can submit.
+
+
+
+
+Registration Process
+
+If you aren¡¦t using ORCID, fill in the name and e-amil fields and select Continue>>.
+
+
+
+The following screens will be displayed:
+
+
+
+Note: Users must remember this username in order to access the Publication¡¦s EM System. If the preferred user name is already taken, when you try to proceed with the registration, you¡¦ll be directed back to this page to select a new one.
+
+
+
+
+
+Note: Information fields marked with asterisks (*) cannot be left empty.
+A user may indicate to the Publication that he or she is available as a Reviewer, by selecting ¡§Yes¡¨ in response to the question, ¡¥Are you available as a Reviewer?¡¦
+
+
+
+If the Publication is using classifications, users may also select Personal Classifications from a predefined list.
+
+Note: If the Editorial Office has set up Classifications as a required field, users must select the required number of areas of expertise from this predefined list.
+
+
+Users can click on ¡¥Select Personal Classifications¡¦ to access the screen to enter areas of expertise. The predefined list can be expanded or collapsed by clicking the [+] or [-] checkboxes. To add a Personal Classification, check the appropriate classification, and click on the ¡¥Select¡¦ button. The number of Personal Classifications allowed is determined by the Publication. When all of the appropriate areas of expertise have been selected, click on the ¡¥Submit¡¦ button on the bottom of the page.
+
+If the Publication has Classification Ranking enabled, users may be asked to specify levels of personal expertise for their selected Personal Classifications. 
+
+
+
+Clicking the ¡¥Rank Personal Classifications¡¦ button will direct you to a pop-up window where users have the option to rank their experience level for each Classification as ¡¥Low¡¦, ¡¥Medium¡¦ or ¡¥High¡¦. 
+
+
+
+If the Publication is using Personal Keywords, users may enter free-form Keywords that identify areas of expertise not included in the predefined Personal Classifications list. 
+
+Note: If the Editorial Office has set up Personal Keywords as a requirement, users must enter the minimum number of Keywords indicated.
+
+
+Click on ¡¥Edit Personal Keywords¡¦ to access the screen to enter free-form areas of expertise. To add a new Keyword, type the Keyword(s) into the ¡¥New Keyword¡¦ field and click on ¡¥Add¡¦. Click on ¡¥Close¡¦ after all Personal Keywords have been entered. 
+
+Multiple E-Mail Address Request
+
+It is strongly suggested that users enter a second e-mail address. If the system e-mails get caught in a SPAM filter for one e-mail address, users can receive the e-mail at a secondary e-mail address from a different service provider (i.e., Gmail, Outlook, Hotmail, etc.).
+
+
+
+
+Custom Registration Questions and Registration Confirmation
+
+A ¡¥Registration Confirmation¡¦ page will appear. Please ensure that everything is spelled correctly, and that the e-mail address is correct.
+
+You will be required to acknowledge Privacy Policies in compliance with the European Union's General Data Protection Regulation (https://gdpr-info.eu/). You may be presented with additional questions from the Publication. A red asterisk indicates required information.
+
+
+
+
+Once you have completed the questions, click Continue>> at the bottom of the page.
+
+
+
+
+The Registration process is now complete, and the user may check their e-mail for a confirmation.
+
+An example of a confirmation e-mail is shown below. 
+
+
+
+The e-mail contains the username and a link that will take the user into EM to change his/her password, if desired.
+
+
+
+Logging In
+
+Standard Login
+
+Users can begin to use the system once they have received a registration notification e-mail from the Editorial Office. 
+
+Go to the Publication¡¦s EM website. At the top of the navigation main menu a set of menu options is available. Click on ¡¥LOGIN¡¦, as shown below:
+
+
+
+The EM Log-In screen will be displayed. Enter the username and password in the appropriate fields. Click on the ¡¥Author Login¡¦ button. This will display the ¡¥Author Main Menu¡¦ which will contain a list of functions that may be performed in the system.
+
+
+
+Note: If users have multiple roles with the Publication, it is possible to set up a default login role. The option to do this can be found by clicking on the ¡¥Update My Information¡¦ link on the main navigation menu.
+Once a user has successfully logged in, the ¡¥Author Main Menu¡¦ will display ¡¥Incomplete Submissions¡¦, ¡¥Submissions Waiting for Author¡¦s Approval¡¦, and ¡¥Submissions Being Processed¡¦ folders. The number of submissions in process in each folder will be displayed in parentheses by the side of the folder name. 
+
+Single Sign-on via ORCID
+
+Users who have already authenticated an ORCID with the EM user account will be able to login with their ORCID credentials immediately. First-time EM users will have to first authenticate their ORCID record before successfully logging into EM.
+
+Once Single Sign-on via ORCID enabled, an ORCID icon will display on the Login page. Clicking the icon will take the user to ORCID to verify their credentials and confirm the ORCID record to use for the login. Once verified, assuming they have previously Authenticated their ORCID record, the user is logged into EM.
+¡@
+If they have not previously Authenticated their ORCID record, EM will ask them to log in (or register) normally ¡V this will automatically Authenticate their ORCID record for that EM login, and they will be able to log in via ORCID in future.
+
+Note: The user¡¦s ORCID password is never exposed to EM; the user is asked to log into ORCID and authorize the login, then the ORCID site provides EM with the ORCID record to use via a secure channel.
+
+
+
+
+
+
+Example ORCID login
+¡@
+¡@
+
+Example ORCID authentication interaction after login
+
+¡@
+
+Time Zone Display
+
+Depending on the configuration of your Publication, you may see a ¡¥Time Zone Footer¡¦ frame when logged into EM. This displays the current site time as well as your local time. Clicking on the link ¡¥Site time¡¦ brings up a pop-up window providing additional time zone information. 
+
+
+Multi-Language Toggle
+
+If your Publication provides access to secondary languages, you will see the ¡¥language drop-down¡¦ in the top right corner of your screen as part of the Main Menu bar area. Here you may choose to display the site in a language other than the Publication¡¦s default language by selecting from the list of available languages.
+
+
+
+If you switch to an alternate language, your preference will be saved by the system and the site will display in that language at each subsequent login. Your preferred language is recorded as the one most recently displayed.
+
+Changing Passwords
+
+Users may change their password at any time, but must first be logged in to the system. From the main navigation menu at the top of the screen (see below) select ¡¥UPDATE MY INFORMATION¡¦.
+
+
+
+The ¡¥Update My Information¡¦ page dialog boxes will be displayed, where all of the personal information currently available to the Publication is displayed, and may be updated as needed.
+
+
+
+
+
+When the password has been changed, click Submit. 
+
+Send Username/Password
+
+If a user has an existing account in the system, they may choose to recover this information by clicking ¡¥Send Login Details¡¦ in the Login box.
+
+
+
+If the system finds an existing record matching the e-mail address, an e-mail is sent.
+
+
+
+The e-mail contains the username and a link that will take the user directly into EM to change his/her password, if desired.
+
+
+
+
+Entering Unavailable Dates
+
+EM allows Authors to enter Unavailable Dates from the Additional Information section of the ¡¥Update my Personal Information¡¦ page. These unavailable dates can then be taken into account when Editors invite Authors to submit manuscripts. 
+
+
+
+Authors enter dates for which they are not available and provide a short reason for their unavailability. Authors can also enter up to three potential substitutes.
+
+
+
+
+
+Submitting a New Manuscript
+
+Once an Author has logged into the system, the ¡¥Author Main Menu¡¦ will be displayed:
+
+
+
+Click on the on the ¡¥Submit New Manuscript¡¦ link. Authors will be asked to enter data that are associated with the manuscript ¡V this can include text, images, and descriptions. Some of this information will be mandatory; other items will be optional. Each Submission step is outlined below. This information is customized by the Publication; therefore, some steps may or may not be part of your submission process.
+
+Note: If an Author needs to stop a submission, any information entered will not be lost. The Author will find the submission in the ¡¥Incomplete Submissions¡¦ folder in the ¡¥Author Main Menu¡¦.
+Submission Step Limits
+
+The Editorial Office has the ability to restrict the number of words or characters used for the following Submission steps:
+
+o Full Title
+o Short Title
+o Abstract
+o Comments
+o Authors
+o Keywords
+o Classifications
+
+If the word or character count limitations imposed by the Publication have been exceeded, the user may not continue the next step. If this is the case, a warning box will appear if the user clicks ¡¥Next¡¦. Once the word or character requirement has been met, the user may click ¡¥Next¡¦ to proceed to the next Submission step.
+
+Submission Steps
+
+Once an Author has logged into the system, the ¡¥Author Main Menu¡¦ will be displayed:
+
+
+
+Click on the on the ¡¥Submit New Manuscript¡¦ link. Authors will be asked to enter data that are associated with the manuscript ¡V this can include text, images, and descriptions. Some of this information will be mandatory; other items will be optional. Each Submission step is outlined below. This information is customized by the Publication; therefore, some steps may or may not be part of your submission process.
+
+Note: A symbol () will be displayed next to imcomplete steps if required information is missing or incorrectly completed.
+
+Submission Step Limits
+
+The Editorial Office has the ability to restrict the number of words or characters used for the following Submission steps:
+
+o Full Title
+o Short Title
+o Abstract
+o Comments
+o Authors
+o Keywords
+o Classifications
+
+If the word or character count limitations imposed by the Publication have been exceeded, the user may continue to the next step, but will see a red exclamation mark above the step on the progress bar, and he or she will be unable to finalize the submission until all warnings have been addressed.
+
+
+Article Type Selection
+
+The first step of the EM manuscript submission process is to select an Article Type, which is a required step in the submission process. Using the drop-down, select the Article Type that best describes the manuscript. The Article Type designation determines which additional steps will be displayed. (For example, an Abstract may not be part of a ¡¥Letter to the Editor¡¦; therefore, that step will not appear in the process if that Article Type has been selected.) Click ¡¥Proceed¡¦.
+
+
+Attach Files
+
+The journal will have specific instructions for you to the left of the drag-and-drop box.
+
+Browse to or drag and drop to upload a single file that contains your article. Click ¡¥Proceed¡¦ to continue or ¡¥Back¡¦ to change your Article Type.
+
+
+Upload Any Additional Files
+
+All required Items in the drop-down are marked with an asterisk. If an item is not an option in the drop-down, it is likely not permitted by the journal to be part of the submission.
+
+
+
+File Ordering Mechanism
+
+File order can be changed by entering numbers in the text box next to each Submission Item. The files are numbered in the sequence in which they were uploaded. For example, if four files are uploaded, the default value for each Item is 1, 2, 3, and 4, respectively. The user can then change the order of the files by typing in a new order and clicking the ¡¥Update File Order¡¦ button. 
+
+Note: The order of the files in the File Grid dictates the order of items in the PDF that is generated.
+If the Publication has elected to impose a particular file order that differs from the order used, that imposed order will supersede the order used by the Author. If the files are uploaded in an incorrect order the system will alert the Author and update the order according to the Publication¡¦s settings. The Author may change the order of the files that are of the same Item Type, however.
+
+The ¡¥Item¡¦ column in the list of attached files contains drop-downs for each file, so the Submission Item and Description can easily be changed after the file has been uploaded. To change the Item Type, select from the drop-down. To change the Description, type the correct information in the box.
+
+Removing Files
+
+Once files have been attached, you can remove them from the submission individually or in groups. To remove an attached file, select the file¡¦s check box in the File Grid and then click the ¡¥Remove¡¦ button. ¡¥Check All¡¦ and ¡§Clear All¡¦ links are available for selecting/deselecting all files. Once one or more files are selected, a ¡¥Remove¡¦ button is enabled, allowing the user to remove the selected files. You may select any number of attached files for removal using these steps.
+
+General Information
+
+The journal may collect general information related to your submission including but not limited to the Region of Origin of the research, the Section/Category of the journal that your submission most closely fits, Keywords or Classifications related to your submission. Whenever possible, use the Classification list provided to indicate the subject matter. In cases where a suitable term is not available, use the Keywords to add it. The instructions will indicate if the information is required. Otherwise, it is optional.
+
+Reviewer Preferences: Suggest and Oppose Reviewers
+
+Suggest Reviewers
+
+If this function is enabled by the Editorial Office, Authors will be asked or required to provide names and contact information for as many Reviewer candidates as the Publication requires for a submission. Please click Suggest Reviewers > Add Suggested Reviewer and provide the required information.
+
+Oppose Reviewers
+
+If this function is enabled by the Editorial Office, Authors will be given the opportunity to oppose a Reviewer. Please click Oppose Reviewers > Add Opposed Reviewer and provide the required information.
+
+
+
+Additional Information
+
+The submission step called ¡¥Additional Information¡¦ allows the Publication to present custom questions that can be answered during the Submission process. Examples of questions include: ¡¥How many pages is the manuscript?¡¦ and ¡¥Do you have color images?¡¦.
+
+Some questions may be configured with multiple steps, dependent on your previous responses. In these cases, new sub-questions will appear as you answer a question with multiple parts. Additionally, answers may be optional or required. Red text indicates a question that requires a response. 
+
+
+
+
+Comments
+
+Enter any Comments to be sent to the Editorial Office. These Comments will not appear in the submission PDF.
+
+
+
+Manuscript Data
+
+Title, Abstract, and Authors may have been extracted from your manuscript file and have populated some or all of the fields. Authors should carefully review all fields for accuracy. Required fields will be indicated. All required information must be provided in order to proceed to building your submission PDF. Once you have completed the fields, you can save your submission and submit it later, or proceed to building your PDF and approving it.
+          
+                                       
+  
+
+
+Author PDF Approval 
+
+Authors must approve a submission before it is sent to the Editorial Office. Click the ¡¥Submissions Waiting for Author¡¦s Approval¡¦ folder to bring up a table containing all manuscripts that are waiting to be viewed and approved (see below). In addition to the Action links of the left, the Author may be required to accept terms of submission, by clicking the checkbox next to ¡¥I accept¡¦.
+
+
+
+Once the PDF version of a manuscript has been created by the system, the Author will see a set of Action links in the far left column of the table. 
+
+Note: The actual process of building the PDF may take several minutes, depending on the size of files and outstanding PDF building activity.
+* ¡¥View Submission¡¦ allows the Author to view the PDF that was built. If there is a problem creating the PDF, there will be a message in the PDF explaining what may have caused the problem. If the PDF is acceptable, the Author can proceed to ¡¥Approve Submission¡¦. If the PDF is unacceptable, the Author can proceed to ¡¥Edit Submission¡¦.
+* ¡¥Edit Submission¡¦ allows the Author to remove or add files, make spelling corrections or description changes, etc. If any changes are made, a new PDF must be built. Once the Author has viewed the new PDF and deemed it acceptable, he or she can proceed to ¡¥Approve Submission¡¦ to send it to the Editorial Office.
+* ¡¥Approve Submission¡¦ allows the Author to complete the process and send the submission to the Editorial Office.
+* ¡¥Remove Submission¡¦ allows Authors to remove a manuscript from the system (the manuscript will never be received by the Editorial Office and will be deleted from the system). Authors can use this link to restart the process fresh, if desired. 
+
+The Author must View the Submission, agree to any terms specified, and Approve the Submission. Once the Author approves the submission, it will move to the ¡¥Submissions Being Processed¡¦ folder in the ¡¥Author Main Menu¡¦.
+
+
+Fees and Payments
+
+Submission Fees
+
+For some Publications, Authors will have access to the ¡¥Fees and Payments¡¦ page for each submission that has at least one payment required. 
+
+Authors may access the ¡¥Fees and Payments¡¦ page in the following ways: 
+
+1) At the end of the manuscript submission process, if a Submission Fee is configured for the submission¡¦s Article Type, the Author is automatically taken to the ¡¥Fees and Payments¡¦ page after clicking the ¡¥Approve Submission¡¦ link and answering ¡¥OK¡¦ to the alert ¡¥Are you sure you want to approve the submission?¡¦.
+2) At any point after a Fee has been levied on a submission, a new ¡¥Fees and Payments¡¦ link will display in Author folders. Authors may click this link at any point to take action on Fees or view the payment status.
+3) An ¡¥Author Payment¡¦ link may be included in letters. This link will log the Author into the system and navigate them directly to the ¡¥Fees and Payments¡¦ page.
+
+The Submissions Waiting for Author¡¦s Approval folder is the first opportunity the Author has to see the ¡¥Fees and Payments¡¦ page. The submission step for an Author is to approve the submission by clicking the ¡¥OK¡¦ button on the ¡¥Are you sure you want to approve the submission?¡¦ alert. Upon clicking the ¡¥OK¡¦ button, the Author is taken directly to the ¡¥Fees and Payments¡¦ page. 
+
+The ¡¥Fees and Payments¡¦ page displays the settings configured for the appropriate submission. 
+
+In the example below, the Submission Fee has two options ¡V Society Members are levied one submission rate (75.00 USD), and Non-Society Members are levied another submission rate (100.00 USD). This Submission Fee has two possible Payment Method options ¡V ¡¥Bill Me¡¦ or ¡¥Request Waiver¡¦. To complete the submission, the Author would select which pricing option applies, and which payment method he or she would like to use. There is also space for the Author to enter comments to the Publication. 
+
+
+
+Note: The Publication may not make the Request Waiver option available.
+When the Author clicks the ¡¥Proceed¡¦ button on the ¡¥Fees and Payments¡¦ page, he proceeds to the ¡¥Author¡¦s Decision¡¦ page which confirms that he approved the submission (now it will be sent to the Editorial Office) and indicates his selected method of payment for the Submission Fee. 
+
+       Example: Author has selected ¡¥Bill Me¡¦ option
+
+
+       Example: Author has selected ¡¥Request Waiver option
+
+
+If the Author selected ¡¥Credit Card¡¦ for the payment method on the ¡¥Fees and Payments¡¦ page, he or she can then click the ¡¥Pay Now¡¦ button and proceed directly to PayPal where he or she can pay by credit card or personal PayPal account. 
+
+Note: The Author is NOT required to have a personal PayPal account in order to pay any fees by credit card.
+
+
+
+
+Once an Author has completed the credit card transaction, they are returned to EM. 
+
+Note: If the Author is paying with a credit card, the submission will not be forwarded to the Editorial Office until the credit card transaction is successful. If the transaction fails (i.e., the Author¡¦s credit card has expired, invalid card number was entered, etc.) the submission will remain in the Author¡¦s ¡¥Submissions Waiting for Author¡¦s Approval¡¦ folder until the transaction successfully completes or the Author selects another payment method. 
+When the Submission Fee payment is completed by either the ¡¥Credit Card¡¦, ¡¥Request Waiver¡¦, or ¡¥Bill Me¡¦ (options depend on the Publication), the ¡¥Fees and Payments¡¦ link is displayed in relevant Author folders.
+
+
+
+Clicking the ¡¥Fees and Payments¡¦ link takes the Author to the same ¡¥Fees and Payments¡¦ page, except now the Author will see the current payment status, along with any notes the Publication may have entered for the Author. 
+
+
+
+Request Waiver Submission Step
+
+Some Publications will allow Authors to request their fees be waived. Authors likely will be required to enter a reason for the request. This step is found in the Manuscript Data step of submission.
+
+
+
+Once a waiver has been requested, the Author will be notified of any submission approval terms or other relevant information.
+
+
+
+Other Fees
+
+Other Fees (e.g., publication charge, page charges, etc.) are initiated by the Publication after the manuscript has been submitted, at some other point in the editorial or production workflow. The Author will receive an e-mail that a Fee is now due. The e-mail can include a link to the ¡¥Fees and Payments¡¦ page.
+
+
+
+Clicking the payment link takes the Author directly to the ¡¥Fees and Payments¡¦ page, so he or she can pay the Fee (or request a waiver, or request a bill) immediately without having to login to the system. This is just like paying a Submission Fee, as described previously.
+
+
+
+Note: If the submission has more than one fee, the Author must select which fee he or she wants to view on a new ¡¥Select a Fee¡¦ page. After making a selection, he or she will proceed to the ¡¥Fees and Payments¡¦ page as shown above.
+
+
+Additional Views of the ¡¥Fees and Payments¡¦ Page
+
+When Authors access the ¡¥Fees and Payments¡¦ page either via the e-mail link or the ¡¥Fees and Payments¡¦ Action link in the ¡¥Submissions Being Processed¡¦ folder, the page will be slightly different for each Fee. The specific look of the ¡¥Fees and Payments¡¦ page will change depending on:
+
+* Type of Fee (Submission Fee or Non-Submission Fee)
+* Payment Method
+* Pricing Options (single or various amounts available for fee)
+* Payment Status
+
+The basic layout of the page is the same, including customized instructions, Fee-specific instructions, payment information, and any notes to the Author that may be entered for this Fee. Below are some example layouts of what the Author may see.
+
+
+
+
+
+
+
+Submission Fee ¡V Waiver Request Pending example
+
+
+Submission Fee ¡V Credit Card Transaction Successful example
+
+
+
+
+
+
+
+
+
+
+
+
+Fee ¡V Payment Due example
+
+
+Tracking Your Submission
+
+Once the manuscript has been submitted to the Publication, the Author can track its progress by viewing the submission in the ¡¥Submissions Being Processed¡¦ folder. 
+
+Note: It may not be possible to view the status date of a submission, depending on the system configuration chosen by the Publication.
+Artwork Quality Check
+
+If the Publication has this option enabled on its site, figures submitted to the Publication will be processed through EM¡¦s Artwork Quality Checking (AQC) system. The AQC system analyzes the artwork, and provides results back to EM. These results are then made available to the Author and/or the Editor on designated pages. 
+
+Displaying AQC Results
+
+After submission files are uploaded and sent to be built into a PDF, all designated files are sent to the AQC tool. From the ¡¥Submissions Waiting Approval¡¦ or ¡¥Revisions Waiting Approval¡¦ pages, a link will appear labeled ¡¥View Artwork Quality Results¡¦. Authors should click on this link to view the results. Publications have the option to require that Authors view the results before proceeding.
+
+
+
+All files will be listed in the AQC Results, but only those designated as requiring analysis will display any results (i.e., Pass, Pass with Warning, Fail). Authors may View the PDF, Download individual source files, and View the Artwork Quality Results for each file.
+
+Example: AQC Results page
+
+
+When the Artwork Quality Results are viewed, a ¡¥Proflight Detail Report¡¦ will provide analysis of the file.
+
+Example: Analysis of the Artwork Quality Check
+
+
+The Artwork Quality Results will also display specific information regarding any problems with the file, as well as possible solutions. This means that an Author can make any necessary changes to the artwork files and upload new files, better suited for production.
+
+
+
+
+
+
+
+
+
+
+
+Example: Diagnostic information from the Artwork Quality Check
+
+
+Similarity Check Results
+
+If the Publication is performing a CrossCheck Similarity Check on submissions, Authors may be given access to a version of the Similarity Report. If the Author has the ability to view this report a ¡¥CrossCheck/iThenticate Results¡¦ Action link will be available for the submission. The score of the report displays next to the link. 
+
+Partial display; ¡¥Submissions Being Processed¡¦ folder
+
+
+Clicking the link will open the Similarity Report for this submission in a new window. The Author will be able to read the information, but is not logged into the Publication¡¦s iThenticate account; they are only viewing the report results.
+
+Sample iThenticate Page
+
+
+The link may show in any of the following Author folders:
+* ¡¥Submissions Sent Back to Author¡¦
+* ¡¥Incomplete Submissions¡¦
+* ¡¥Submissions Waiting for Author's Approval¡¦
+* ¡¥Submissions Being Processed¡¦
+* ¡¥Submissions Needing Revision¡¦
+* ¡¥Revisions Sent Back to Author¡¦
+* ¡¥Incomplete Submissions Being Revised¡¦
+* ¡¥Revisions Waiting for Author's Approval¡¦
+* ¡¥Revisions Being Processed¡¦
+
+The Author may also see the link on the Confirmation page displayed to the Author after they approve their submission or revision, if a Similarity Check has been completed for that submission.
+
+Reference Checking
+
+Some Publications opt to use EM¡¦s Reference Checking, which will automatically check the accuracy of the references listed in the manuscript¡¦s References section. 
+
+Reference Checking will attempt to find each reference in PubMed and/or CrossRef. However, Reference Checking will not search for books or in-press articles, as that type of content is not listed in PubMed or CrossRef. If Reference Checking is able to find the reference in PubMed and/or CrossRef, a link to that record is created.
+
+If the Publication has Reference Checking enabled, Authors may be given access to the results. In that case, they will see a link that says ¡¥View Reference Checking Results¡¦:
+
+
+
+Clicking on the ¡¥View Reference Checking Results¡¦ link will allow the Author to see the results of Reference Checking:
+
+
+
+If the reference is ¡¥Validated¡¦, then Reference Checking was able to find a match on either PubMed, CrossRef, or both. If the reference is ¡¥Not Validated¡¦, then Reference Checking was not able to find a match on PubMed or CrossRef. If the reference is ¡¥Not Checked¡¦, the reference does not appear to be a journal reference. 
+
+Send E-mail
+
+Authors will be notified when the Publication has made a decision. If the Publication has provided access, the Author will see a ¡¥Send E-mail¡¦ link within the Action links. This will allow the Author to send an e-mail to the Publication at any time. The Publication will have set up either one or multiple Ad Hoc e-mails that can be modified for use by an Author. In some cases, using an Ad Hoc letter will allow users to attach files to the letter by choosing from personal files. 
+
+Partial display; Example ¡¥Submissions Being Processed¡¦ folder
+
+
+When an Ad Hoc letter is configured to allow attachments, then the sender of the letter will see a new ¡¥Add/Change Attachments¡¦ button on the ¡¥Customize Letter¡¦ page. 
+
+
+
+Clicking the ¡¥Add/Change Attachments¡¦ button will open a window where files can be uploaded by clicking the ¡¥Browse¡¦ button and and navigating to the file to be added. 
+
+
+
+When the upload is complete, the attached file will display in a grid on the page. When the user is done adding and selecting files, clicking the ¡¥Proceed¡¦ button returns the user to the ¡¥Customize Letter¡¦ page. 
+
+
+
+If the user removes any previously attached files and clicks ¡¥Proceed¡¦ on the ¡¥E-mail Attachment Upload¡¦ page, they are removed from the letter
+
+Other Author Access to Submissions
+
+Publications may configure Article Types to require that any Other Authors of a submission must register with the Publication to confirm that they are a contributing Author. When an Other Author successfully registers/logs in to confirm a contribution to a submission, they will be given access to view the status of the submission as it goes through the editorial process.
+
+Submissions for which the logged-in Author served as an Other Author are now included in their ¡¥Submissions Being Processed¡¦, ¡¥Revisions Being Processed¡¦, and ¡¥Submissions with a Decision¡¦ folders, as applicable.
+
+An ¡§Authorship¡¨ column is added to these folders to display the current user¡¦s relationship to the submission (¡§Corresponding Author¡¨ or ¡§Other Author¡¨). The new column is displayed in these three folders only if the currently logged-in Author is associated with at least one submission as a registered Other Author. If the Author is associated with at least one submission as a registered Other Author, the column displays in all three folders, even if they do not contain the submission for which the Author was an Other Author.
+
+
+
+Authors may be granted the permission to ¡¥View Other Author Status¡¦. Authors see a ¡¥View Other Author Status¡¦ Action link that leads to the Author version of the ¡¥Other Author Status¡¦ page, if
+
+1) The logged in user is the Corresponding Author on the submission, and
+2) There are Other Authors on the submission, and at least one of them has been notified that verification of their contribution is required, and 
+3) The submission¡¦s current Article Type is configured to either require Co-Author verification or Co-Author registration.
+
+
+
+
+
+The Author Names are links to the ¡¥View Author Detail¡¦ page for each Other Author, where the Corresponding Author may see the information that was entered for each Other Author when a manuscript was submitted.
+
+Sample Author Details page ¡V Corresponding Author view
+
+
+When the Corresponding Author is given permission to ¡¥Manage Other Authors¡¦, the ¡¥Options¡¦ column is displayed on the Author Details page. Authors may see the following links in this column:
+
+1. ¡¥View Questionnaire Responses¡¦ allows the Corresponding Author to view Questionnaire responses submitted by Other Authors. Clicking on the link navigates the Corresponding Author to the ¡¥View Author Questionnaire¡¦ page.
+2. ¡¥Questionnaire Not Completed¡¦ displays if an Author Questionnaire is configured for the Article Type, but Other Authors have not yet submitted responses. 
+3. ¡¥Resend Letter¡¦ allows the Corresponding Author to resend a letter configured for Other Authors. 
+4. ¡¥Request Confirmation¡¦ allows the Corresponding Author to send a letter configured for Other Authors for the first time. 
+
+Corresponding Authors with ¡¥Manage Other Authors¡¦ permission will see a ¡¥Send Letters¡¦ button on this page. Clicking this button will send letters to all Other Authors with a status of ¡¥No Response¡¦ or ¡¥Confirmation Not Requested¡¦. Additionally, Corresponding Authors may be given permission to Manage Other Authors¡¦ verifications and update Other Authors¡¦ E-mail Addresses directly from the ¡¥Author Status¡¦ page. 
+
+Submitting Revised Manuscripts
+
+When asked to revise your submission, the submission moves into the folder called ¡¥Submissions Needing Revision¡¦ under the Revisions heading on the ¡¥Author Main Menu¡¦ page.
+
+
+
+From this folder the following Action links are available: ¡¥View Submission¡¦, ¡¥File Inventory¡¦, ¡¥Revise Submission¡¦, ¡¥Decline to Revise¡¦, and ¡¥Send E-mail¡¦ (when made an option). The Corresponding Author can also View Decision from the far right of the grid.
+
+View Submission
+
+The ¡¥View Submission¡¦ link allows the Author to see the PDF of the most recent version of the submission.
+
+File Inventory
+
+The ¡¥File Inventory¡¦ link allows the Author to download any of the source files that make up the submission. Authors can access submission files and work on them before clicking the ¡¥Revise Submission¡¦ link.
+
+
+
+Attachments
+
+If the Publication¡¦s EM site is configured to do so, then Reviewers or Editors may download source files, annotate them as needed, and upload them into the system. Non-manuscript files such as images or related materials may also be uploaded. The Editorial Office may give the Author access to these files to aid in submitting a revision. If Attachments are available to an Author, a ¡¥View Attachments¡¦ Action link will be present.
+
+Submit Revision 
+
+The ¡¥Revise Submission¡¦ link in the ¡¥Submissions Needing Revision¡¦ folder provides access to the ¡¥Submit Revised Manuscript¡¦ interface that leads the Author through the submission process.
+
+This interface is similar to the ¡¥Submit New Manuscript¡¦ interface. When the Author arrives at the Attach Files step in the process, he or she is presented with the list of source files from the previous version. The Author may choose whether or not to carry over files from the previous version to the Revision. If the Author does not want to carry over a file, he or she unchecks the ¡¥Include in Revision¡¦ box on the first Attach Files screen.
+
+
+
+
+
+
+
+
+
+
+To remove any file, check the checkbox on the right of the second ¡¥Attach Files¡¦ screen and click ¡¥Remove¡¦. To upload new files, do as you did for your original submission, selecting file types and browsing to or dragging and dropping the files.
+
+
+
+Click ¡¥Proceed¡¦ to step through the remaining submission steps. Some steps may be different than on original submission, so it is important to review all of them. For example, the questions under ¡¥Additional Information¡¦ may be different for revisions.
+
+A ¡¥Respond to Reviewers¡¦ submission step may be displayed in the Comments section of the submission interface. In this space you can enter responses to the Reviewers' feedback. If the ¡¥Respond to Reviewers¡¦ submission step is Required, it will not be possible to build the revision PDF until text has been entered in the ¡¥Respond to Reviewers¡¦ text box. You may, alternatively, be asked to upload a file that contains your responses to the Reviewers.
+
+
+
+The Author may have access to the submitted responses to Reviewer Comments in the ¡¥Revisions Being Processed¡¦ and ¡¥Submissions with Decision¡¦ folders.
+
+When you reach the Manuscript Data step, you may again find that the system has automatically extracted Title, Abstract, and Authors information from your revised manuscript file. If there are differences between the original submission and the revision in the Title and Abstract fields, you will see a side-by-side comparision of those fields where you can select the version that you want to keep. If there are any changes in the author list, you will see a yellow triangle warning symbol. As before, Authors should carefully review all fields for accuracy.
+
+
+
+Once you are satisified with the revision, you may proceed to build and approve your revised PDF. If any warnings remain, you will need to address them before you can build your PDF and submit your revision.
+Viewing Correspondence History
+
+Throughout the submission process, letters are sent to the Author regarding the submission, from the notification that the PDF is built and ready to be approved through to the point that the Author is notified of an Editor¡¦s decision. 
+
+If enabled, all Authors are given access to a ¡¥Correspondence History¡¦ page. The Author¡¦s ¡¥Correspondence History¡¦ page lists only those letters sent to or from the Author via the system, or those sent outside the system but added manually by an Editor. Such letters include:
+
+* Any letter where the Author is the recipient, including Production Task Assignment letters and letters related to Fees, such as Payment Due letters.
+* Any Ad Hoc from Author letter sent by the Author.
+* The Submit letter sent by the Author. 
+* External correspondence added manually by the Editor. 
+
+Authors will see a ¡¥Correspondence¡¦ Action link in most of the folders displayed on their Main Menu:
+
+
+
+When this link is clicked, a pop-up window will display all letters sent to or from the Author regarding this submission. Letters are displayed in date order (newest on top), but can be sorted using the sort arrows.
+
+
+
+External correspondence will display for the Author on the ¡¥History¡¦ page. The item will be marked with (External) to denote this message as having been added manually by an Editor.
+
+
+
+Decline to Revise
+
+This link is used when an Author decides not to submit a Revision. The submission record then moves to the Author¡¦s Decline Revisions folder. If this is done in error, the Author will be able to reinstate a Declined Revision.
+
+
+Reinstate a Declined Revision
+
+If an Author accidentally clicks on ¡¥Decline to Revise¡¦ or the ¡¥Remove¡¦ link, the submission should be reinstated, instead of submitting a New Manuscript. Reinstating a submission allows the revision process may continue. The Author should contact the Editorial Office for assistance. 
+
+View Decision
+
+An Author can view the Decision Letter by clicking on the link in the ¡¥View Decision¡¦ column.
+
+Author Rebuttal of a Rejected or Withdrawn Submission
+
+This feature is used when an Author wishes to dispute a Reject decision or reverse a Withdrawn submission. The Author will need to contact the Editorial Office outside of the system to inform the Editors of the desire to rebut the decision.
+
+Invited and Commissioned Papers
+
+Some Publications have a pre-submission phase, during which time Authors are invited to submit articles. The invitation may be for a specific subject area, a symposium in print, or a festschrift honoring a distinguished colleague (i.e., a retiring Editor from an eminent publication). There are two general scenarios in which Author solicitations may occur:
+
+1) Commentaries: A Publication may solicit commentaries on a submitted article (that may or may not have yet been accepted for publication). This feature provides a way to invite an Author to submit a paper and link the existing (¡¥parent¡¦) submission to the associated Commentaries.
+2) Proposals: A Publication invites a leading expert (or experts) to submit a manuscript about a particular topic,  or a Publication devotes an entire issue (special issue) to invited manuscripts for a particular topic(s). This feature provides a way to invite Authors to submit papers and link the submissions for the purpose of tracking.
+
+Invited Author¡¦s Perspective
+
+Invited Authors are notified of an invitation to submit a manuscript via an e-mail. Once the e-mail has been received, the Author must log into the system. On the ¡¥Author Main Menu¡¦ there will be a new heading called ¡¥Invited Submissions,¡¦ with two folders below:
+
+* ¡¥My New Invitations¡¦: This folder holds Proposals and Commentary Solicitations for which the Author has not yet ¡¥Agreed¡¦ or ¡¥Declined¡¦ to submit a related article. A link appears for the Author to ¡¥View Submission Requiring Commentary¡¦. The Author is also given a link to ¡¥View Invitation Letter¡¦ sent by the Editorial Office. Additional links provide the Author the ability to ¡¥Agree to Submit¡¦ or ¡¥Decline to Submit¡¦.
+
+
+
+* ¡¥My Accepted Invitations¡¦: This folder holds Proposals and Commentary solicitations for which an Author has agreed to submit a related article. A link appears for the Author to View the ¡¥parent¡¦ submission for which an opinion/commentary is requested. Authors are also given a link to the invitation letter sent by the Editorial Office. Submissions move out of this folder once the ¡¥Submit Invited Manuscript¡¦ link is clicked and the submission is submitted. The submission moves into the regular folders for Submitting and Incomplete ¡V just like a regular manuscript.
+
+Note: In some cases, particularly book chapters or situations in which the Editorial Office has already made contact with you about a submission, you may find that you have been assigned to a submission rather than having been invited.
+1
+
+
+Confidential ¡V Subject to change ¡V Copyright ? 2018, Aries Systems Corporation - 3
+

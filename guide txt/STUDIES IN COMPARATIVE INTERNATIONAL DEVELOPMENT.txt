@@ -1,0 +1,108 @@
+Studies in Comparative International Development Instructions for Authors 
+
+Studies in Comparative International Development (SCID) (ISSN 0039---3606) is an 
+interdisciplinary journal that addresses issues concerning political, social, economic, 
+and environmental change in local, national, and international contexts. Among its 
+major emphases are political and state institutions; the effects of a changing 
+international economy; political---economic models of growth and distribution; and the 
+transformation of social structure and culture. 
+
+The journal has a tradition of presenting critical and innovative analytical 
+perspectives that challenge prevailing orthodoxies. It publishes original research 
+articles on the developing world and is open to all theoretical and methodical 
+approaches. 
+
+Word count for all submissions should not exceed 10,000 words including notes, 
+references, tables and figures. The abstract is not included in the word count. Longer 
+submissions will not be considered. Authors may include further material in an online 
+appendix. 
+
+To submit a manuscript, go to: http://www.editorialmanager.com/scid/ 
+
+SUBMISSION GUIDELINES 
+
+1. Submission is a representation that the manuscript has not been published 
+previously and is not currently under consideration for publication elsewhere. A 
+statement transferring copyright from the authors (or their employers, if they hold 
+the copyright) to Studies in Comparative International Development will be 
+required before the manuscript can be accepted for publication. 
+2. Manuscripts and accompanying materials may be submitted in a wide range of 
+supported file formats, including: MS Word, WordPerfect, RTF, TXT, TIFF, GIF, JPEG, 
+EPS, LaTeX2E, TeX, Postscript, PICT, Excel, Tar, Zip, and Powerpoint. PDF is not an 
+acceptable file format. Manuscripts must be double---spaced, leaving margins of at 
+least 1." Manuscript length should be reasonable for the contribution offered. 
+3. A title page is to be provided and should include the title of the article, author’s 
+name (no degrees), author’s affiliation, and suggested running head. The affiliation 
+should comprise the department, institution (usually university or company), city, 
+and state (or nation). For office purposes, the title page should include the email 
+address and telephone number of the one author designated to review proofs. 
+4. An abstract, no longer than 200 words, is to be provided on a separate page. 
+5. A list of 4---5 key words is to be provided directly below the abstract. Key words 
+should express the precise content of the manuscript, as they are used for indexing 
+purposes. 
+
+6. American rather than British spellings should be used (e.g., labor vs. labour; while 
+vs. whilst; democratization vs. democratisation; center vs. centre). If foreign 
+spellings appear as part of quoted material or titles, leave as is. 
+Single quotation marks should be used only when a quotation appears within 
+another quotation. 
+
+It may be helpful to run a spell check using the American dictionary in MS Word. 
+
+7. Mathematical notation should be typewritten wherever possible. If handwritten 
+notation must be used, it should be clear and legible, with any necessary 
+explanatory notes located in the margin. Equations should be numbered 
+consecutively with Arabic numerals in parentheses and should be referred to in the 
+text. Equation references in the text should be abbreviated such as: As shown in Eq. 
+(5), the model … 
+8. All sections should be in boldface type (such as Introduction). Subsections should 
+be in normal type (such as Second−ValueSubheading). An independent single 
+number system (one for each category) should be used to label all theorems, 
+propositions, corollaries, definitions, remarks, examples, etc. The label (such as 
+Theorem 4) should be typed with paragraph indentation, followed by a period and 
+the theorem itself. 
+9. Figures or illustrations (photographs, drawings, diagrams, and charts), are to be 
+numbered in one consecutive series of Arabic numerals (e.g., Fig. 3). The captions 
+for illustrations should be typed on a separate sheet of paper. Figures should be 
+prepared with some clear, high contrast process (e.g., laser printer). Either original 
+drawings or good quality photographic prints are acceptable. Figure captions are 
+abbreviated (e.g., Fig. 3. Time series plot). 
+10. Tables should be numbered (preferably with Arabic numerals) and referred to 
+by number in the text (without abbreviation). Each table should be typed on a 
+separate sheet of paper. 
+11. Citations within the text should be styled as: Jones (1987) or (Jones, 1987), 
+whichever is appropriate. Where there are three or more authors, only the first 
+author’s name is given in the text, followed by et al. (e.g., Jones et al. 1983). Specific 
+page citations in the text should be styled as: Jones (1987: 108–109) or (Jones 1987: 
+118–119). 
+12. Punctuation and style of the references should conform to that illustrated by the 
+following examples: 
+1. Journal article 
+
+Smith JJ. The world of science. Am J Sci 1999;36:234–5. 
+
+2. Journal article with DOI included 
+O'Mahony S, Rose SL, Chilvers AJ, Ballinger JR, Solanki CK, Barber RW, et al. 
+Finding an optimal method for imaging lymphatic vessels of the upper limb. 
+Eur J Nucl Med Mol Imaging 2004;31:555–63. doi:10.1007/s00259---003--1399--
+
+
+
+3. Journal article in a supplement 
+Frumin AM, Nussbaum J, Esposito M. Functional asplenia: demonstration of 
+splenic activity by bone marrow scan. Blood 1979;59 Suppl 1:26–32. 
+
+4. Book chapter 
+Wyllie AH, Kerr JFR, Currie AR. Cell death: the significance of apoptosis. In: 
+Bourne GH, Danielli JF, Jeon KW, editors. International review of cytology. 
+London: Academic; 1980. p.251–306. 
+
+5. Book, authored 
+Blenkinsopp A, Paxton P. Symptoms in the pharmacy: a guide to the 
+management of common illness. 3rd ed. Oxford: Blackwell Science; 1998. 
+
+
+http://www.springer.com/journal/12116 
+
+
+

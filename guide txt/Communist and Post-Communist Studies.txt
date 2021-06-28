@@ -1,0 +1,159 @@
+Author Guidelines for Communist and Post-Communist Studies
+ 
+ 
+General Contact Information
+ 
+Please send editorial correspondence to the managing editor at CPCS@ucpress.edu.
+ 
+About the Journal
+
+Communist and Post-Communist Studies (CPCS) is an international, peer-reviewed scholarly journal featuring comparative research on current and historical developments in the communist and post-communist world. Post-communist states and societies encompass Central and Eastern Europe, the former Soviet Union, Southeast Asia, Africa, and Latin America, for which the term "post-communist" remains analytically useful as a temporal or geographical frame. The journal broadly covers domestic politics and societies, foreign policy and international relations, ideology and identities, political economy, political and human geography, and law.
+ 
+CPCS is committed to methodological pluralism and invites contributions from diverse disciplinary perspectives. The journal publishes theoretically-informed case studies, cross-national analyses, and cross-regional comparison involving communist and post-communist states and societies, as well as historical or theoretical analyses bearing comparative significance. CPCS promotes the voices and perspectives of scholars from all regions who contribute to, and engage with, international research on the communist and post-communist world. 
+ 
+In addition to original research articles, CPCS publishes shorter Research Notes discussing new sources of data, archival research, fieldwork techniques, or ethical challenges of broad interest to the research community. CPCS also welcomes proposals from Guest Editors for special issues.
+ 
+The journal publishes research-based manuscripts. It does not publish descriptive or synthetic works lacking original research or theoretical relevance.
+ 
+ 
+ 
+Peer Review
+ 
+All submitted manuscripts that pass initial screening by the journal¡¦s editor will undergo double blind peer review. For special issues, a single set of referees (usually including a member of the editorial board) may be used to review all submissions.
+ 
+Manuscripts are rarely accepted without revisions. The journal will attempt to send revised manuscripts to one or more of the original referees from the initial review. If the original reviewers are unavailable, the editor will contact additional reviewers. The decision on whether to publish a manuscript is based upon reviews but the editor is not bound by them.
+ 
+Manuscript Submissions
+ 
+Manuscripts are required to be submitted online through Scholastica. Authors will need to login using an existing Scholastica account or create a new one in order to submit. For an overview of working with Scholastica as an author, please consult the Author Guide. Any technical or software questions should be directed to Scholastica customer support.
+ 
+Submissions must not have been previously published or be under consideration or review for publication elsewhere. This also includes publication online.
+
+Authors may not submit more than one manuscript for consideration at any given time.
+ 
+Types of Manuscripts
+ 
+Research Article
+These submissions should run 8,000¡V10,000 words in length including abstracts, references, footnotes, figure captions, and appendices.  
+ 
+Research Note
+These submissions should run 5,000¡V6,000 words in length including abstracts, references, footnotes, figure captions, and appendices.
+Please inquire directly with the editor for special consideration regarding longer or shorter submissions prior to submission.
+ 
+ 
+Manuscript Preparation
+ 
+Initial submissions must include two separate pieces: (1) a title page and (2) an anonymized version of the manuscript.
+ 
+ 
+1. 	The title page should include the title of the manuscript, author name(s), author affiliation(s), biographical note(s), acknowledgments, funding details, and disclosure statement. A title page template can be downloaded here.
+¡P   	If there is a data set associated with the paper, please include on the title page information regarding where the data supporting the results or analyses presented in the paper can be found. If you choose to share or make the data underlying the study open, please deposit your data in a recognized data repository prior to or at the time of submission.
+2. The anonymized version of the manuscript file should include the title, abstract, keywords, footnotes (if necessary), references, tables, figures, and appendices. The author¡¦s name (or authors¡¦ names) should not appear on the manuscript or be used in the file name of any electronic submission. Cite works by yourself in the third person; do not include personal notes (acknowledgements, thanks, references to oral presentation, etc.). These may be added later, if the article is accepted.
+o   Title: The title should be included at the top of the first page.
+o   Abstract: This should be no more than 250 words. It should summarize the argument and define the methodological approach of the article. It should be written in the third person.
+o   Keywords: There should be 3¡V5 keywords (a maximum of 5).
+o   Footnotes: These should be used sparingly, numbered using cardinal numbers (1, 2, 3¡K), and appear as size 10 font in Times New Roman.
+o   Equations: These should be editable.
+o   Units: Please use SI units.
+o   References: References should appear at the end of the manuscript and should be in English.
+¡±  Format: The references should be in Harvard format. Guidance on proper Harvard formatting can be found at the following links.  https://www.mendeley.com/guides/harvard-citation-guide or:  https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/library/public/harvard.pdf
+¡±  Sources that have DOIs should include DOIs and not web addresses.
+¡±  The aim of citation is clarity and scholarly verification: in the end, it is the author¡¦s responsibility to make sure that such references are accurate and will serve to instruct and aid the readers of CPCS. When in doubt, more information is better.
+¡±  Commonly used reference managers (like Zotero, Mendeley, and Endnote) may make available output styles for CPCS. When using a reference manager, remove all field codes in Word prior to submitting your manuscript.
+¡±  Parenthetical Citations: Use in-text parenthetical citations with the following format (Carter and Willoughby-Herard, 2017, p. 35; Jordan-Zachery, 2016, p. 156). Always strive to include an exact page number in parenthetical citations in text. If you only are able to reference the author and year do so following this format (Hayes 2016; Allen 2016).
+o   Appendix/Appendices. These should appear after the references.
+o   Tables: These must be in Word and in separate files. Each table must have a title.  Footnotes to tables should be headed ¡§Note¡¨ and specific notes referred to with a, b, c, and so forth.
+o   Figures: These should be in TIFF, JPG, or PDF format. Figures should be a minimum of 300 dpi at desired print size. Line art should be provided as Illustrator EPS files with a dpi of 600 to 1200 dpi, in bitmap mode (not grayscale).
+¡±  Figures should be numbered consecutively in the order in which they are mentioned in the text. Please include the figure number, caption, and source (using the wording prescribed by the copyright holder, if necessary). Subsequent references may be shorter than the first one.
+¡±  Example:
+Figure 1. Mosaic above the Imperial Door in the narthex of Hagia Sophia, Istanbul. Photo by H. A. Drake.
+o   Supplementary material (if applicable)
+o   Video files
+¡´  	Resolution: Recommended: 1280 x 720 (16 x 9 HD) and 640 x 480 (4:3 SD). There is no required minimum resolution; in general, the higher resolution the better. For older content, lower resolution may be unavoidable.
+¡´  	Bit rate: Because bit rate is highly dependent on codec, there is no recommended or minimum value. Videos should be optimized for resolution, aspect ratio, and frame rate rather than bit rate.
+¡´  	Frame rate: The frame rate of the original video should be maintained without resampling. Pull down and other frame rate resampling techniques are strongly discouraged.
+¡´  	Codec: H.264, MPEG-2 or MPEG-4 preferred
+¡´  	File types: .3gp, .avi, .mov, .mp4, .mpg, .flv, .swf, .mkv
+¡´  	File size: Up to 1 GB
+¡´  	Duration: Up to 10 minutes
+¡´  	File name should include a key work from the title and figure number
+¡´  	When in doubt, convert files to MPEG4 video with MP3 audio, or follow YouTube guidelines.
+¡´  	Inquiries to accommodate larger or longer files should be sent to the editorial office
+o   Audio files
+¡´  	Codecs: MP3 or AAC preferred
+¡´  	File Size: Up to 100 MB 
+¡´  	Duration: Up to 10 minutes
+¡´  	Sampling rate: 44.1 kHz. For older content, lower frequencies may be unavoidable.
+¡´  	Bit Rate: 128 kbps preferred. For older content, lower rates may be unavoidable.
+¡´  	Channels: 2 (stereo) preferred.
+¡´  	File name should include a key word from the title and figure number
+ 
+ 
+ 
+Journal Style
+ 
+The journal follows the Chicago Manual of Style, 17th edition, except where indicated otherwise. It also uses current American spelling and typographical practice. CPCS uses the Merriam-Webster Collegiate Dictionary, 11th edition (http://www.merriam-webstercollegiate.com). 
+Quotations from foreign languages must be translated in the text, with the original in the footnote, if necessary. Isolated foreign words should be italicized. Full foreign-language quotations should be in Roman type and put within quotation marks. Foreign personal titles, names of buildings, monuments. or rooms (Ara Pacis), institutions (Museo dei Conservatori), and the like are not italicized. CPCS uses the Library of Congress system of transliteration into roman characters except where prevailing usage differs.
+ 
+1. 	Names and titles¡Xafter the first mention, the last name of a person, living or dead, will suffice unless clarity requires a title or additional name.  A mentioned person¡¦s title, affiliation, country, etc., should be given when referenced for the first time, like ¡§Margaret Thatcher, a British ex-prime minister¡K¡¨ All abbreviations and acronyms should be spelled out when mentioned for the first time.
+
+2. 	Numbers and dates¡Xuse figures rather than spelled-out numbers for cardinal numbers over ten and for all measurements. Form the plural of decades without an apostrophe: ¡§1950s¡¨ rather than ¡§1950¡¦s.¡¨ Dates should be given in the following forms: ¡§25 December 1991,¡¨ ¡§25 December,¡¨ ¡§December 1991,¡¨ and ¡§1991¡V92.¡¨
+ 
+3. 	Dimensions¡Xuse figures rather than spelled-out numbers and spell out units of measurement: ¡§100 feet,¡¨ ¡§43 centimeters,¡¨ ¡§40 Roman miles.¡¨ English or metric units may be abbreviated: 100 ft., 43 cm (no periods with metric abbreviations).
+ 
+ 
+Gender of Author
+ 
+Authors who do not use gender pronouns in the presentation of their scholarship must be respected. Clarify and be certain about the specific gender pronoun that best reflects authorial intention.
+ 
+ 
+The Publishing Process for Accepted Articles
+ 
+When an article is accepted for publication, the editor will provide detailed instructions about the requirements for final submission. The final submission must include figures that meet the standards outlined above.
+ 
+Upon acceptance, the manuscript will be copyedited to conform to the CPCS style. The author will be sent the copyedited article to the author for review and approval. After approval, the article will be typeset and the author will receive a typeset proof for review and approval.
+ 
+Author's Agreement and Permissions
+ 
+When a manuscript is accepted for publication, the author will be sent a publication agreement that must be signed and returned to the managing editor. Authors must also obtain permission to reproduce figures when necessary and pay copyright fees and other costs. Copies of the written permissions should be attached to a copy of the captions/sources lists and accompany the signed publication agreement. 
+ 
+Figure Files
+If a manuscript is accepted for publication, the author must provide high-quality figure files. They must follow the specifications below. The author is also responsible for securing all applicable permissions, pursuant to copyright law.  Failure to secure and verify such permissions will result in the rejection of articles for publication. For more information about copyright and permissions, authors are encouraged to visit the UC Press Journal Author Permissions Resources. 
+ 
+Specifications for Figures:
+¡´  	300 dpi minimum at 5 inches wide or 3.6 megapixels. Images need not exceed 1200 dpi.
+¡´  	To support zoomability, resolution must be high enough to allow identification of relevant details, usually 600 dpi or higher.
+¡´  	Saved as RGB for color, or grayscale for monochrome. Color is preferred.
+¡´  	Saved in TIFF format.
+¡´  	Line art must be scanned at 1200 dpi in bi-tonal mode (1-bit).
+¡´  	File name should include the primary author¡¦s name and figure number
+ 
+Scanning images from books or other publications results in lower quality images. Please avoid using scans, but if their use is absolutely necessary, the author is responsible for correcting pattern (descreening) in PhotoShop and alerting CPCS to the problem.
+ 
+Guidelines for Obtaining Figure Permissions
+ 
+CPCS requires that authors clear rights to figures for reproduction. Please contact the managing editor if you need a copyright permission form to secure permission from the rights holder for the work (e.g., an artist or agent). If your article will be including a number of images, please request an image permission log from the editor. If you have questions about public domain, fair use, or open content, contact the managing editor for additional resources. 
+ 
+Tips for Obtaining Figure Permissions
+ 
+¡´  	Begin to request pictures and permissions as early as possible. Some sources are slow to respond to requests. 
+¡´  	Do the necessary research. Find out who handles permissions for a given artwork or museum. If you need help understanding this process, please review the UC Press Journal Author Permission Resources. If after reviewing those resources you still have questions, please contact the journal editors. 
+¡´  	Scope of rights: request world English-language rights.
+¡´  	Request online/digital permission as well. Some lenders are uncomfortable granting permission for online use. You can explain to them that CPCS is archived permanently on the University of California website. 
+¡´  	As a scholar publishing in a nonprofit academic journal, you can and should negotiate fees. Many rights holders ask high fees, but most will lower them for a scholarly purpose. 
+¡´  	When submitting your final manuscript and figures, enclose photocopies of all the signed permissions and any other documents you receive from rights holders and image lenders. Please write your name and the corresponding figure number at the top of each permission document (fig. 1, fig. 2, etc.) Since you are legally responsible for clearing rights, you should keep the originals permanently. If the deadline for the pictures has arrived and you have the pictures but not all the paperwork, please send the picture with your manuscript, those documents you have, and a letter explaining the status of the outstanding permissions. Forward copies of the remaining documents as soon as they arrive.
+¡´  	Art photographed from a book. Most books print "picture credits" in the front or back, indicating the source of each image. Be sure to consult the credits section of a book before you scan an image from it. If there is no credits page, and the work or photo of the work is not out of copyright, then you may need to write to the permissions department of the publisher to request contact information for the rights holder.
+¡´  	The publisher of a book is usually not the copyright holder for an artwork reproduced in the book. The museum that owns an artwork is usually not the copyright holder for that artwork, though it may assert copyright over a photo of that artwork. Thus, loan forms for the rental of a photo, scan, or transparency are not necessarily the same as copyright permissions.
+¡´  	Lengthy text excerpt may also be in copyright. Fair-use laws permit you to quote within reason (and at length in a review of the book), but in general if you quote at length from a copyrighted text (including a modern copyrighted translation of an old text), you should request permission from the copyright holder (usually the author or publisher).
+ 
+Queries
+ 
+If you have questions about the format of a submission or if you need guidance as to whether a subject is appropriate for CPCS, please write directly to the managing editor at CPCS@ucpress.edu. 
+ 
+
+
+
+
+1
+
+

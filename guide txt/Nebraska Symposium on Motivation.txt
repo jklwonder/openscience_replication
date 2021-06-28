@@ -1,0 +1,291 @@
+Revised: January 2017 
+
+Documentation Guide 
+University of Nebraska Press 
+
+For all fields the press follows the recommendations given in Chicago Manual of Style, 17th edition, and 
+spelling preferences given in Merriam-Webster’s Collegiate Dictionary, 11th edition. UNP discourages 
+following other conventions, namely MLA and AAA, as Chicago is the benchmark for style and 
+documentation in the publishing industry and UNP copyeditors have been trained in its rules. This guide 
+will address Chicago’s systems: notes-and-bibliography and author-date. 
+
+Multiauthor /Contributed Volumes 
+
+While the bibliography in a single-author or co-authored work is placed at the end, in a multiauthor book 
+each chapter may be followed by a brief set of notes and bibliography. The standard formatting rules 
+explained below should be adhered to in the individual note and bibliography entries. In addition: 
+
+ 
+All chapters must use the same system of documentation: whether the notes-and-bibliography system 
+or the author-date system. 
+ 
+Do not combine all sources into one bibliography, regardless of the number of repeated sources 
+mentioned across chapters. 
+NOTES-AND-BIBLIOGRAPHY SYSTEM 
+
+UNP’s first preference is to use shortened citations in the notes linked to a comprehensive bibliography 
+that is organized alphabetically. Short cites lend a clean look to the notes section and are easily navigable 
+and understandable for the reader; a full alphabetical bibliography displays your knowledge of the field 
+and the breadth of your research and is easy for the reader to search. 
+
+Notes and Note markers 
+
+Most important, UNP does not allow footnotes. Please use only endnotes. 
+
+An endnote short cites contains only the author’s surname, a shortened title of the work, and the page 
+number, if relevant. Do not repeat the full bibliographic information in the notes. For example: Wishart, 
+Last Days of the Rainbelt, 134–37. Other style issues to follow: 
+
+ 
+UNP house style prohibits the use of “Ibid.,” “Op. cit.,” “passim,” and other similar abbreviations in a 
+note. Use a short cite or specific page reference instead. 
+ 
+Acknowledgments of any kind should not appear in a numbered note. Either include the 
+acknowledgments in an acknowledgments section or, for contributed volumes, in an unnumbered note 
+at the start of the notes section of each contribution. 
+ 
+Avoid using more than one note marker (number) per sentence. 
+ 
+Note markers should be placed at the end of a sentence or, if it’s absolutely necessary to use multiple 
+notes for clarity, at the end of a punctuated phrase. 
+ 
+Do not use note markers on chapter titles, subheadings, epigraphs, captions, or other display type. In 
+an epigraph, use a brief source / attribution line instead. In a caption, source information should be 
+included at the end of the caption. 
+ 
+Citations to newspaper articles or personal communications or interviews should appear in the notes 
+only, not in the bibliography except archival material. 
+
+Revised: January 2017 
+
+Bibliography 
+
+Bibliographies, if divided into sections, should be divided into two sections only: Archives/Manuscript 
+Materials (personal papers, typescripts, letters and other correspondence, speeches); and Published 
+Works (including dissertations and published government documents). Citations to newspapers and 
+newspaper articles should appear in the notes only. If more than the preferred two sections is absolutely 
+necessary for the reader’s understanding (e.g., a separate category for personal interviews and 
+communications), a headnote must be included at the beginning of the bibliography to explain the 
+rationale for the subdivision. 
+
+Generally, UNP suggests using one of three styles of bibliography: 
+
+ 
+Full Bibliography: First preference. All sources are referenced in the text and notes. 
+ 
+Selected Bibliography: Not all works in the text and notes are cited (only “selected” ones). 
+ 
+[List of] Sources: Reserved solely for discursive citations and usually divided by both chapter and 
+relevant subject(s). Information about the sources appears in paragraph form, not as an alphabetical 
+list. Although this is neither UNP’s preferred form nor considered a standard bibliography, it allows 
+room for background information and clarification on chosen documentation decisions. For example, 
+a list of sources is appropriate when citing numerous older sources for which not all publication 
+information is readily available. 
+If the MS uses a bibliographic essay or only a selected (partial) bibliography, a work’s first mention in 
+each chapter must provide full bibliographic information; subsequent cites in that chapter should use short 
+cites. If that source is cited again in a later chapter, the full biblio information must be repeated as well. 
+
+Archives and Manuscript Materials 
+
+UNP’s preference for an archival citation is a short cite in the notes with a complete entry in the 
+bibliography. In an archive note, the main element is usually a specific item (a letter, a typescript, a 
+memorandum, etc.), which should be given first, then the author or owner, followed by specific location 
+information. The main element in the corresponding bibliography entry is usually either the collection in 
+which the specific item may be found, the author(s) or owners of the items in the collection, or the 
+repository for the collection. Specific items should not be included in a bibliography unless only one item 
+from a collection is cited. 
+
+Example archive source entries 
+
+AAA. Papers of the American Anthropological Association. National Anthropological Archives, 
+Smithsonian Institution, Washington DC. 
+
+CDBC. Cora Du Bois Papers (1961–72). Special Collections Research Center, University of Chicago 
+Library, University of Chicago, Chicago IL. Permission granted by the trustees of the Cora Du 
+Bois Revocable Trust. 
+
+CDBH. Cora Alice Du Bois Papers (spec.coll.ethg.d 852c). Tozzer Library, Harvard College Library, 
+Harvard University, Cambridge MA. 
+New York State Library, Manuscripts and Special Collections, Albany. Warren, Gouverneur Kemble. 
+Journal, SC10668. 
+Welch Dakota Papers. “Oral History of the Dakota Tribes, 1800s–1945, as told to Colonel A. B. Welch, 
+the First White Man Adopted by the Sioux Nation.” http://www.welch-dakotapapers.com. 
+
+Example archive note entries 
+
+15. “Statement of the Executive Board of the AAA,” AAA Bulletins, Annual Report, 1969. 
+
+Revised: January 2017 
+
+17. Du Bois to Foster, May 14, 1970, AAA, Box 109. 
+22. An additional account of this incident can be found in the Welch Dakota Papers. 
+24. The journal of Army Corps of Engineers officer Gouverneur Kemble Warren at the New York State 
+Library is especially interesting. 
+
+53. Du Bois to Seymour, March 26, 1976, CDBC. 
+54. Du Bois to Seymour, October 31, 1977, CDBC. 
+65. Cora Du Bois to Pat and Gérard Du Bois, December 21, 1984, CDBH, Box 19. 
+66. Du Bois to Read, September 28, 1978, CDBH, Box 28. 
+Published Works 
+
+NOTE: Large and well-known cities do not need the corresponding state name, e.g.: Berlin, Boston, 
+Buenos Aires, Chicago, London, Los Angeles, New Orleans, New York, Paris, Philadelphia, San 
+Francisco, New Orleans, New York, Seattle. Other cities should include the country or state name, except 
+for citations to university presses whose names include the state name. Thus: “Lincoln: University of 
+Nebraska Press” but “Bronx NY: Fordham University Press.” 
+
+Book with a Single Author 
+Full: 1. Herbert Asbury, The Barbary Coast: An Informal History of the San Francisco Underworld 
+(New York: A. A. Knopf, 1933), 5–13. 
+Short: 2. Asbury, Barbary Coast, 66. 
+Biblio: Asbury, Herbert. The Barbary Coast: An Informal History of the San Francisco Underworld. 
+New York: A. A. Knopf, 1933. 
+
+Book with Multiple Authors 
+Full: 1. Jonathan Parshall and Anthony Tully, Shattered Sword: The Untold Story of the Battle of 
+Midway (Washington DC: Potomac Books, 2005), 205. 
+Short: 2. Parshall and Tully, Shattered Sword, 100–102. 
+Biblio: Parshall, Jonathan, and Anthony Tully. Shattered Sword: The Untold Story of the Battle of 
+Midway. Washington DC: Potomac Books, 2005. 
+
+Book with an Editor 
+Full: 1. Andrew F. Smith, ed., Oxford Companion to American Food and Drink (New York: Oxford 
+University Press, 2007), 554. 
+Short: 2. Smith, Oxford Companion, 608. 
+Biblio: Smith, Andrew F., ed. Oxford Companion to American Food and Drink. New York: Oxford 
+University Press, 2007. 
+
+Chapter in a Book 
+
+Full: 1. Aaron S. Klieman, “Israeli Diplomacy in the Thirtieth Year of Statehood: Constants and 
+Discontinuities,” in Israel: A Developing Society, ed. Asher Arian (Amsterdam, Netherlands: Van 
+Gorcum, 1980), 33–58. 
+
+Short: 2. Klieman, “Israeli Diplomacy,” 37. 
+
+
+Revised: January 2017 
+
+Biblio: Klieman, Aaron S. “Israeli Diplomacy in the Thirtieth Year of Statehood: Constants and 
+Discontinuities.” In Israel: A Developing Society, edited by Asher Arian, 33–58. Amsterdam, 
+Netherlands: Van Gorcum, 1980. 
+
+Journal or Magazine Article 
+Full: 1. Robert L. McGrath, “The Endless Trail of the End of the Trail.” Journal of the West 40, no. 1 
+(Fall 2000): 8–10. 
+Short: 2. McGrath, “Endless Trail,” 9. 
+Biblio: McGrath, Robert L. “The Endless Trail of the End of the Trail.” Journal of the West 40, no. 1 
+(Fall 2000): 8–15. 
+
+Dissertations 
+Full: 1. Choi Mihwa, “Contesting Imaginaires in Death Rituals during the Northern Song Dynasty.” 
+PhD diss., University of Chicago, 2008. 
+Short: 2. Mihwa, “Contesting Imaginaires,” 24. 
+Biblio: Mihwa, Choi. “Contesting Imaginaires in Death Rituals during the Northern Song Dynasty.” PhD 
+dissertation, University of Chicago, 2008. 
+
+Newspaper (cites appear in notes only) 
+Full: 6. Mike Royko, “Next Time, Dan, Take Aim at Arnold,” Chicago Tribune, September 23, 1992. 
+Short: 38. Royko, “Next Time, Dan.” 
+*If there is no byline, it is acceptable to list article title, date, newspaper and/or news service. This is often 
+the case with older articles. 
+
+Citing from the Web 
+
+Online periodicals and ebooks are cited exactly as the same as their print versions with the addition of a 
+URL for the specific content accessed. If the page is no longer accessible, indicate that the site has been 
+modified or deleted. 
+
+11. Beau Jaynes, “The General’s Way,” Marching Chronicles 4, no. 2 (September 1918): 28–31, 
+http://www.johndoe.org/mcweb/archive/showDoc.do?docId=4291918&PageId=28 (site 
+discontinued). 
+URLs indicate the location of material only and do not constitute a reference. The author (or organizational 
+author), title, and approximate date the material was posted must be included with the URL. An access 
+date indicating the month and year the author viewed the material is needed if no posting or publication 
+date is apparent. Examples: 
+
+12. BBC News, “Mystery over Ghost Ship Migrants,” May 30, 2006, 
+http://news.bbc.co.uk/2/hi/africa/5029230.stm. 
+13. U.S. Department of State, Trafficking in Persons Report (Washington DC: Office to Monitor 
+and Combat Trafficking in Persons, June 4, 2008). 
+
+Revised: January 2017 
+
+AUTHOR-DATE SYSTEM 
+
+Whereas a notes-and-bibliography system uses notes to convey source information, the author-date 
+system features in-text parenthetical citations that correspond to a reference list at the end of a book. A 
+reference list differs from a bibliography only in that the date is placed immediately after the author name, 
+not at the end of an entry. Otherwise, all formatting is the same. 
+
+In the in-text parenthetical citations, only the author’s last name and year of publication are listed; page 
+numbers appear when applicable for direct quotes. If the author’s name is mentioned in the text, only the 
+year need appear in the parenthetical cite (differing examples shown below): 
+
+Text example 1: He returned to America and did succeed . . . in making a “whole new home in a new 
+place” (Clifford 1997, 250). 
+
+Text example 2: He returned to America and did succeed, in the words Clifford (1997) uses to 
+describe the immigrant experience, in making a “whole new home in a new place” (250). 
+
+Reference List: Clifford, James. 1997. Routes: Travel and Translation in the Late Twentieth Century. 
+Cambridge MA: Harvard University Press. 
+
+No Known Author 
+
+Please use the shortened title of a work, as well as publication year and page number. 
+
+Text: Influenced by advice from artist Mary Cassatt, the Havemeyers were avid collectors of 
+impressionist paintings (“World’s Columbian” 1973). 
+
+Reference List: “World’s Columbian Exposition.” 1973. The Knoedler Library of Art Exhibition 
+Catalogues on Microfiche: Major National and International Expositions and Worlds’ Fairs. 
+Teaneck NJ: Chadwyck-Healey. 
+
+Multiple Authors 
+
+For a book authored by three or fewer, list all last names in the text or citation. For books authored by 
+more than three, only use the first author’s last name followed by “et al.” 
+
+Text: However, as legal scholars demonstrate, “the virtual universality of married women’s property 
+acts did not mean . . . that uniformity reigned in America” (Shammas, Salmon, and Dalin 1987, 83). 
+
+Reference List: Shammas, Carole, Marylynn Salmon, and Michel Dalin. 1987. Inheritance in 
+America: Colonial Times to the Present. New Brunswick NJ: Rutgers University Press. 
+
+Book with an Editor 
+
+Include the abbreviation for editor in the reference list. For the parenthetical citation, however, only the 
+last name and year of publication are needed. 
+
+Text: This sentiment of African American art and music as the only “native-born” American artistic 
+contribution is reinforced in The Book of American Negro Poetry: “[T]he Negro . . . [is] the creator of 
+the only things artistic that have sprung from American soil and been universally acknowledged as 
+distinctive American products” (Johnson 1922, 10). 
+
+
+Revised: January 2017 
+
+Reference List: Johnson, James Weldon, ed. 1922. The Book of American Negro Poetry. New York: 
+Harcourt, Brace. 
+
+Indirect Sources 
+
+To cite an indirect source, usually a quote within a work you’re referencing, in the text use “quoted in” 
+and the last name and page number of the source cited. This practice should be avoided, however; please 
+attempt to locate the original source. 
+
+Text: Such an idea connects to Cather’s comment, noted earlier, regarding assimilationist efforts to 
+turn immigrants into “stupid replicas of smug American citizens” (quoted in Ryan 2003). 
+
+References: Ryan, Melissa. 2003. “The Enclosure of America: Civilization and Confinement in Willa 
+Cather’s O Pioneers!” American Literature 75, no. 2 (1997): 275–303. 
+
+N.B. regarding AAA Style Guide 
+September 9, 2015: “After much consideration of publishing standards and member input, AAA has 
+decided to cease production of the AAA Style Guide. AAA style now adheres fully to the current 
+edition of the Chicago Manual of Style (Author-Date), which can be located on their website. 
+If you have any questions, comments or concerns please contact Digital Editorial Assistant Elyse 
+Bailey at ebailey@americananthro.org. 
+
+

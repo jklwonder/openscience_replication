@@ -1,0 +1,267 @@
+Instructions to Authors 
+
+Journal 
+of 
+Individual 
+Differences 
+
+
+
+Hogrefe 
+Publishing 
+GmbH 
+Tel. 
++49 
+551 
+999 
+50 
+0 
+Merkelstr. 
+3 
+Fax 
++49 
+551 
+999 
+50 
+111 
+37085 
+Göttingen 
+publishing@hogrefe.com 
+Germany 
+www.hogrefe.com 
+
+
+
+Instructions 
+to 
+Authors 
+2/6 
+
+
+The Journal of Individual Differences publishes manuscripts dealing with individual 
+differences in behavior, emotion, cognition, and their developmental aspects. This includes 
+human as well as animal research. 
+
+The Journal of Individual Differences is conceptualized to bring together researchers 
+working in different areas ranging from, for example, molecular genetics to theories of 
+complex behavior. Moreover, it places emphasis on papers dealing with special 
+methodological and conceptual issues in basic science as well as in their applied fields 
+(assessment of personality and intelligence). 
+
+Journal of Individual Differences publishes the following 
+types of articles 
+
+Regular Research Articles, Extended Research Articles, Review Articles, Meta-Analyses 
+
+Please note that it is possible to submit electronic supplementary material (ESM). This 
+material will not be printed and should only be submitted if this is strictly necessary. ESM is 
+not included in the word count. 
+
+Important: An allowance for any tables and figures should be deducted from the total word 
+count depending on their size. A typical table or figure takes up a quarter, half, or full page. 
+Each quarter page equals about 200 words per quarter print page. 
+
+Regular research articles are papers reporting two or fewer experiments and may 
+contain up to 5,000 words (including everything, i.e., text, references, notes, tables, figures, 
+and appendices). 
+
+Extended research articles are papers reporting more than two studies with different 
+samples and methods and may contain up to 10,000 words (including everything, i.e., text, 
+references, notes, tables, figures, and appendices). 
+
+Review articles may contain up to 10,000 words (including everything, i.e., text, 
+references, notes, tables, figures, and appendices). 
+
+Meta-analyses may contain up to 10,000 words (including everything, i.e., text, references, 
+notes, tables, figures, and appendices). 
+
+
+
+Instructions 
+to 
+Authors 
+3/6 
+
+
+Manuscript Preparation 
+
+Manuscripts should be prepared according to the Publication Manual of the American 
+Psychological Association (7th ed.). In particular, statistical and mathematical copy should 
+conform to the Publication Manual, as well as the references. Please note that all journal 
+articles in the reference list should be provided together with their DOIs (Digital Object 
+Identifier). 
+
+Manuscript Submission 
+
+Submissions are only accepted online at www.editorialmanager.com/jindivdiff. Submissions 
+may include electronic supplementary material (ESM) if this is strictly necessary. ESM 
+should only be used if there are items that are not essential for inclusion in the full text but 
+would nevertheless benefit the reader. Reviews are returned to the authors within 4 weeks of 
+submission. Please follow the online instructions for submission. 
+
+Please direct any editorial questions to the editorial office: 
+
+E-mail martin.voracek@univie.ac.at 
+
+Should you have any technical queries regarding this process, please contact Juliane 
+Munson, Hogrefe Publishing: 
+
+E-mail juliane.munson@hogrefe.com 
+Tel. +49 551 99950-422 
+Fax +49 551 99950-425 
+
+The following manuscript formats are accepted: 
+
+– rtf (rich text format) 
+– doc (Microsoft Word, version 6.0 and higher) 
+Figures and Tables 
+
+Figures and tables should be numbered using Arabic numerals. The number of figures and 
+tables should be kept to a minimum and only be included to facilitate understanding of the 
+text. The same information should not appear in both a figure and a table. Each table and 
+figure must be cited in the text and should be accompanied by a legend. Please note that 
+online submission via the Editorial Manager allows text, figures, and tables to be submitted 
+as separate files. Figures must be supplied in a form suitable for reproduction: preferably 
+high-resolution bitmaps (e.g., jpg, 300 dpi) or as vector graphics files. Figures will normally 
+be reproduced in black and white only. While it is possible to reproduce color illustrations, 
+authors are reminded that they will be invoiced for the extra costs involved. 
+
+
+
+Instructions 
+to 
+Authors 
+4/6 
+
+
+Electronic Supplementary Material 
+
+Electronic supplementary material (ESM) contains additional items that are not essential for 
+inclusion in the full text but would nevertheless benefit the reader. Being electronic, ESM can 
+also include items that cannot, at this time, be produced in print form. ESM will be published 
+online as received from the author(s) without any conversion, testing, or reformatting. They 
+will not be checked for typographical errors or functionality. The responsibility for the 
+content and functionality remains entirely with the author(s). 
+
+Hogrefe Publishing does not provide technical support for the creation or viewing of the 
+supplementary files. If necessary, authors should seek the assistance of their local IT 
+department. Like the manuscript, ESM should be original and not previously published. If 
+previously published, it must be submitted with the necessary permissions. Note that the 
+ESM files, just like the article itself, are permanent records and may not be altered once they 
+have been published online. 
+
+Submission 
+
+ESM files will be subjected to peer review along with the article itself. The number of ESM 
+files you submit should be limited to 5. The file size should be kept as small as possible, not 
+exceeding 10 MB in total. All file formats are accepted with the exception of executable files 
+(e.g., .exe, .com, or .msi). Commonly used file formats that are accessible by most readers are 
+preferred. Following the online instructions, submit the ESM files in a single zip file separate 
+from the other files that are part of your submission. 
+
+Citation in Manuscript 
+
+All ESM files must be referred to with intext citations (as for tables, figures, and appendices) 
+and should be numbered in the order in which they are cited in the text. 
+
+Follow the example: 
+
+– For more information, listen to the audio file in Electronic Supplementary Material 1. 
+or: 
+– (listen to the audio file in Electronic Supplementary Material 1) 
+or: 
+–(the audio file is provided in Electronic Supplementary Material 1) 
+If appropriate, you may combine several ESM elements into a single file. For example: 
+
+– See Tables 1–3 in Electronic Supplementary Material 1. 
+Include a section headed ‘‘Electronic Supplementary Material’’ at the end of your article 
+before the reference section. List all files in the order in which they are cited in the text. 
+Provide a title for each ESM file along with the file name. Optionally, you may also provide a 
+short description for each file (max. 20 words). Follow the example: 
+
+
+
+Instructions 
+to 
+Authors 
+5/6 
+
+
+– ESM 1. Audio file (utterancesparticipants.mp3). (= title and file name) 
+This audio file contains utterances of the study participants. (= description of file) 
+– ESM 1. Tables 1–3 (tables1–3.xlsx). (= title and file name) 
+The tables show additional p-values, weather variables, and demographic characteristics. 
+(= description of file) 
+Make sure that the file names listed here match the names of the submitted files. Please note 
+that only the title and the description will appear in the article; the file name will not. It is for 
+reference purposes only. 
+
+Proofs 
+
+PDF proofs will be sent to the corresponding author. Changes of content or stylistic changes 
+may only be made in exceptional cases in the proofs. Corrections that exceed 5% of the 
+typesetting costs may be invoiced to the authors. 
+
+Offprints 
+
+The corresponding author of each accepted paper will receive free online access to the 
+published version of the paper when it is first released online. The author may download the 
+PDF of the published version of record. It is provided for the author’s personal use, including 
+for sharing with coauthors (see also ‘‘Guidelines on sharing and use of articles in Hogrefe 
+journals’’ on the journal’s web page at www.hogrefe.com/j/jid). 
+
+Copyright Agreement 
+
+By submitting an article, the author confirms and guarantees on behalf of themselves and any 
+co-authors that the manuscript has not been submitted or published elsewhere, and that they 
+hold all copyright in and titles to the submitted contribution, including any figures, 
+photographs, line drawings, plans, maps, sketches, and tables, and that the article and its 
+contents do not infringe in any way on the rights of third parties. The author indemnifies and 
+holds harmless the publisher from any third-party claims. 
+
+The author agrees, upon acceptance of the article for publication, to transfer to the publisher 
+the exclusive right to reproduce and distribute the article and its contents, both physically and in 
+nonphysical, electronic, or other form, in the journal to which it has been submitted and in other 
+independent publications, with no limitations on the number of copies or on the form or the 
+extent of distribution. These rights are transferred for the duration of copyright as defined by 
+international law. Furthermore, the author transfers to the publisher the following exclusive 
+rights to the article and its contents: 
+
+
+
+Instructions 
+to 
+Authors 
+6/6 
+
+
+1. The rights to produce advance copies, reprints, or offprints of the article, in full or in part, 
+to undertake or allow translations into other languages, to distribute other forms or 
+modified versions of the article, and to produce and distribute summaries or abstracts. 
+2. The rights to microfilm and microfiche editions or similar, to the use of the article and its 
+contents in videotext, teletext, and similar systems, to recordings or reproduction using 
+other media, digital or analog, including electronic, magnetic, and optical media, and in 
+multimedia form, as well as for public broadcasting in radio, television, or other forms of 
+broadcast. 
+3. The rights to store the article and its content in machine-readable or electronic form on all 
+media (such as computer disks, compact disks, magnetic tape), to store the article and its 
+contents in online databases belonging to the publisher or third parties for viewing or 
+downloading by third parties, and to present or reproduce the article or its contents on 
+visual display screens, monitors, and similar devices, either directly or via data 
+transmission. 
+4. The rights to reproduce and distribute the article and its contents by all other means, 
+including photo-mechanical and similar processes (such as photocopying or facsimile), and 
+as part of so-called document delivery services. 
+5. The right to transfer any or all rights mentioned in this agreement, as well as rights 
+retained by the relevant copyright clearing centers, including royalty rights to third 
+parties. 
+Online Rights for Journal Articles 
+
+Guidelines on authors’ rights to archive electronic versions of their manuscripts online are 
+given in the document “Guidelines on sharing and use of articles in Hogrefe journals” on the 
+journal’s web page at www.hogrefe.com/j/jid. 
+
+June 2020 
+
+
+

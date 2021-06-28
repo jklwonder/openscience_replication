@@ -1,0 +1,2331 @@
+ 
+
+INSTRUCTIONS FOR THE 
+
+PREPARATION OF MANUSCRIPTS 
+
+ 
+
+ 
+
+ 
+
+For the Annual Reviews of: 
+
+ 
+
+Anthropology 
+
+Astronomy and Astrophysics 
+
+Cancer Biology 
+
+Cell and Developmental Biology 
+
+Clinical Psychology 
+
+Criminology 
+
+Developmental Psychology 
+
+Earth and Planetary Sciences 
+
+Ecology, Evolution, and Systematics 
+
+Economics 
+
+Financial Economics 
+
+Fluid Mechanics 
+
+Food Science and TechnologyLaw and Social Science 
+
+Linguistics 
+
+Marine Science 
+
+Neuroscience 
+
+Organizational Psychology and Organizational 
+Behavior 
+
+Political Science 
+
+Psychology 
+
+Resource Economics 
+
+Sociology 
+
+Statistics and Its Application 
+
+Vision Science 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thank you for accepting our invitation to contribute to Annual Reviews. Recognizing the effort involved 
+in writing for us, Annual Reviews strives to be responsive during your article’s submission, vetting, and 
+revision processes. We provide editorial, graphics, and online support at every step. The information in 
+this handbook provides further details about Annual Reviews and the preparation of your manuscript. If 
+you have any questions about the information, please contact your journal’s Production Editor. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Revised February 2020 
+
+ 
+
+
+TABLE OF CONTENTS 
+
+Manuscript Submission Checklist .................................................................................................................. 4 
+
+Required Elements 
+
+ Optional Elements 
+
+ 
+
+Annual Reviews’ Editorial Principles and Policies ........................................................................................ 5 
+
+ Principles 
+
+ Copyright, Archiving, and Permissions 
+
+ Disclosure Statement 
+
+ An Original Synthesis of Ideas 
+
+ 
+
+Manuscript Preparation ................................................................................................................................... 7 
+
+ Software 
+
+Style 
+
+ Length 
+
+ Quotation Guidelines 
+
+ 
+
+Article Components ......................................................................................................................................... 9 
+
+ Required Elements 
+
+ Optional Elements 
+
+ Examples and Illustrations of Article Components 
+
+ 
+
+Graphic Components ..................................................................................................................................... 13 
+
+ Tables 
+
+ Figures 
+
+ 
+
+Supplemental Material ................................................................................................................................... 15 
+
+ 
+
+Literature Cited ............................................................................................................................................... 16 
+
+ Harvard-Style References 
+
+ Citations in Text 
+
+ Citations in Bibliography 
+
+ Bibliographic Style 
+
+ Citation Management Software 
+
+ Website Citations 
+
+ 
+
+Nomenclature ................................................................................................................................................. 20 
+
+ General Nomenclature 
+
+ Abbreviations and Symbols 
+
+ 
+
+
+Equations and Formulas ................................................................................................................................ 21 
+
+ Software 
+
+Layout 
+
+ Special Characters 
+
+ 
+
+Submitting Your Manuscript Files ................................................................................................................ 22 
+
+ Online Submission Instructions 
+
+ Email and FTP Submission Options 
+
+ 
+
+APPENDIX A: Literature Cited Examples ..................................................................................................... 23 
+
+APPENDIX B: Standard Abbreviations and Units ........................................................................................ 27 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+MANUSCRIPT SUBMISSION CHECKLIST 
+
+Include the following with your submission: 
+
+REQUIRED ELEMENTS 
+
+ Editable files of manuscript, figures, and tables (Microsoft Word or TeX file for text; see Author 
+Graphics Guide for acceptable figure file types); if submitting in TeX, include bib file and all other 
+associated files 
+
+ Title Page: full article title, author(s) name(s) and affiliation(s) including email address(es) and, if 
+available, ORCID numbers for all authors, corresponding author contact information 
+
+ Keywords: as many as 6 
+
+ Abstract: 150 words maximum, except for Astronomy and Astrophysics (225 words maximum) 
+
+ Headings: clearly formatted throughout text 
+
+ Figures: submit each figure with its own caption clearly labeled; provide a separate file for each 
+figure, and do not integrate them within the text. Send editable, high-resolution or vector files. See 
+Author Graphics Guide for more details. In addition to individual figure files, provide a PDF file 
+containing all figures. Obtain any necessary permissions for use, including paying any fees (Annual 
+Reviews is able to offer assistance with fees in some cases). Please refer to the Figure Permission 
+Guidelines for more details about permission for and attribution of graphics from other sources 
+
+ Tables: either all at end of article, following Literature Cited, or submitted together in a separate 
+editable file 
+
+ Literature Cited: see correspondence from your Production Editor for the maximum number of 
+references permitted; references should be formatted per journal specifications (see sections of this 
+handbook, below, for details) 
+
+ PDF file of final manuscript, including all figures, tables, references, and optional elements (listed 
+below), in addition to the editable files 
+
+OPTIONAL ELEMENTS 
+
+ Terms and Definitions list: provide definitions for as many as 20 of the most important abbreviations 
+or key terms, limited to 20 words maximum; insert below Literature Cited section 
+
+ Summary Points list: highlight the central points of your review (as many as 8), in complete 
+sentences; insert above Acknowledgments and/or Literature Cited section 
+
+ Future Issues list: note where research may be headed (as many as 8), in complete sentences; insert 
+above Acknowledgments and/or Literature Cited section 
+
+ Reference Annotations: brief (15 words maximum) explanation of citations’ importance (as many as 
+10); insert below Literature Cited section 
+
+ Related Resources list: up to 10 references, not listed in Literature Cited, to materials (websites, 
+books, videos) that may be of interest to readers; insert below Literature Cited section 
+
+ Sidebar (50 words minimum, 200 words maximum) briefly discussing a fascinating adjacent topic; 
+insert below Literature Cited section, but be sure to call out the sidebar in text; it will be typeset near 
+the section containing the callout 
+
+
+ANNUAL REVIEWS’ EDITORIAL PRINCIPLES AND POLICIES 
+
+PRINCIPLES 
+
+Invited Annual Reviews authors contribute, for 
+the benefit of all scientists and students, the 
+highest-quality scientific literature reviews in the 
+world. As a nonprofit organization, our mission 
+is to provide the widest possible dissemination 
+of this invaluable work. Annual Reviews strives 
+to keep the costs of such dissemination low, 
+preserve the integrity of the publications it 
+shepherds, and leave authors free to maximize 
+the benefits of their work. Annual Reviews 
+offers its content, immediately upon publication, 
+to the developing world through Research4Life 
+and the International Network for Access to 
+Scientific Publications. 
+
+COPYRIGHT, ARCHIVING, AND 
+PERMISSIONS 
+
+United States copyright law requires Annual 
+Reviews to obtain from each author an explicit 
+transfer of those rights necessary for orderly 
+publication of its journals in print and online. 
+Therefore, we ask each author to sign a 
+statement transferring full and exclusive rights 
+to their article, including all tables and 
+illustrations, to Annual Reviews. If you and all 
+your co-authors are United States federal 
+employees who have written your manuscript 
+within the scope of your official duties, then 
+Annual Reviews does not seek copyright. This is 
+because domestic copyright protection is not 
+available for any work of the United States 
+government. Some other countries, including the 
+United Kingdom, have similar policies. 
+
+ 
+
+PREPRINT VERSION Authors are free to post the 
+preprint version of their work on an institutional 
+repository. You may self-archive a preprint 
+version of your work provided (a) any preprint 
+posted to the web after the completion of the 
+Annual Reviews Copyright Transfer Agreement 
+states explicitly by which Annual Reviews 
+journal the manuscript has been accepted, and 
+(b) after the published version of the work 
+appears on the Annual Reviews website, the 
+preprint version is amended to include the 
+following acknowledgment and link: “Posted 
+with permission from the Annual Review of 
+_________________, Volume ___, 
+copyright_______ Annual Reviews, 
+http://www.annualreviews.org.” 
+
+ 
+
+POSTPRINT VERSION AND ePRINT URLs Text, 
+tables, illustrations, and bibliographies edited or 
+otherwise prepared by Annual Reviews may not 
+be posted on preprint servers. Authors are not 
+permitted to post a postprint or the published 
+version of your review (including text, tables, 
+illustrations, and bibliographies edited or 
+otherwise) anywhere on the open Internet. 
+
+However, Annual Reviews both permits and 
+encourages its authors to self-archive, after the 
+work’s publication, an Annual Reviews–
+supplied ePrint URL (a specially keyed URL 
+that allows nonsubscribers to access an Annual 
+Review article freely via the Annual Reviews 
+website) on one personal website and/or one 
+institutional repository. The ePrint URL is 
+automatically supplied by the Production Editor 
+upon completion of the production process. 
+
+ The ePrint URL is a specially keyed URL that 
+allows nonsubscribers to access an Annual 
+Review article freely via the Annual 
+Reviews website. 
+
+ 
+
+Authors have the nonexclusive right to use, 
+reproduce, distribute, perform, update, create 
+derivatives, and make copies of the work 
+(electronically or in print) in connection with the 
+author’s teaching, conference presentations, 
+lectures, and publications, provided proper 
+attribution is given. They may post free ePrint 
+URL links to their published AR articles on one 
+personal and one institutional webpage. For all 
+postpublication use, the acknowledgment and 
+link below must be included (blanks to be filled 
+with appropriate information). 
+
+“Posted [Reproduced] with permission from the 
+Annual Review of ___________________, 
+Volume ___, copyright_______ Annual 
+Reviews, http://www.annualreviews.org” 
+
+ 
+
+
+For further details on sharing the ePrint URL, 
+please visit the Electronic Reprints for Authors 
+page on the AR website: 
+http://www.annualreviews.org/page/authors/author-instructions/distributing/reprints. 
+
+ 
+
+PERMISSIONS For use of all or part of any 
+material published by Annual Reviews by 
+anyone other than the author, permission must 
+be obtained. We have authorized the Copyright 
+Clearance Center (CCC) to grant permission for 
+reproducing our materials and to collect royalty 
+fees on our behalf. In our view, CCC has an 
+outstanding service record and performs an 
+important role in facilitating copyright 
+compliance. For your future convenience, please 
+contact CCC directly; you should receive a 
+response from them within a week. Follow this 
+link to the CCC online granting service: 
+http://www.copyright.com/ccc/search.do?operation=show&page=ppu. 
+
+DISCLOSURE STATEMENT 
+
+At the time of manuscript submission, please 
+disclose any financial interest of your own, or of 
+any member of your authorship team, that might 
+be favorably or adversely affected by your 
+review. 
+
+Prior to publication, all authors will be asked to 
+complete and sign a disclosure statement. 
+
+The possibility of conflict of interest does not 
+disqualify anyone from authorship. We will, 
+however, disclose the potential conflict of 
+interest to our readers. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AN ORIGINAL SYNTHESIS OF IDEAS 
+
+The mission of Annual Reviews is to provide 
+critical, scholarly reviews of important topics in 
+selected branches of science. Each review must 
+be an original work prepared for Annual 
+Reviews. 
+
+ Each manuscript must be originally 
+written for publication in an Annual Reviews 
+journal. 
+
+ 
+
+The preparation of a review must, by its very 
+nature, rely heavily on the ideas, observations, 
+and reports of others. Therefore, it is important 
+for authors to exercise care in citing and quoting 
+other publications. This precaution applies also 
+to the use of the author’s own previous writing. 
+The following guidelines are intended primarily 
+to protect new Annual Reviews authors from 
+inadvertent infringements of copyright, any 
+appearance of plagiarism, or accidental bias in 
+assembling bibliographies. 
+
+Extra vigilance is required of literature review 
+authors, for whom the task of materials 
+assembly (today often a software cut-and-paste 
+operation) must be separated carefully from 
+those of information synthesis and fresh 
+expression. 
+
+In view of the historic importance of Annual 
+Reviews articles in defining the current state of 
+scientific knowledge, authors should strive to be 
+fair, yet discriminating, in their selection of 
+references. Include only those papers you 
+consider to be genuinely important: Do not 
+clutter the bibliography with citations of 
+marginal relevance to your topic merely for the 
+sake of “completeness.” However, do not be so 
+sparing with your references that you might 
+appear to have minimized or disregarded the 
+work of your competitors or newcomers to the 
+field. 
+
+ 
+
+
+MANUSCRIPT PREPARATION 
+
+SOFTWARE 
+
+Manuscripts may be prepared in Microsoft Word 
+or in LaTeX. If using LaTeX, please go to 
+http://www.annualreviews.org/page/authors/general-information, select the journal for which 
+you are writing, and download the appropriate 
+style file and instructions. 
+
+STYLE 
+
+The style manuals to which we refer at Annual 
+Reviews include The Merriam-Webster 
+Dictionary, The Chicago Manual of Style, and 
+the Council of Science Editors’ Scientific Style 
+and Format. 
+
+ 
+
+PROOFREADING Please proofread carefully for 
+both errors and inconsistencies in the following: 
+spelling (especially of scientific terminology, 
+proper names, and foreign words), mathematical 
+notation, numerical values in tables and text, and 
+accuracy of quotations. 
+
+ Be sure all references are cited and all 
+tables and figures are called out in the text. 
+
+ 
+
+FOOTNOTES We discourage the use of footnotes 
+as these tend to interrupt the flow of the text. If 
+footnotes are used, number all text footnotes 
+consecutively in order of appearance throughout 
+the article. Use a superscript number to key each 
+footnote to the word or statement annotated (e.g., 
+“The term operator1 is used”). Do not use 
+footnotes just for references, whether published 
+or unpublished. See the Literature Cited section 
+starting on p. 16 for guidance on references. 
+Designate footnotes to tables by superscript 
+lowercase letters; begin lettering anew for each 
+table. 
+
+ 
+
+ITALICS Indicate italics using an italic type style. 
+Avoid the use of underlining. 
+
+Use italics for 
+
+ Scientific names of bacteria and protozoa 
+ Genera, species, and subspecific taxa 
+ In chemical names, p, o, m, n, cis, sec, sic, 
+trans, syn 
+ Genes, genotypes, loci, markers, mutants, 
+alleles, operons 
+ Mathematical variables 
+
+
+ 
+
+Do not use italics for 
+
+ Emphasis 
+ Common foreign words such as ad hoc, a 
+priori, in vivo, in vitro 
+ Abbreviations such as sp., spp., var. 
+ Names of taxa of rank higher than genus 
+ Generic names used as adjectives 
+ Names of microorganisms used colloquially 
+(e.g., actinomycetes) 
+ Strain designations 
+ Names of cells, phages, hosts, phenotypes 
+ Abbreviations for subatomic particles 
+ R, X, M, B, A, etc. in formulas and equations 
+where they represent chemical elements or 
+groups 
+
+
+LENGTH 
+
+ESTIMATING THE LENGTH OF THE MANUSCRIPT 
+Every Annual Reviews volume has an assigned 
+length. Likewise, each article has a length 
+assigned by the editors (always indicated in the 
+letter of invitation). Please keep to this length, 
+which includes any figures and tables submitted. 
+
+If you are preparing your manuscript in 
+Microsoft Word, you can roughly estimate the 
+typeset length of your article with online length 
+calculator for your Annual Reviews journal. At 
+http://www.annualreviews.org/page/authors/general-information, select the journal for which 
+you are writing, and click on “Article Length 
+Estimator” in the left-hand box. 
+
+If you are preparing your manuscript in LaTeX 
+and use the appropriate Annual Reviews style 
+file, the PDF output of your article is roughly its 
+typeset length. 
+
+
+ Adhere to the length guidelines presented 
+in your invitation letter. 
+
+ 
+
+PRODUCING THE SUBMISSION PDF If working in 
+Microsoft Word, all material (text, literature 
+cited, footnotes, figure captions, tables, and 
+other article components) should be prepared 
+double spaced using 12-point type. Please do not 
+use small (less than 12 point) type or space-and-
+a-half line spacing. These manipulations do not 
+make your review shorter, only harder to read. 
+
+Number all pages consecutively and arrange in 
+this order: title page, text, literature cited, article 
+components (see p. 9), figure captions, tables, 
+and figures. 
+
+Place the title page on a separate sheet and 
+include 
+
+ title of article 
+ name(s), affiliation(s), and email address(es) 
+for all authors 
+ shortened running title (40 characters max) 
+ Corresponding Author contact information 
+
+
+QUOTATION GUIDELINES 
+
+Detailed instructions for citing sources and 
+preparing your Literature Cited section are 
+included below. Here we describe some general 
+guidelines for paraphrasing or quoting from 
+others’ work: 
+
+ When describing the findings or theories of 
+others, always cite source publications in close 
+proximity to your discussion. 
+ Omnibus citations at the beginning of an 
+article are sometimes appropriate, but they 
+should not be used as substitutes for explicit 
+citations in the relevant sentences or 
+paragraphs of text. 
+ The original sources of novel technical 
+terminology, or uniquely apposite words or 
+phrases recently introduced into the literature, 
+should be cited, unless these terms already 
+have become established in the common 
+vocabulary of the field. 
+ If you wish to use a sentence, or an essential 
+part thereof, from another article, always set it 
+off in quotation marks and cite its source, 
+preferably including the page number from 
+which the quotation was taken. However, one 
+should keep the number of direct quotations to 
+a minimum. 
+ If you choose to quote several consecutive 
+sentences from another source, set off this 
+material as an extract. Omit quotation marks 
+and indent from both left and right margins; 
+after the quotation, indicate the author’s name 
+and the year of the reference. 
+ If you need to quote, paraphrase, or abridge 
+more than approximately 250 words from a 
+single source (whether consecutively or in 
+scattered quotations), please ensure that 
+appropriate permission has been obtained 
+from the copyright holder—even when 
+quoting from your own work if someone else 
+holds the copyright. In cases of extensive 
+quotation we urge you to discuss your 
+intentions, whenever possible, with the quoted 
+author. 
+ You must obtain permission to use any 
+diagrams, illustrations, or tables from other 
+publications. This includes paying any fees, 
+though Annual Reviews is able to offer 
+assistance with fees in some cases. Please 
+refer to the Figure Permission Guidelines for 
+more details about permission for and 
+attribution of graphics from other sources. 
+
+
+ 
+
+If you have any questions about these guidelines, 
+do not hesitate to contact your Production Editor. 
+
+ 
+
+
+ARTICLE COMPONENTS 
+
+REQUIRED ELEMENTS 
+
+To help readers better find and understand what 
+they seek, we ask authors to provide the 
+following: 
+
+ Title Page: full article title, author(s) name(s) 
+and affiliation(s) including email(s) and, if 
+available, ORCID numbers for all authors, 
+Corresponding Author contact information 
+ Keywords: as many as 6; if publishing in an 
+Annual Reviews journal indexed in PubMed, 
+include MeSH terms if possible 
+ Abstract: 150 words maximum, except for 
+Astronomy and Astrophysics, which allows 
+225 words inclusive of 3–5 bullet points 
+describing findings) 
+ Headings: clearly formatted throughout text 
+ Figures: submit each with its own caption 
+clearly labeled; separate file for each figure, 
+do not integrate within text. Send editable, 
+high-resolution or vector files. See the Author 
+Graphics Guide for more details. Number 
+figures consecutively in text (i.e., Figure 2 
+should not come before Figure 1). In addition 
+to individual figure files, provide a PDF file 
+containing all figures. Obtain any necessary 
+permissions for use, including paying any fees 
+(Annual Reviews is able to offer assistance 
+with fees in some cases). Please refer to the 
+Figure Permission Guidelines for more details 
+about permission for and attribution of 
+graphics from other sources. 
+ Tables: either all at end of article, following 
+Literature Cited, or submitted together in a 
+separate file 
+ Literature Cited: formatted per journal 
+specifications 
+
+
+ 
+
+OPTIONAL ELEMENTS 
+
+Authors may also provide any of the below 
+additional components: 
+
+ Terms and Definitions list: provide definitions 
+for as many as 20 of the most important 
+abbreviations or key terms, limited to 20 
+words maximum; insert below Literature 
+Cited section 
+ Summary Points list: highlight the central 
+points of your review (as many as 8), in 
+complete sentences; insert above the 
+Acknowledgments and/or Literature Cited 
+section 
+ Future Issues list: note where research may be 
+headed (as many as 8), in complete sentences; 
+insert above the Acknowledgments and/or 
+Literature Cited section 
+ Reference Annotations: brief (15 words 
+maximum) explanation of citations’ 
+importance (as many as 10); insert below the 
+Literature Cited section 
+ Related Resources list: up to 10 references, 
+not listed in Literature Cited, to materials 
+(websites, articles, animations) that may be of 
+interest to readers; insert below the Literature 
+Cited section 
+ Sidebar (50 words minimum, 200 words 
+maximum) briefly discussing a fascinating 
+adjacent topic. Please give the sidebar a title 
+and insert it below the Literature Cited section, 
+but be sure to call out the sidebar in text; it 
+will be typeset near the section containing the 
+callout. The sidebar cannot contain figures or 
+tables. 
+
+
+ 
+
+Examples on the next pages show how these 
+components will be laid out in your article. 
+
+ 
+
+
+GRAPHIC COMPONENTS 
+
+Annual Reviews strongly encourages the 
+effective use of figures and tables. Article page 
+allotments include space used for figures and 
+tables. Thus, information presented graphically 
+should be referenced, but not repeated, in the 
+text. Figures and tables you submit with your 
+article will appear in both typeset and HTML 
+versions of your article. 
+
+The digital methods for creating and sending 
+your figures are treated in the Annual Reviews 
+Author Graphics Guide. 
+
+TABLES 
+
+Only material requiring several columns and 
+several entries should be submitted in tabular 
+form (incorporate other material into the text). 
+Tables should fit within an Annual Reviews 
+page width (6.33 in; approximately 15 cm). 
+Submit editable electronic files for all tables. 
+
+All tables will be formatted according to house 
+style. Please adhere to the following guidelines 
+when preparing your tables. 
+
+ 
+
+BODY OF TABLE Align entries under the 
+appropriate heading or subheading. Make sure 
+your table clearly indicates the vertical 
+alignment of headings and data. Type longer 
+entries in block style, leaving extra space 
+between entries. Align numbers on the decimal; 
+if numerical data are mixed, center entries in the 
+column. Write out repeated entries or merge 
+cells; do not use ditto marks. Use ND (no data or 
+not determined), NA (not applicable or not 
+available), and NT (not tested) as needed; do not 
+use a dash or leave a cell blank. 
+
+ 
+
+FOOTNOTES Footnotes should be at the bottom 
+of the table; label each with a superscript 
+lowercase letter (a, b, c, etc.) keyed to the title, 
+heading, or entry on the table. Begin the 
+lettering anew for each table. If a footnote 
+applies to more than one table, key it to the title 
+of subsequent tables. Include references in the 
+body of the table rather than as footnotes. 
+
+ACCEPTABLE FILE TYPES Table files must be 
+compatible with Microsoft Word [.doc(x) or .rtf] 
+or Excel [.xls(x)]. Mathematically complex 
+tables may be submitted in LaTeX. 
+
+The illustration on the previous page is a guide 
+for laying out the title, columns, rows, and 
+footnotes for a table. 
+
+FIGURES 
+
+Please refer to the Author Graphics Guide for 
+details on the preparation of illustrations. 
+
+Figures should be well-designed drawings or 
+well-chosen photographs that illustrate key 
+points in your article or that present relevant 
+data in an economical way. Annual Reviews 
+Illustration Editors will work with you to 
+enhance your figures’ legibility, color, style, and 
+consistency. Modified figures will be sent to you 
+for approval before publication. 
+
+To maximize their usability, all figures must be 
+submitted in editable digital form. Export your 
+figures to PDF format (sometimes available 
+under the “print” menu) directly from your 
+graphics creation program. If such files are not 
+available, please contact your Production Editor. 
+Regarding scanning originals, please see the 
+Author Graphics Guide for scan resolution. 
+Other acceptable file formats and additional 
+details are discussed in the Author Graphics 
+Guide. 
+
+ 
+
+FIGURE SIZING On an Annual Reviews page the 
+maximum space available for figures is 6.33 in 
+wide × 7.66 in high (approximately 15 cm × 
+19.5 cm). Annual Reviews’ in-house Illustration 
+Editors will determine the appropriate final 
+figure size unless you give specific directions. 
+(Note that photographs should not be enlarged 
+beyond the size at which they retain 300-dpi 
+resolution.) 
+
+ 
+
+LETTERING AND SYMBOLS Lettering in figures 
+must be of professional quality and large enough 
+to be legible. Specify type at 7, 8, or 9 pt. Use a 
+standard sans-serif font such as Helvetica, Arial, 
+
+
+or Myriad Pro. If you plan to submit scaled 
+images that contain type, be certain that type is 
+still legible (no smaller than 6 pt) and consistent 
+in size for all the figures in your review. Ensure 
+that text remains editable (not converted to 
+shapes or outlines or flattened into images) to 
+allow us to make house style or sizing changes. 
+
+ 
+
+GRAPHS Graphs should be in editable vector 
+format. Using Photoshop or other raster-based 
+programs to create graphs is strongly 
+discouraged. For plot points in graphs, use 
+symbols that are readily available (Zapf 
+Dingbats or another computer-generated symbol 
+font), and choose symbols that can be seen as 
+separate entities along a line. In final form, the 
+plot symbols should be large enough to be 
+legible (8 pt). For plots with multiple 
+lines/symbols, use color to distinguish elements. 
+
+ 
+
+CHEMICAL STRUCTURES Complex equations 
+and chemical structures that cannot be typeset in 
+one or two lines are considered art (see p. 21). If 
+possible, such equations should be submitted in 
+math-friendly software applications such as 
+LaTeX or MathType. Submit complex chemical 
+structures as editable vector graphics. 
+
+ 
+
+FIGURE CAPTIONS Every figure must have an 
+accompanying descriptive caption. Bundle 
+figure captions together in a text file (or place 
+them at the bottom of the article’s text file). 
+Please do not attach captions to figure files. 
+
+ 
+
+COLOR FIGURES Color figures are integrated 
+into the article’s page layout and printed at no 
+cost to you. 
+
+We strongly encourage the use of color in all 
+illustrations. You can make use of color to 
+differentiate and to group elements in complex 
+illustrations, while also applying a consistent 
+color scheme across multiple illustrations. Our 
+Illustration Editors are here to help. Contact 
+your Production Editor with questions. 
+
+See the Author Graphics Guide for details on 
+submitting figures. 
+
+ 
+
+NUMBERING AND NAMING FIGURES Number 
+your figures consecutively as you wish them to 
+appear in your review and as they are referenced 
+in the text. When preparing your text files, spell 
+out the word “Figure” in captions and text. If a 
+figure has multiple panels, refer to parts of the 
+figure as (a), (b), (c), etc. in the caption and as, 
+e.g., Figure 1a in the text. If further distinction is 
+needed, subparts can be described as (left), 
+(right), (top), (middle), and (bottom). If a 
+sequence of steps is shown, numbers may be 
+used to label each step. The caption should then 
+refer to Step 1, Step 2, etc. 
+
+ 
+
+ENHANCED FIGURES Annual Reviews 
+Illustration Editors work closely with editors and 
+authors to identify figures that can be enhanced 
+with links, pop-up text, other interactive 
+elements, and videos. These enhancements 
+appear online only. Please ask your Production 
+Editor for samples if you are interested in 
+enhancing the online version of your figures. 
+
+ 
+
+PERMISSIONS You must obtain permission to 
+reuse and adapt figures prior to submitting your 
+manuscript, including paying any fees (Annual 
+Reviews is able to offer assistance with fees in 
+some cases). Include only figures for which you 
+have obtained such permission. The source of 
+the material should be credited at the end of the 
+figure caption. If a figure has a Creative 
+Commons (CC) copyright or is in the public 
+domain, you may not need permission to use it, 
+but generally attribution of the source is still 
+required. Please refer to the Figure Permission 
+Guidelines for more details about permission for 
+and attribution of graphics from other sources. 
+
+ You are responsible for obtaining 
+permission to use any copyrighted material. 
+
+ 
+
+
+SUPPLEMENTAL MATERIAL 
+
+Article-relevant material that is costly, difficult, 
+or impossible to include in the typeset PDF may 
+be posted on the Annual Reviews website. If 
+your article is running overlength, it may also 
+make sense to move some content (such as 
+figures, tables, or text appendices that provide 
+more detail for interested readers) to 
+supplemental material to keep the primary 
+article within the journal’s length guidelines. 
+Note, however, that this material should be 
+supportive rather than essential; the primary 
+article should still stand alone without requiring 
+readers to download and read a supplement. 
+These materials are fully linked to the PDF and 
+HTML versions of your article. 
+
+Candidates for inclusion in this online repository 
+are figures that will not reproduce well in print, 
+lengthy tables, data sets, and multimedia objects 
+(e.g., sound, video, animations, 3D objects, etc.). 
+
+ 
+
+ It is the author’s responsibility to put 
+Supplemental Material in a final, copyedited 
+form before submission. We do not have 
+the personnel to check, revise, or maintain 
+these materials upon submission or 
+thereafter. 
+
+Authors who wish to publish Supplemental 
+Material should notify their Production Editor 
+early in the production process. Ideally, such 
+materials will be submitted on the manuscript 
+due date along with the rest of the article. 
+
+Authors should also review our Supplemental 
+Material Policy (online at 
+http://www.annualreviews.org/page/authors/author-instructions/preparing/supmat). This policy 
+provides detailed guidelines for the submission 
+of Supplemental Material, including 
+
+ Preparation guidelines 
+ Submission guidelines 
+ Supported file types 
+ Size limitations on Supplemental Material 
+ Maintenance guidelines 
+ How to call out your Supplemental Material 
+in your article. 
+
+
+ 
+
+ 
+
+ 
+
+
+LITERATURE CITED 
+
+Here, you will find general guidelines for citing 
+sources in your Annual Reviews article. In 
+Appendix A of this handbook, numerous 
+examples illustrate how to list various types of 
+sources (books, articles, websites, conference 
+papers, etc.) in your Literature Cited section. 
+
+ Each reference in the Literature Cited 
+section must be mentioned in text, figure 
+captions, or tables. 
+
+ 
+
+HARVARD-STYLE REFERENCES 
+
+The following Annual Reviews use the 
+unnumbered, name and year (Harvard) 
+bibliographic style: Anthropology; Astronomy 
+and Astrophysics; Cancer Biology; Cell and 
+Developmental Biology; Clinical Psychology; 
+Criminology; Developmental Psychology; Earth 
+and Planetary Sciences; Ecology, Evolution, and 
+Systematics; Economics; Financial Economics; 
+Fluid Mechanics; Food Science and 
+Technology; Law and Social Science; 
+Linguistics; Marine Science; Neuroscience; 
+Organizational Psychology and Organizational 
+Behavior; Political Science; Psychology; 
+Resource Economics; Sociology; Statistics and 
+Its Application; and Vision Science. 
+
+ 
+
+NUMBERED REFERENCES: Some Annual 
+Reviews use numbered citations: Analytical 
+Chemistry; Animal Biosciences; Biochemistry; 
+Biophysics; Biomedical Engineering; 
+Biomedical Data Science; Chemical and 
+Biomolecular Engineering; Condensed Matter 
+Physics; Control, Robotics, and Autonomous 
+Systems; Entomology; Environment and 
+Resources; Genetics; Genomics and Human 
+Genetics; Immunology; Materials Research; 
+Medicine; Microbiology; Nuclear and Particle 
+Science; Nutrition; Pathology: Mechanisms of 
+Disease; Pharmacology and Toxicology; 
+Physical Chemistry; Physiology; 
+Phytopathology; Plant Biology; Public Health; 
+and Virology. 
+
+ 
+
+For journals with numbered references, please 
+download, or obtain from your Production 
+Editor, the appropriate Author Instruction 
+Handbook. 
+
+CITATIONS IN TEXT 
+
+ Use the name-and-year system. In 
+parenthetical citations, do not include a 
+comma between the name and year. 
+
+
+ 
+
+White et al. (1989) tested... 
+
+Later in situ studies also supported 
+these results (Allen et al. 2009, 
+Zhang 2010). 
+
+ 
+
+ Use an ampersand to indicate authorship for 
+two authors. For three or more authors, 
+generally use “et al.” 
+
+
+ 
+
+White & Gray (2004) experimented... 
+
+Smith et al. (1999) tested the theory. 
+
+ 
+
+ Multiple citations should appear consistently 
+in either chronological or alphabetical 
+sequence throughout. If the order is 
+inconsistent, alphabetical order will be applied 
+in copyediting. 
+
+
+ 
+
+ Multiple citations within parentheses should 
+generally be separated with commas. Use 
+semicolons when the citations include names 
+with multiple years or to separate unlike items, 
+such as unpublished information. 
+
+
+ 
+
+Similar results were obtained in 
+yeast (Johnson et al. 2015; Liu 
+2003, 2004, 2008; Robinson et al. 
+2009; Wilson 1999) and flies... 
+
+...(Moorehouse 2006; J.S. Smith, 
+unpublished information). 
+
+ 
+
+ Distinguish between references with the same 
+author(s) and year by indicating 1987a, 1987b, 
+etc. 
+
+
+ 
+
+Byron et al. (1986; 1987a,b) 
+determined... 
+
+ 
+
+ If there are references by different authors 
+with the same surname and year, however, do 
+not use lowercase letters; instead, distinguish 
+
+
+
+them by including the authors’ first initials. 
+
+
+ 
+
+K.S. Johnson (2009) studied... 
+
+G.R. Johnson (2009) later 
+investigated... 
+
+ 
+
+ If a direct quotation is included, provide the 
+page number(s) of the quotation. 
+
+
+ 
+
+Mouton (2015) writes compellingly of 
+“the reward of the struggle” (p. 
+87). 
+
+ 
+
+ References to specific webpages or other 
+specific online material should be included in 
+the Literature Cited and cited in the usual 
+author-and-name style (rather than by placing 
+the URL in the main text or a footnote). For 
+general mentions of the website of an 
+organization, online database resource, etc., 
+the URL can be placed in parentheses in the 
+main text. For more details, see the section on 
+website citations below. 
+
+
+ 
+
+ References to unpublished observations, 
+personal communications, papers in 
+preparation, etc., should be enclosed in 
+parentheses in text (R.S. Jones, 
+unpublished observations). List all 
+authors up to six (for seven or more authors, 
+list five followed by et al.) and include all 
+their initials (as well as your own) in these 
+citations. Except for Physical Chemistry, do 
+NOT list these citations as references in the 
+Literature Cited section. Entomology does not 
+permit the citation of unpublished works. 
+
+
+CITATIONS IN BIBLIOGRAPHY 
+
+ Do not list references as footnotes to the text. 
+ Do not use Microsoft Word’s Footnotes or 
+Endnotes functions for citing/listing references. 
+ Set line spacing to 2 throughout the Literature 
+Cited section. 
+ Do not indent the first line of each entry. 
+ For each author, use last name first, then 
+initials, no periods. 
+
+
+ 
+
+ Responsibility for the accuracy of the 
+bibliographic references rests entirely with 
+the author. 
+
+ List references in alphabetical order by last 
+name of author, then by initials, by last name 
+of coauthors, and finally by year. Alphabetize 
+compound surnames by the first word, e.g., 
+list under “de,” “van,” “von,” etc. 
+
+
+ 
+
+Zeiger E. 1990. Article title. 
+
+Zeiger E, Armond P, Melis A. 1981. 
+Article title. 
+
+Zeiger E, Bloom AJ, Hepler PK. 1990. 
+Article title. 
+
+Zeiger E, Field C, de Vitry C. 1988. 
+Article title. 
+
+Zeiger E, Field C, Mooney HA. 1981. 
+Article title. 
+
+Zeiger E, Hepler PK. 1991. Article 
+title. 
+
+Zeiger E, Hepler PK. 1993. Article 
+title. 
+
+ 
+
+ Include titles of articles or chapters for all 
+Annual Reviews except Astronomy and 
+Astrophysics, Condensed Matter Physics, and 
+Nuclear and Particle Science. 
+
+
+ 
+
+ Use italics for the book or journal title (see 
+Appendix A for examples). Do not abbreviate 
+book titles. Abbreviate titles of journals, 
+proceedings, symposia, and serial compendia 
+according to the ISSN List of Title Word 
+Abbreviations (LTWA), published by the 
+International Organization for Standardization. 
+(Go to http://www.issn.org/services/online-
+services/access-to-the-ltwa/ for general 
+information on using the guide, and scroll 
+down to the “View the LTWA” section for the 
+online guide.) Do not abbreviate one-word 
+journal titles. 
+
+
+BIBLIOGRAPHIC STYLE 
+
+Most cited sources can be formatted using the 
+general guidelines below. For exceptions or 
+special cases (websites, conference papers, 
+errata, abstracts, etc.), see Appendix A at the end 
+of this handbook. 
+
+List numbered references in the Literature Cited 
+with numerals and period, without parentheses. 
+Include the following information (in this order): 
+
+1. Name(s) of author(s), last name first, followed 
+
+
+by initials without periods. Include both (or all) 
+initials for each author whenever they were 
+included in the original article or book. Do not 
+leave space between initials. Do not use a 
+comma between surnames and initials—use 
+commas only to separate different authors’ 
+names. If a given reference has seven or more 
+authors, list the first five, then type “et al.” in the 
+bibliography. (But in text, use et al. for three or 
+more authors.) If a reference has six or fewer 
+authors, list them all. (Exception: For the Annual 
+Review of Astronomy and Astrophysics, if a 
+given reference has six or more authors, list the 
+first three, then type “et al.” in the bibliography. 
+If a reference has five or fewer authors, list them 
+all.) 
+
+ 
+
+2. Year of publication of the article or book, 
+followed by a period, with no parentheses. If the 
+article has recently been accepted for publication 
+and is actually in press, list it in the Literature 
+Cited section. Provide journal title and expected 
+year of publication, plus volume and pages when 
+known. 
+
+ 
+
+3. Title of article or chapter (except Astronomy 
+and Astrophysics, Condensed Matter Physics, 
+and Nuclear and Particle Science). 
+
+ 
+
+4. Title of journal (abbreviated unless only one 
+word) or book (not abbreviated unless part of a 
+periodical series), e.g., J. Psychol. 
+
+ 
+
+5. For a book reference, name(s) of editor(s). 
+
+ 
+
+6. Volume number, then a colon and inclusive 
+page numbers; if there is no volume number, 
+inclusive page numbers preceded by a comma 
+and “pp.” Do not repeat hundreds digit unless 
+needed, e.g., 3–10, 71–77, 100–9, 331–35, 
+1002–3, 1198–202, 1536–38. The issue number 
+can be included in parentheses immediately 
+following the volume if necessary, e.g., 
+10(4):123–30 
+
+ 
+
+7. For a book reference, place of publication, 
+name of publisher, and edition, if necessary. For 
+example: New York: Sage (do not put a period 
+at the end of the reference). 
+
+CITATION MANAGEMENT SOFTWARE 
+
+If you are using Clarivate Analytics’ EndNote, 
+you may download the journal’s EndNote style 
+file from the AR website at 
+http://www.annualreviews.org/page/authors/author-instructions/preparing/endnotes. 
+
+If you are using another reference management 
+program, it may include the style for the Annual 
+Reviews journal for which you are writing. If 
+not, you may be able to use the style for another 
+Annual Reviews journal (contact your 
+Production Editor), or you can edit the citation 
+manager’s style module to accord with the 
+Annual Reviews journal style, namely: 
+
+ Author names are given last name first, 
+followed by initials—with NO punctuation 
+except for commas between authors and a 
+period at the end. 
+
+
+Sample: Brown J, Smith R, Jones CE. 
+
+ 
+
+ The year comes after the names, followed by a 
+period. 
+ Journal article titles are lowercase except for 
+the first word, proper nouns, and acronyms. 
+ Journal titles are italic. Abbreviations are 
+followed by periods. 
+
+
+ 
+
+If you have any difficulty setting up your 
+EndNote system, please go to 
+http://www.endnote.com/support. 
+
+WEBSITE CITATIONS 
+
+GENERAL GUIDELINES When you cite a specific 
+source that is housed online, you should include 
+it in the Literature Cited section. Entries in the 
+Literature Cited section should contain as many 
+items from the following list as are relevant and 
+available. 
+
+ Name of the author, editor, compiler, or 
+translator of the web-based item (if available 
+and relevant), followed by any appropriate 
+abbreviations, such as ed. 
+ Title of article or other short work within a 
+scholarly project, database, or periodical 
+ Title of an online book or periodical, in italics 
+ Name of the editor, compiler, or translator of a 
+book (if applicable and if not already listed), 
+
+
+
+preceded by any appropriate abbreviation, 
+such as ed. 
+ Publication information for any print or PDF 
+version 
+ Title of the scholarly project, database, 
+periodical, or professional or personal site (in 
+italics) or, for a professional or personal site 
+with no title, a description such as home page 
+(in italics) 
+ Version number (if not part of the title) or, for 
+a journal, the volume, issue, or other 
+identifying number 
+ Date of electronic publication or posting or 
+latest update, whichever is most recent (if the 
+resource is still being updated) 
+ Name of any institution or organization 
+sponsoring or associated with the website 
+ URL 
+
+
+ 
+
+For example, specific documents posted online 
+could be cited as follows: 
+
+Clin. Data Interchange Stand. Consort. 
+(CDISC). 2007. CDISC and industry 
+collaborative group lead FDA 
+critical path initiative 
+opportunity for data collection 
+standards. Press Release 33, CDISC, 
+May 15. 
+http://www.cdisc.org/news/PR33cdisccdashprojectfinal.pdf 
+
+US Food Drug Admin. 2004. Innovation 
+or stagnation: challenge and 
+opportunity on the critical path 
+to new medical products. White 
+Pap., US Food Drug Admin., 
+Washington, DC. 
+http://www.fda.gov/oc/initiatives/
+criticalpath/whitepaper.html 
+
+ 
+
+Specific webpages should cite, at a minimum, 
+the author or organization, year, page title, 
+website (in italics), and URL. If no specific year 
+of posting or last update is included, use the 
+current year. 
+
+Calif. Energy Comm. 2016. 
+Hydroelectric power in California. 
+California Energy Commission. 
+http://www.energy.ca.gov/hydroelectric 
+
+Taussig M. 2015. Seeds of time. 
+Flatbread Society. 
+http://www.flatbreadsociety.net/stories/30/seeds-of-time 
+
+ 
+
+SPECIFIC VERSUS GENERAL SOURCES ON 
+WEBSITES If you wish to cite a specific source 
+that is housed on a website or that is a pamphlet 
+or report that is downloadable only, these 
+sources should be cited in the Literature Cited 
+section according to the instructions described 
+above. For example: 
+
+Kennedy E, Dodd C, Clinton HR. 2005. 
+Letter to US Dep. Labor, Apr. 12. 
+http://www.nationalpartnership.org/site/DocServer/FMLASenateLettertoDOL.pdf?docID=963 
+
+ 
+
+In contrast, to reference a general website that 
+might be a good source of information for your 
+reader, include it in text only, not in the 
+Literature Cited section. For example: 
+
+ 
+
+A valuable clearinghouse of 
+information on the passage of 
+
+the Family and Medical Leave 
+
+Act is the online library at 
+
+the National Partnership 
+
+for Women & Family website 
+(http://www.nationalpartnership.org). 
+
+ 
+
+Because webpages and online documents often 
+disappear or move to new URLs, we encourage 
+you to refer only to URLs that you expect to be 
+stable and accessible to readers of your article 
+for many years to come, and to provide enough 
+information in each reference that readers can 
+locate the cited material even if the URL stops 
+working. 
+
+You may wish to host material on unstable 
+websites as Supplemental Material (see p. 15). 
+Also, URLs can be included in the Related 
+Resources section of your review (see p. 9). 
+
+ 
+
+
+NOMENCLATURE 
+
+GENERAL NOMENCLATURE 
+
+The primary nomenclature manual for Annual 
+Reviews is Scientific Style and Format: The CSE 
+Manual for Authors, Editors, and Publishers 
+(8th edition). Other authoritative references are 
+listed below. 
+
+ 
+
+BACTERIOLOGICAL NAMES Use the List of 
+Bacterial Names with Standing in Nomenclature 
+(http://www.bacterio.cict.fr) and the Approved 
+Lists of Bacterial Names as guides for validly 
+published scientific names of bacteria and 
+archaea. Use Bergey’s Manual of Determinative 
+Bacteriology and Index Bergeyana as guides for 
+names of unknown bacteria. 
+
+ 
+
+INORGANIC, ORGANIC, AND BIOCHEMICAL 
+NOMENCLATURE We accept all abbreviations, 
+symbols, and trivial names in the rules of the 
+IUPAC-IUB. 
+
+ 
+
+DRUGS Use nonproprietary (generic) names for 
+drugs. When the name is relatively unfamiliar, 
+follow its first use with the trade name. 
+Entomology, Medicine, Nutrition, Pathology: 
+Mechanisms of Disease, and Pharmacology and 
+Toxicology require the use of ® as a superscript 
+on first use of a trade name. 
+
+EXCEPTION: In Psychology, the terms adrenaline 
+and noradrenaline (not capitalized) are 
+permissible in place of epinephrine and 
+norepinephrine. 
+
+ 
+
+GENETICS The 8th edition of Scientific Style and 
+Format covers all organisms for which they 
+have been able to obtain rules and guidelines 
+(http://www.councilscienceeditors.org/publications/resources.cfm). Also see the section on italics 
+in this handbook. 
+
+ 
+
+GENUS-SPECIES SCIENTIFIC NAMES Spell out the 
+full generic and specific names on first use: e.g., 
+Escherichia coli. Thereafter, the genus name 
+should be abbreviated to the first letter (E. coli). 
+If the name appears frequently and may be 
+confused with another genus whose first letter is 
+the same, spell both names out every four or five 
+pages. 
+
+ 
+
+INSECTS Use common and scientific names 
+approved by the Entomological Society of 
+America (http://www.entsoc.org/common-
+names) whenever possible. Authors from non–
+North American countries may use common 
+names current in their countries. In general, do 
+not capitalize the first letter of a common name 
+unless a proper name is included. 
+
+ABBREVIATIONS AND SYMBOLS 
+
+Use abbreviations and symbols sparingly and 
+only if terms are repeated frequently. Define all 
+but the obvious standard symbols and 
+abbreviations when they first appear in text (a 
+list of standard abbreviations and units is 
+provided in Appendix B on p. 26). Avoid using 
+nonstandard abbreviations in titles and headings. 
+
+Chemical and graphic formulas may be used 
+(see next section) and are set in roman type. Use 
+U3+ rather than U+++. Atomic weights of isotopes 
+are to be indicated by superscripts preceding the 
+element symbol: 14C, [14C]urea. 
+
+Use abbreviations of units of measure only when 
+preceded by a numeral: 38 mm (but, a few 
+millimeters). 
+
+Use the same abbreviations for units of measure 
+when singular and plural, without periods or 
+apostrophes except in special cases noted in 
+Appendix B. Verbs must agree in number with 
+the quantity: 1 mm is, 3 mm are.... Use a space 
+between the numeral and the unit of measure, 
+except with degree, percent, and Svedberg (5°C, 
+10%, 6S). 
+
+Spell out genus names upon first usage: The 
+name may be abbreviated to its first letter 
+afterward when used in combination with the 
+species name. Never abbreviate generic names 
+when used alone; also, do not abbreviate the 
+species name when a subspecies is designated. 
+For example, use B. thuringiensis israelensis, 
+not B. t. israelensis. 
+
+
+EQUATIONS AND FORMULAS 
+
+SOFTWARE 
+
+If preparing your manuscript in Microsoft Word, 
+you may use either MathType or the Word 
+Equation Editor to create your equations. Word 
+equations will be converted to MathType as part 
+of the manuscript formatting and copyediting 
+step. 
+
+LAYOUT 
+
+Equations and formulas should be in complete 
+sentence form; include punctuation after 
+displayed equations/formulas. 
+
+Set out long equations/formulas on a separate 
+line or lines. 
+
+Number displayed equations/formulas if referred 
+to later in the text. Use a single sequence of 
+Arabic numerals, placed to the right of the 
+equation/formula. 
+
+Complicated chemical formulas that cannot be 
+typeset on one or two lines must be submitted as 
+graphics (see section on figures); assemble these 
+at the end of the text, preferably grouped 
+together on one page. 
+
+Avoid the vertical placing of side chains. Use 
+the following format, indented from the left 
+margin: 
+
+CH–C(:CH2)–CH2–CH(CH3)CH2–CH:CH–COOH 
+
+ 
+
+ 
+
+ 
+
+REFERRING TO EQUATIONS 
+
+Refer to all numbered equations as Equation 1, 
+Equation 2, etc.; do not use parentheses around 
+the number or designators other than “Equation” 
+(such as “System 3” or “Problem 1”). 
+
+SPECIAL CHARACTERS 
+
+Use the multiplication ex (×) in numerical and 
+vector products only. In all other cases, use the 
+multiplication (centered) dot. 
+
+Use the slash to mean “per”; write km/s, not km 
+s–1. In arrays, use brackets to indicate a 
+determinant and vertical lines for a matrix. 
+
+Observe the following order for brackets: {[()]}; 
+do not use parentheses within parentheses. 
+
+Use boldface roman rather than arrows for 
+vectors. Use italics for variables, but subscript 
+labels that are not themselves variables should 
+be in roman. Numerals, symbols for chemical 
+elements, and functions such as ln, exp, and cos 
+should not be italicized. 
+
+Define uncommon symbols on first use for the 
+nonspecialist. 
+
+Distinguish superscripts to superscripts and 
+subscripts to subscripts from double superscripts 
+and double subscripts (e.g., versus , 
+versus ). 
+2ae
+a2e
+3Hn
+H3n
+
+Align subscripts with superscripts when 
+appropriate to do so. 
+
+ 
+
+
+SUBMITTING YOUR MANUSCRIPT FILES 
+
+ONLINE SUBMISSION INSTRUCTIONS 
+
+We encourage invited authors to submit their 
+manuscripts online. Your Production Editor will 
+send you the URL in advance of your 
+manuscript due date. 
+
+ 
+
+HELPFUL NOTES FOR ONLINE SUBMISSION 
+
+ If possible, please compress each file using, 
+for example, WinZip, StuffIt, or GZip 
+software. Then upload. 
+ Whenever uploading more than five files, 
+compress all contents into a single folder and 
+then upload. 
+ Always include a PDF file of your final 
+manuscript, including figures and tables, in 
+addition to separate, editable files. 
+ If uploading revisions, please again include a 
+PDF file of revised text, figures, and/or tables. 
+
+
+EMAIL AND FTP SUBMISSION 
+OPTIONS 
+
+ Files may be attached to an email message and 
+sent directly to your Production Editor. 
+ Manuscript files must be compatible with 
+Microsoft Word’s “.doc(x)” or “.rtf” format. 
+Mathematically complex articles may be 
+submitted in LaTeX. 
+ A PDF of the final submitted version, 
+including all figures and tables, must 
+accompany all submissions (but does not take 
+the place of editable text and figure files). 
+ An FTP upload is also an option. Please 
+contact your Production Editor for more 
+information. 
+
+
+ 
+
+ 
+
+ 
+
+
+ APPENDIX A: LITERATURE CITED EXAMPLES 
+
+References appear as follows (note patterns of abbreviation, capitalization, spacing, and punctuation): 
+
+ 
+
+ABSTRACT 
+
+Josen LA, Tollis TM, Anthony A. 1993. Finding solutions to sequences. Fed. Proc. 
+32(3):855 (Abstr.) 
+
+ 
+
+ARTICLE IN A JOURNAL WITH TITLE OF ARTICLE 
+
+Roberts DF. 2001. A demographic study of a Dinka village. Hum. Biol. 28:323-49 
+
+Wilmington SR, Matouschek A. 2016. An inducible system for rapid degradation of 
+specific cellular proteins using proteasome adaptors. PLOS ONE 11:e0152679 
+
+ 
+
+ARTICLE IN A JOURNAL WITHOUT TITLE OF ARTICLE 
+
+Berson SA, Balow RS. 1999. Am. J. Med. 50:623-29 
+
+[use only for Astronomy and Astrophysics, Condensed Matter Physics, and Nuclear and Particle Science] 
+
+ 
+
+ARTICLE IN A JOURNAL IN PRESS 
+
+Park IJK, Wang L, Williams DR, Alegría M. 2017. Coping with racism: moderators of 
+the discrimination–adjustment link among Mexican-origin adolescents. Child 
+Dev. In press. https://doi.org/10.1111/cdev.12856 
+
+Brown MS, Radhakrishnan A, Goldstein JL. 2018. Retrospective on cholesterol 
+homeostasis: the central role of Scap. Annu. Rev. Biochem. 87:In press. 
+https://doi.org/10.1146/annurev-biochem-062917-011852 
+
+ 
+
+ARTICLE IN A JOURNAL WITH AN ERRATUM 
+
+Wilson P. 2001. Title of article. J. Mol. Biol. 229:1175–83. Erratum. 2001. J. Mol. 
+Biol. 238:639 
+
+ 
+
+BOOK REFERENCE: WHOLE BOOK CITED 
+
+Seaver W. 1995. Luck’s Lady: The Theory of Probability. Garden City, NY: Doubleday 
+
+Bronson D, Gerber RA, eds. 2003. Handbook of Biochemistry, Vols. 1, 2. San 
+Francisco: Freeman. 2nd ed. 
+
+Lerner RM, ed. 2003. Handbook of Child Psychology, Vol. 1: Theoretical Models of 
+Human Development. New York: Wiley 
+
+ 
+
+BOOK REFERENCE: INDIVIDUAL CHAPTER CITED 
+
+Bornstein L. 2002. Recombination in bacteria. In Human Genetics, Vol. 1, ed. R 
+Johnston, E Smith, pp. 65-73. London/New York: Macmillan 
+
+New MI, Schram P. 2000. Congenital adrenal hyperplasia. In Current Diagnosis, ed. 
+RB Conn, WZ Borer, JW Snyder, pp. 50–75. Philadelphia: Saunders 
+
+ 
+
+BULLETIN 
+
+Price GK, Lin W, Falck-Zepeda J. 2003. Distribution of market benefits from 
+adopting biotech crops. Tech. Bull. 1906, US Dep. Agric., Washington, DC 
+
+
+DATABASE 
+
+Natl. Cancer Inst. 2012. Adult primary liver cancer treatment. PDQ: NCI’s 
+Comprehensive Cancer Database, Bethesda, MD, updated Feb. 23. 
+http://cancer.gov/cancertopics/pdq/treatment/adult-primary-
+liver/HealthProfessional 
+
+World Bank. 2012. Little Green Data Book. Washington, DC: World Bank. 
+https://openknowledge.worldbank.org/handle/10986/12266 
+
+ 
+
+MAGAZINE/NEWSPAPER/RADIO ARTICLE 
+
+Jones A. 2004. Title of article. New York Times, Jan. 15, p. A6 
+
+Ledge J. 1999. Spanish Signs. Atlanta, GA, WABE Radio Broadcast, Mar. 15 
+
+[do not repeat year if year is the same] 
+
+ 
+
+NO AUTHOR ASCERTAINABLE 
+
+Begin reference with name of editor, compiler, or sponsoring body, if known. Otherwise begin with title 
+of article, chapter, journal, or book, followed by year. Do not use “anonymous.” 
+
+ 
+
+PAGE SPAN WITH LETTERS 
+
+11:W50–55 
+
+11:125S–28S 
+
+ 
+
+PAPER PRESENTED AT A MEETING OR CONFERENCE 
+
+Andrade RG. 1990. Culture shared and unique. Paper presented at the 69th Annual 
+Meeting of the American Anthropological Association, San Diego, Nov. 3–6 
+
+ 
+
+PATENT 
+
+Crane P, Lackmeyer G, Longyear J, Melconian A, Steward D. 2006. Electronically 
+scanning direction finding antenna system. US Patent 6,987,489 
+
+ 
+
+PREPRINT AND WORKING PAPER 
+
+Chiang E, Laughlin G. 2012. The minimum-mass extrasolar nebula. arXiv:1211.1673 
+[astro-ph.EP] 
+
+Pasaniuc B, Price AL. 2016. Dissecting the genetics of complex traits using 
+summary association statistics. bioRxiv 072934. 
+https://doi.org/10.1101/072934 
+
+Chase-Dunn C. 2016. Social movements and collective behavior in premodern polities. 
+Work. Pap. 110, Inst. Res. World Syst., Univ. Calif., Riverside. 
+http://irows.ucr.edu/papers/irows110/irows110.htm 
+
+ 
+
+
+PROCEEDINGS 
+
+Diftler MA, Mehling JS, Abdallah ME, Radford NA, Bridgwater LB, et al. 2011. 
+Robonaut 2—the first humanoid robot in space. In 2011 IEEE International 
+Conference on Robotics and Automation, pp. 2178–83. Piscataway, NJ: IEEE 
+
+Holder J. 2009. Galactic binary systems. In Proceedings of the 2009 Fermi 
+Symposium, Washington, DC, Nov. 2–5. eConf Proceedings C091122. 
+http://www.slac.stanford.edu/econf/C0911022 
+
+ 
+
+REPORT 
+
+New RL, Oldur S. 2001. Propulsion jet streams. NASA Tech. Rep. 32-1529, Jet 
+Propuls. Lab., Pasadena, CA 
+
+ 
+
+SUPPLEMENT 
+
+If suppl. is part of journal title: 
+
+Martin RN, Barrett AH. 2001. Ap. J. Suppl. 36:1-51 
+
+ 
+
+If suppl. is not part of journal title: 
+
+Taylor CA. 1995. J. Microbiol. 11(Suppl. 2):5–10 
+
+ 
+
+THESIS OR DISSERTATION 
+
+Cafiso DS. 1997. Electrical and ion selective properties of photoreceptor 
+membranes. PhD Thesis, Univ. Calif., Berkeley 
+
+[include thesis or dissertation title in journals that do not ask for article titles] 
+
+ 
+
+TRANSLATION 
+
+Aachen BL. 1937. Basis of Society. Transl. R Jones, 1958, in Am. J. Sociol. 23:18-
+57 (From German) 
+
+ 
+
+UNPUBLISHED INFORMATION 
+
+Refer to such data in the text as personal communication, submitted, unpublished data, etc., listing all 
+researchers by initials and surname (e.g., W.C. Houser, U.M. Bandlier & C.F. Kim, unpublished data). 
+Except for Economics, Financial Economics, Physical Chemistry, and Resource Economics, do not list 
+these references in the Literature Cited section. Citations of unpublished works are not permitted in 
+Entomology. 
+
+ 
+
+WEBSITE 
+
+Taussig M. 2015. Seeds of time. Flatbread Society. 
+http://www.flatbreadsociety.net/stories/30/seeds-of-time 
+
+ 
+
+YEAR, 1ST EDITION 
+
+Castellanos J. 1994 (1589). [No period before parentheses] 
+
+ 
+
+ 
+
+ 
+
+
+REPEATED REFERENCES 
+
+If different sections of the same book, symposium, etc. are cited in separate references, give full 
+information once, with the reference listed under the editor’s name. Include title of chapter in each 
+reference. 
+
+Domb AJ. 2002. Lipospheres for controlled delivery. See Salkman 2002, pp. 288-92 
+
+Salkman B, ed. 2002. Solid Nanoparticles: Methods and Industrial Applications. 
+Boca Raton, FL: Taylor & Francis 
+
+Straub EH. 2001. Hemophilia. See Salkman 2002, pp. 216-49 
+
+Do not use “Ibid.” Instead, repeat the name of the author each time. 
+
+
+APPENDIX B: STANDARD ABBREVIATIONS AND UNITS 
+
+Symbols and abbreviations on this list, as well as all SI base and derived units and prefixes, may be used 
+in your manuscript without explanation. 
+
+acceleration of gravity g 
+
+acquired immune deficiency syndrome AIDS 
+
+alternating current ac 
+
+angstrom Å 
+
+ante meridiem AM 
+
+approximately ~ 
+
+approximately equal ≈ 
+
+aqueous aq 
+
+arbitrary unit a.u. 
+
+astronomical unit AU 
+
+atmosphere atm 
+
+atomic mass unit amu 
+
+atomic unit au 
+
+atomic weight at wt 
+
+bar spell out 
+
+barn b 
+
+British thermal unit Btu 
+
+calorie (heat calorie) cal 
+
+centimeter-gram-second cgs 
+
+compare cf. 
+
+cosecant csc 
+
+cosine cos 
+
+cotangent cot 
+
+counts per minute cpm 
+
+curie Ci 
+
+curl spell out 
+
+cycles per second Hz 
+
+daltons Da 
+
+day spell out 
+
+decibel B 
+
+degree ° 
+
+degrees Celsius °C 
+
+degrees Fahrenheit °F 
+
+deuteron d 
+
+dextro D 
+
+diffusion coefficient D 
+
+direct current dc 
+
+dyne dyn 
+
+electromagnetic unit emu 
+
+electromotive force emf 
+
+electron e 
+
+electron spin resonance ESR 
+
+electron volt eV 
+
+electrostatic units esu 
+
+enthalpy change ΔH 
+
+entropy change ΔS 
+
+entropy unit eu 
+
+equilibrium constant K 
+
+equivalent eq 
+
+erg spell out 
+
+et alii (and others) et al. 
+
+et cetera etc. 
+
+exempli gratia (for example) e.g. 
+
+exponential exp. 
+
+figure spell out 
+
+foot ft 
+
+foot candle fc 
+
+gauss G 
+
+Gibbs energy change ΔG (not ΔF) 
+
+giga- G- 
+
+gram calories gcal 
+
+gravitational constant G 
+
+gravity, centrifugal g 
+
+hour h 
+
+human immunodeficiency virus HIV 
+
+hydrogen ion (concentration) pH 
+
+id est (that is) i.e. 
+
+inch spell out 
+
+infective dose ID50 
+
+infrared IR 
+
+international unit IU 
+
+kilo- k- 
+
+kilobase, kilobase pair kb 
+
+kilocycle kc 
+
+kilowatt-hour kWh 
+
+lethal dose LD50 
+
+levo L 
+
+liter L 
+
+logarithm log 
+
+logarithm, natural ln 
+
+magnitude mag 
+
+maximum max 
+
+mega- M- 
+
+metric ton (tonne) t 
+
+Michaelis constant Km 
+
+micro μ- 
+
+microgram μg (not λ) 
+
+micrometer (not micron) μm 
+
+millibar mbar 
+
+milliequivalent meq 
+
+milliliter mL 
+
+millimeters of mercury mm Hg 
+
+million years ago, mega annum Mya, Ma 
+
+
+minute min 
+
+minutes of arc arcmin 
+
+molar (concentration) M (not μmol/mL) 
+
+mole mol (not M) 
+
+molecular weight Mr or mol wt 
+
+month spell out 
+
+neutron n 
+
+normal (concentration) N 
+
+oersted Oe 
+
+page, pages p., pp. 
+
+parsec pc 
+
+parts per million ppm 
+
+percent % 
+
+post meridiem PM 
+
+potential difference PD 
+
+probable error pe 
+
+proton p 
+
+radiation, ionizing, absorbed dose rad 
+
+radiofrequency RF 
+
+retardation factor RF 
+
+revolutions per minute rpm 
+
+roentgen r 
+
+root mean square rms 
+
+second s 
+
+seconds of arc arcsec 
+
+sedimentation coefficient s 
+
+ 
+
+solar mass 
+M
+
+species sp., spp. 
+
+Specific rotation α 
+
+square centimeter cm2 
+
+Svedberg (10-13 s) S 
+
+standard deviation SD 
+
+standard error SE 
+
+tangent tan 
+
+tera- T- 
+
+tesla T 
+
+three-dimensional 3D 
+
+ton spell out 
+
+tonne (metric ton) t 
+
+torr torr (not Torr) 
+
+two-dimensional 2D 
+
+ultrahigh frequency UHF 
+
+ultraviolet UV 
+
+universal gravitational constant G 
+
+universal time UT 
+
+variant r. 
+
+versus spell out 
+
+weight concentration g/mL (not mg%) 
+
+weight percent wt% 
+
+week spell out 
+
+year spell out 
+
+ 
+
+ 
+
+ 
+
+

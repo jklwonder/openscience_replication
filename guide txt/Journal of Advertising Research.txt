@@ -1,0 +1,162 @@
+Guidelines for Contributors 
+
+The Journal of Advertising Research’s mission is to be the leading R&D 
+vehicle for academics and professionals in advertising and media. 
+The JAR provides a forum for sharing findings, applications, new􀀂
+technologies, methodologies, and avenues of solution. JAR brings 
+together both academic and practitioner communities. This means 
+there is an emphasis on publishing papers that achieve advancements 
+in theory and improvements in practice. Academic researchers 
+submitting to JAR have an unparalleled opportunity for their research 
+to directly impact advertising practice and thinking. 
+
+Types of Articles: All papers should contribute to both theory and 
+
+practice. Our goal is to present work that has more enduring value for 
+academicians as well as practitioners. Even a strong conceptual article 
+which presents a new approach to understanding the industry and its 
+ability to function in this explosive growth era may be of benefit if it 
+
+presents a compelling argumentation and logical explanation. Small 
+
+studies on a single execution/category/brand/country can suffer from 
+
+scope. 
+
+Peer-reviewed papers: These advance empirical evidence-based knowledge 
+about advertising and media, and have direct implications for 
+
+practice. Case studies are acceptable if they represent a broad set of 
+circumstances affecting JAR readers or offer innovation that contributes 
+to broadening the field of knowledge. Content analyses or literature 
+reviews must make a substantive new contribution over what is 
+already known.􀀂
+
+Note: Peer-reviewed papers are submitted through our editorial manager 
+online system (See Manuscript Submission, below). Please submit 
+short technical notes directly to the managing editor and editorin-
+chief. 
+
+Sampling: Authors should clearly articulate the sampling frame and 
+relevant details including response rates and tests for non-response 
+bias. While samples using students or Amazon’s Mechanical Turk 
+
+(MTurk) are appropriate for pilot studies, use in main studies likely 
+will lead to desk rejection. We strongly prefer more generalizable sample 
+populations 
+
+Style: JAR papers must be readable, jargon-free, and understood 
+by readers with varied backgrounds. Please adhere to the following 
+
+guidelines: 
+
+Length: Submissions should be no more than 7,000 words. Longer 
+manuscripts may be sent back to authors for reduction prior to the re
+
+
+view process. Authors will not be penalized for succinct papers. Web 
+appendices will be considered for extensive supporting notes, tables, 
+and figures.􀀂
+
+Headlines: Please use short, impactful titles to attract attention—a 
+
+combination of a short title and a subtitle help advertise the most im
+
+
+portant content and strengthen SEO.􀀂
+
+Clarity and Navigation: Write in an interesting, readable manner􀀂
+that is relevant to readers outside your field of expertise. Short simple 
+sentences and paragraphs, clear logical flow, and ample use of􀀂
+subheadings reduce the reader’s workload by improving readability.􀀂
+
+Background And Literature Reviews: Focus on issues of direct relevance 
+only. Avoid tangential issues and repetition. 
+
+Technical terms: Minimize them where possible and, if unavoidable, 
+provide definitions.􀀂
+
+Results and Discussion: Break out these sections, so the distinction 
+between the findings and their interpretation is obvious.􀀂
+
+Implications for Practice: Frame these as a direct result of the research 
+and as actionable for practitioners. 
+
+Sentence Structure, Grammar: Use references to support an argument. 
+For example “Black is white (Precourt, 2013)” rather than “Precourt 
+(2013) found that black is white.” Minimize the passive voice, 
+and avoid first-person narrative (e.g., we/I); refer to yourself as “the 
+author” or “the author of the current study.” Pay attention to grammar 
+and spelling. Italicize all Latin abbreviations.􀀂
+
+SUBMISSION STRUCTURE 
+Editorial Review: Author information can be included in a cover letter, 
+including any acknowledgment of financial or technical assistance. 
+However, the authors’ names should NOT appear on the title 
+page or text of a manuscript as papers are subjected to double-blind 
+review. If a submission passes the desk-reject stage, manuscripts are 
+passed on to three reviewers (normally including at least one academic 
+or one practitioner).􀀂
+
+Abstracts: Each paper should be summarized by an abstract of 100 or 
+fewer words and should enable any reader of the JAR to know what 
+it is about, plus a 100-word “Management Slant” of 3-5 bullet points 
+summarizing findings and business applications.􀀂
+
+Tables/Figures/Artwork: Use tables and figures (limit of 3) only when􀀂
+the findings can’t be integrated into the text. Smaller tables (e.g., 2 x 2)􀀂
+should be described in the text rather than a separate table. Unnecessary 
+supplemental graphics may only be published online. 
+
+Figures/tables should have titles and be numbered consecutively, 
+
+and be placed in the main body of the text. 
+
+Use graphics as information that supports a finding, not as the 
+finding itself—i.e., “The sky is falling (See Figure 1).” Do not begin 
+sentences with a graphic or a chart as the subject—i.e., “Table 2 shows 
+the effect...”.􀀂
+
+Please make use of appendices for useful but not essential detail. 
+
+At the production stage, please provide editable versions of any 
+
+charts. 
+
+References: All references should be included and listed alphabeti
+
+
+cally by first author’s last name at the end of the paper in the reference 
+section. See examples below; please check a recent issue of JAR for 
+more: 
+
+Phelps, J. E., R. Lewis, L. Mobilio, D. Perry, and N. Raman. “Viral 
+Marketing or Electronic Word-of-Mouth Advertising: Examining 
+Consumer Responses and Motivations to Pass Along Email.” Journal 
+of Advertising Research 44, 4 (2004): 333–48.􀀂
+
+Hair, J. F., W. C. Black, B. J. Babin, R. E. Anderson, and R. L. Tatham. 
+Multivariate Data Analysis, 6th ed. Upper Saddle River, NJ: Prentice 
+Hall, 2006.􀀂
+
+Hetter, C. “Implications of New Interactive Technologies for Conceptualizing 
+Communication.” In Media Use in the Information Age: Emerging 
+Patterns of Adoption and Computer Use, J. L. Salvaggio and J. Bryant, 
+eds. Hillsdale, NJ: Lawrence Erlbaum Associates, 1989.􀀂
+
+In making references to such sources in the text, use authors’ last 
+
+names and date only in parentheses. 
+
+Manuscript Submission: Electronic submissions must be made via 
+the JAR website (http://journalofadvertisingresearch.com [click on the 
+Submit tab]) or directly at our Editorial Manager page, http://www.􀀂
+editorialmanager.com/jar. Paper submissions are not accepted. The 
+JAR website offers other information including editorial board members 
+and editorial policies. First-time authors will be required to create 
+an Editorial Manager user account in order to proceed. Each submission 
+must adhere to the above guidelines; those that do not follow the 
+guidelines will be returned to the author for correction. If you have 
+any questions, please contact us at jar@warc.com.􀀂
+
+

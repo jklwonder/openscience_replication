@@ -1,0 +1,607 @@
+ 
+
+GUIDELINES FOR AUTHORS 
+
+2020-ver-04-En 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. GENERAL INFORMATION 
+
+ 
+
+“Comunicar”, Media Education Research Journal, is a bilingual publication from Grupo Comu-
+nicar Ediciones (VAT: G-21116603). This established non-profit professional group, founded in 
+1988 in Spain, specialises in the field of media education. The journal has been in print 
+continuously since 1993, and is currently published quarterly. 
+
+Contents are peer reviewed, in accordance with the publication standards established in the 
+APA 7.0 (American Psychological Association) manual. Compliance with these requirements 
+facilitates indexing in the main databases of international journals in this field, ensuring the 
+dissemination of published papers and therefore improves the profile of the authors and their 
+centres. 
+
+“Comunicar” is indexed in Journal Citation Reports (WoS-JCR), Scopus (Citescore), REDIB, FECYT 
+and over 725 international databases, catalogues, and repertoires worldwide. 
+
+Each issue of the journal comes in a print (ISSN: 1134-3478) and electronic formats (e-ISSN: 
+1988-3293) (www.comunicarjournal.com), its interface and abstracts are available in Chinese 
+and Portuguese. Each paper is identified with a DOI (Digital Object Identifier System). 
+
+ 
+
+ 
+
+2. SCOPE AND POLICY 
+
+ 
+
+2.1. Subject Matter 
+
+ 
+
+Fundamentally, papers related to communication and education, and especially the intersection 
+between the two fields: media literacy, educational media and resources, educational 
+technology, audiences, new languages, social networks, multimedia and audio-visual tech-
+nologies... 
+
+ 
+
+2.2. Contributions 
+
+ 
+
+“Comunicar” publishes research results related to the convergence between education and 
+communication, written in Spanish or English. Also, reports, studies, proposals and selected 
+state-of-the-art articles can be sent. 
+
+It is the authors’ responsibility to ensure their submissions are original and have not been 
+published previously or are in the process of being published elsewhere. The contributions to 
+this journal may be: 
+
+
+- Research papers: Between 5,000 and 6,700 words of text, including titles, abstracts, 
+keywords, tables and references. 
+
+- Reports, Studies, Proposals: Between 5,000 and 6,700 words of text, including titles, 
+abstracts, keywords, tables and references. 
+
+- State-of-the-art articles: Between 6,000 and 7,200 words of text (references and tables 
+included). An exhaustive review of a recent and current topic in the area under 
+discussion is expected. A justified and selective bibliography of about 100 references is 
+positively valued. 
+
+“Comunicar” publishes four issues a year (forty articles per year) composed of two sections each, 
+with five papers per section: 1) Dossier: monograph section, previously organized, with a call 
+for papers, and coordinated by experts in the topics serving as editors. 2) Kaleidoscope: varied 
+contributions within the general subject of publication. The Editorial Board will assign the 
+manuscript to the appropriate section. 
+
+Authors may submit manuscripts for evaluation at any time, although for entry purposes they 
+will be considered as having been received on the last day of each quarter. Monographs are 
+closed six months before the publication of the journal. 
+
+ 
+
+ 
+
+3. EDITORIAL PROCESS 
+
+ 
+
+“Comunicar” confirms the receipt of all articles submitted by the authors and keeps them 
+informed by e-mail and on the platform of the admission/dismissal and acceptance/rejection 
+process, as well as the editing process, in the event of acceptance. The webpage 
+www.comunicarjournal.com (Submission Guidelines section) also provides full guidelines for 
+publication, checklist protocol for submission, manuscript structure protocol, cover letter, 
+manuscript submission online system, and external review protocol… 
+
+About 30 days from the manuscript’s receipt date, the authors will be sent official notification 
+of reception and whether the document has passed the preliminary stage of acceptance for 
+assessment by our reviewers. In case the manuscript presents format deficiencies or is not 
+included in the thematic focus of the publication, the Editorial Board will dismiss the manuscript, 
+without a re-submission option. No subsequent correspondence with authors of dismissed 
+manuscripts will be maintained. However, if the manuscript’s deficiencies are superficial, it will 
+be returned to the author for correction before the assessment process begins. The official 
+admission date of the manuscript is the date when this corrected version is received. We 
+strongly recommend the authors run an automatic spell check on the document before 
+returning the document to us. 
+
+Manuscripts will be reviewed scientifically, anonymously, by five experts (on average) in the 
+field. In view of these external evaluations (see external review protocol annex), a decision will 
+be made as to whether to accept or reject the articles for publication, as well as the possible 
+introduction of stylistic changes and/or the need to trim texts that exceed the maximum length 
+permitted, always respecting the original content. In order to offset the conflicting judgments 
+between reviewers, “Comunicar” uses review by multiple reviewers. Once the Editorial Board 
+has completed all the admission procedures, the maximum scientific evaluation period for 
+
+
+submissions is 90 days. The average length of time for a scientific review is 50 days and 50 days 
+for final acceptance. For manuscripts submitted to specific calls, the beginning of the peer-
+review process will be the call’s deadline. 
+
+Papers that are evaluated positively, requiring modifications (both minor and major), will be 
+returned within 15 days at the latest. 
+
+All the authors will receive anonymous scientific evaluation reports so the relevant 
+improvements or responses can be made. 
+
+The authors of accepted articles will receive the printing proofs for correction by e-mail in PDF 
+format before final publication. The proofread, corrected versions must be returned within 
+three days of their receipt. Only very minor corrections can be made regarding the content of 
+the previously evaluated original manuscript. 
+
+Once the manuscript has been definitely accepted, the final version for publication must be 
+returned with all proposed changes in English or Spanish (according to the original version) for 
+the bilingual edition of “Comunicar”, in order to guarantee the international readership and 
+diffusion. The translated text must meet the highest professional standards. 
+
+Before an issue is published, the papers will be given their own DOI in the “Articles in Press” 
+section in the website of the journal. 
+
+In general, once the external scientific reports have been read, the criteria that justify the 
+editors’ decision to accept or reject submissions by Editorial Board are as follows: 
+
+a) Current and new. 
+
+b) Relevance and significance: advancement of scientific knowledge 
+
+c) Originality. 
+
+d) Reliability and scientific validity: verified methodological quality. 
+
+f) Organisation (logical coherence and formal presentation). 
+
+g) External support and public/private funding. 
+
+h) Co-authorship and degree of internationalization of the proposal and equipment. 
+
+i) Presentation: good written style. 
+
+Authors can access their publication online, both in the preprint version and in its final version. 
+It is recommended that the authors commit to purchasing printed copies for free distribution 
+among colleagues and institutions, for the support of the editorial project. This is prescriptive in 
+the case of authors having external funding support. 
+
+Authors will accept to be members of the International Reviewers Board for three years, once 
+their manuscript has been published. 
+
+ 
+
+4. PRESENTATION AND STRUCTURE OF ORIGINAL PAPERS 
+
+ 
+
+Manuscripts must be sent exclusively through OJS 3 (Open Journal System) 
+(http://bit.ly/2EvrWGZ). All the authors of a manuscript must register with their credits into the 
+OJS platform, although only one will be the responsible for correspondence. No author can 
+
+
+submit two manuscripts simultaneously, and there should be an interval of four issues between 
+authors’ published article and next submission of a new one. 
+
+Manuscripts must be submitted in Arial font, size 10, single spacing, fully justified and with no 
+tabulations or carriage returns between paragraphs. Only the major blocks of text should be 
+separated by carriage returns (author, titles, abstracts, keywords, credits and sections). The 
+page should have 2 cm margins (lateral and vertical). Submissions must be in Word format for 
+PC. The file has to be made anonymous in the File Properties so the author's identification is not 
+possible. 
+
+These publication guidelines are based on APA 7.0 standards: http://bit.ly/2JkuWs8 
+
+ 
+
+4.1. Structure 
+
+ 
+
+The following two files must be sent together: 1) Cover letter (see official model); 2) Manuscript, 
+strictly following the template found in the Guidelines section of the official website: 
+https://bit.ly/3fpLoWD. 
+
+ 
+
+a) COVER LETTER 
+
+ 
+
+These files, signed by the author(s), include: 
+
+• Full name and surname of each author in order of priority (the number should be 
+justified by the subject, its complexity and its length, the average for the area being 
+three authors). In the case of more than three authors, it is prescriptive to justify 
+substantially the original contribution of the team, since it will be taken into account in 
+the estimation of the manuscript. The names must be followed by the professional 
+category, centre of work, e-mail address of each author and ORCID and Google Scholar. 
+It is compulsory to indicate if the academic degree of doctor is held (include Dr. in front 
+of the name). The academic signature (name) must be standardized in accordance with 
+international conventions to facilitate identification in the main databases 
+(https://bit.ly/2SY226c). It is mandatory to register in the International Registry of 
+Researchers (ORCID) (http://orcid.org). 
+
+Also included is a statement by: 
+
+ An original contribution. 
+ Funding statement. 
+ The manuscript has not been sent simultaneously to other journals. 
+ Confirmation of authorship. 
+ Acceptance, if applicable, and formal changes to the manuscript in accordance with 
+the rules of publication. 
+ Transfer of rights to the editor. 
+
+
+ 
+
+ 
+
+ 
+
+
+b) MANUSCRIPT 
+
+ 
+
+This file must contain: 
+
+• Title of the article (concise but informative), in Spanish on the first line and then in 
+English, containing as many significant terms as possible. A maximum of two lines will 
+be accepted (max. 80 characters including spaces). The titles are not only the 
+responsibility of the authors but also the editors. If they are not worded correctly, the 
+meaning of the work could be modified. 
+
+• Full name and surname(s) of each of the authors in order of priority (the number of 
+authors of a contribution must be justified by the subject, its complexity and its 
+extension. The average number of authors in this field is three. If there are more than 
+three authors, their specific contributions must be clearly indicated), followed by their 
+academic position, their academic centre and their e-mail addresses. If an author 
+possesses the academic qualification of doctor this must be indicated (by including the 
+title Dr before the name). The signature format must adhere to the international 
+database regulations for the indexing of authors and web pages (https://bit.ly/2AHS2Fb). 
+It is prescriptive to register in Open Researcher and Contributor ID (ORCID) 
+(http://orcid.org). 
+
+• Abstract in English: 200/210 words. The use of automatic translators is not allowed 
+for its preparation, as it is for the title and keywords, due to their poor quality. The eva-
+luators also assess this aspect of the paper and our reviewers analyse linguistic 
+standards and style if necessary. 
+
+• Abstract in Spanish: 220/230 words, providing a concise description of the motive and 
+purpose of the research project, the methodology used, the key findings and main 
+conclusions, following the structure: justification of the subject, goals, study metho-
+dology, results and conclusions. It should be written in an impersonal style. 
+
+• Keywords in English / Keywords in Spanish (6 terms). Comunicar has available a 
+Thesaurus in Spanish of the most-commonly used simple keywords in topics covered by 
+the journal. We recommend incorporating these standard keywords in the manuscript, 
+as well as consulting the UNESCO Thesaurus (https://bit.ly/2zmdn5g). New terms are 
+accepted only occasionally. Our Thesaurus can be consulted (www.comunicarjournal.com). 
+All terms used must be in standard scientific English. 
+
+ 
+
+Research papers should rigorously adhere to the following structure, although the sections 
+“Notes” and “Sources of funding” are optional. Reports, Proposals, Studies and State-of-the-Art 
+articles can also be more flexible in sections 2, 3 and 4. The section “References” is compulsory 
+in all submissions. 
+
+ 
+
+1. Introduction: This section must reflect the foundations and purpose of the study, using the 
+most relevant citations. Data or conclusions of the work will not be included here. 
+
+2. Material and methods: This section should be presented with the precision deemed 
+necessary for the reader to understand and confirm the development of the research. If 
+
+
+required, the sample and sampling methods should be described, and reference made to the 
+type of statistical analysis employed. If the methodology is original, reasons must be provided 
+to justify this usage and its possible limitations described. 
+
+3. Results: The most important observations should be highlighted, describing findings made 
+with the material and methods used but without interpreting them or making value judgements. 
+Essential tables and figures should appear in a logical sequence in the text, avoiding redundancy 
+and reiteration of data. 
+
+4. Discussion and conclusion: This section should summarise the findings, relating the 
+observations made in this respect with other relevant studies, specifying contributions and 
+limitations, without reiterating data discussed previously in other sections. Inferences from the 
+findings should be mentioned along with their constraints, including deductions for future 
+research, and the conclusions should be linked with the study aims, avoiding gratuitous 
+statements and conclusions not supported fully by the research data. 
+
+Notes. These are considered exceptional and should always go at the end of the article (before 
+the references). They should be included manually, since the automatic process used by Word 
+is not recognised by publishing layout systems. The numbers corresponding to the endnotes 
+should be inserted in superscript into the main body of the text and by the endnote itself. In the 
+text, they should go before the full stop or closing comma. Notes must not include simple 
+bibliographic citations (without comments), since these should be included in the references 
+section. 
+
+Funding Agency: The Council of Science Editors advises authors to provide a financial support 
+statement for the research project. 
+
+Research studies that are backed by competitive national and international projects will be 
+considered a priority. In any case, this section, which is very important for the scientific 
+assessment of the manuscript, should be made anonymous with XXX for its initial evaluation, so 
+that the authors and research groups are not identified. These, however, should be clearly 
+stated on the Cover letter, and later on the final manuscript. 
+
+References: Bibliographic citations must be included as references to the text. The bibliography 
+should not include any references not cited in the text. The number of references must be 
+sufficient and necessary for contextualizing the theoretical framework, the methodology used 
+and the results of research in an international research context. These are to be presented 
+alphabetically by the author’s first surname (adding the second surname only when the first 
+surname is very common and attached with a hyphen). Bibliographic citations must be taken 
+from the original documents –preferably journals and, to a lesser extent, books– always 
+indicating the initial and final page of the article or work from which they have been taken, 
+except for complete works. 
+
+Given the importance for indexing purposes of citations and calculations of impact factors, 
+correct citation will be assessed in accordance with the APA style 7th edition, valuing the 
+inclusion not only of national but also international references from prestigious international 
+journals (http://bit.ly/2JkuWs8). 
+
+ 
+
+
+4.2. Guidelines for References 
+
+ 
+
+PERIODICAL PUBLICATIONS 
+
+ Journal article (one author): Aguaded, I. (2014). Research as a Strategy for Training 
+Educommunicators: Master and Doctorate [La investigación como estrategia de formación de 
+los educomunicadores: Máster y Doctorado]. Comunicar, 43, 07-08. https://doi.org/10.3916/C43-
+2014-a1 
+ Journal article (up to twenty authors): Vanderhoven, E., Schellens, T., & Valcke, M. (2014). 
+Educating Teens about the Risks on Social Network Sites. An intervention Study in Secondary 
+Education [Enseñar a los adolescentes los riesgos de las redes sociales: una propuesta de 
+intervención en Secundaria]. Comunicar, 43, 123-132. https://doi.org/10.3916/C43-2014-12 
+ Journal article (more than twenty authors): Miller, T.C., Brown, M.J., Wilson, G.L., Evans, B.B., 
+Kelly, R.S., Turner, S.T., Lewis, F., Lee, L.H., Cox, G., Harris, H.L., Martin, P., Gonzalez, W.L., 
+Hughes, W., Carter, D., Campbell, C., Baker, A.B., Flores, T., Gray, W. E., Green, G., … Nelson, T. 
+P. (2018). Altruism on American television: Examining the amount of, and context surron-ding. 
+Acts of Helping and Sharing. Journal of Communication, 56(4), 707-727. 
+https://doi.org/10.1000/45jd_example 
+ Journal article (without DOI): Gabelas, J.A. (2007). A view of media education in Spain [Una 
+perspectiva de la educación en medios para la comunicación en España]. Comunicar, 28, 69-73. 
+https://bit.ly/2LkWBMB 
+
+
+Note 1: Articles belonging to bilingual journals should be referenced in English and Spanish. 
+
+Note 2: References should follow the English international standard and no special characters should be in 
+surnames. 
+
+Note 3: In the final references in English, all tonic words, except connectors, are capitalized. 
+
+ 
+
+BOOKS AND BOOK CHAPTERS 
+
+ Entire books: Castells, M. (2001). The Internet Galaxy. Oxford University Press. 
+ Chapters: De-Benito, B., & Salinas, J. (2002). Webtools: Aplicaciones para sistemas virtuales de 
+formación. In I. Aguaded, & J. Cabero (Eds.), Educar en la Red. Internet como recurso para la 
+educación (pp. 175-198). Aljibe. 
+
+
+ 
+
+ELECTRONIC MEDIA 
+
+For electronic media citation in references, please check APA Style 7: http://bit.ly/2JkuWs8. 
+Example citation for a Tweet: 
+
+ Revista Comunicar [@Rev_comunicar] (2017, July 17). #Laboratorios sociales, un nuevo 
+fenómeno social que se encuentra en plena explosión de posibilidades [Image attached] 
+[Tweet]. Twitter. http://bit.ly/labinv 
+
+
+Example citation for a Twitter profile: 
+
+ Revista Comunicar [@Rev_comunicar] (n.d.). #Laboratorios sociales, un nuevo fenómeno 
+social que se encuentra en plena explosión de posibilidades [Twitter profile]. Twitter. 
+November 1, 2019. http://bit.ly/labinv 
+
+
+ 
+
+ 
+
+
+DISSERTATIONS AND THESES 
+
+ Doctoral dissertation/Master’s thesis: Harris, L. (2014). Instructional leadership perception and 
+practice of elementary school leaders [Doctoral dissertation, University of Virginia]. ProQuest 
+Dissertations and Theses Global. https://bit.ly/thesisexample 
+ Unpublished doctoral dissertation/Master’s thesis: Harris, L. (2014). Instructional leadership 
+perception and practice of elementary school leaders [Unpublished doctoral dissertation]. 
+University of Virginia. 
+
+
+ 
+
+It is prescriptive that the DOI (Digital Object Identifier System) of cited articles are shown in the 
+references (https://search.crossref.org/). Also all journals and books that don´t have DOI, must 
+have their link (in their online version, if they have it). 
+
+All web urls submitted must appear shortened in the manuscript by using https://bitly.com/, 
+although DOIs need to stay in their original format. 
+
+“Comunicar” has a library of 1,830 published articles. The review of this literature is an obligation 
+in order to maintain the scientific coherence in the editorial line but self-citations by the author 
+and to this journal are to be limited and strictly controlled. A full literature review is also 
+expected, focusing on those scientific works with wide international dissemination. We 
+recommend that authors consult the journals that appear in JCR, Scopus, ERIH, REDIB, Dialnet 
+Metrics and Fecyt. As for the number of citations, this will depend on the nature of work 
+(thematic area, approach...). As an example, the average number of references in JCR 2016 is 45 
+in the areas of Communication and Education. 
+
+ 
+
+4.3. Other annotations 
+
+ 
+
+Headings in the main body of the article should be numbered using the Arabic numeral system. 
+They should not include capital letters, underlined or bold words. Numbering must have a 
+maximum of three levels: 1. / 1.1. / 1.1.1. At the end of each numbered heading, a line break 
+should be entered. 
+
+No text should be underlined. Furthermore, block capitals should not be used, with the 
+exception of initials and acronyms. Foreign words and article titles should be inserted between 
+quotation marks in the English version (“ ”). (Typographical quotation marks should be used in 
+the Spanish version, “ ”). To facilitate this process, the find/search function of the word 
+processor could be used. Book titles should be written in italics in the references, and between 
+quotation marks in the main body of the text. No term should be written in italics, use only 
+quotation marks if necessary. 
+
+Reference citations must be correct; incorrect citations are unacceptable. As a general rule, 
+according to the APA style, the author should be cited in the main body of the text and the year 
+in brackets, followed by a comma and space, and then the page number or numbers preceded 
+by a colon, separated in turn with a dash. If the author is not cited in the main body of the text, 
+he or she should be included in brackets, before the year, followed by a comma and space. It is 
+recommended to see samples in the published articles. After reviewing the results, the use of 
+reference managers such as RefWorks, EnddNote or Mendeley is highly recommended. 
+
+
+Bibliographic citation, both the discursive thread and the references must comply with standar-
+dised consistent criteria. This aspect is crucial in a scientific journal. Incoherence and deviation 
+from the established rules are not accepted. Particular attention must be paid to the 
+punctuation system: commas, full stops, semi colons, colons. 
+
+Check the text using Word’s spell-check function, although many erroneous terms are not 
+detected, certain problems are resolved automatically. To avoid the common error of including 
+two or three spaces between words, use the find/replace tool to search for double spaces and 
+replace them with a single space. 
+
+Tables must be included in the main body of the text in Word format in order of appearance, 
+numbered using Arabic numerals. They will be used to clarify important points and will not be 
+longer than one vertical page. 
+
+Figures, such as photographs, images, graphs and illustrations must provide significant 
+clarifications and must not exceed the number of six per article between tables and graphs. They 
+should be inserted in the main body of the text, in order of appearance, numbered in Arabic 
+numerals and captioned with a concise description of their content. The text shall have print 
+quality, and shall be presented in .PNG format, as well as a separate file in an editable (modifiable) 
+format. The originality in the graphic representation of research results will be taken into account. 
+It is recommended to use online programs: awGraph ((https://bit.ly/2SBkSOC), Plotly 
+(https://bit.ly/2SEVHKY), ChartGo (https://bit.ly/2qoRG0k); Online Chart Tool 
+(https://bit.ly/2zpjA0g), etc. or similar programs with 3D graphs. 
+
+Abbreviations, only universally accepted standard abbreviations may be used (See Units 
+Symbols and Abbreviations). When shortening a term used frequently in the text, the 
+corresponding abbreviation must be included in brackets following the first appearance of the 
+term. Roman numerals must not be used in the text. For decimal numbers, a decimal point 
+should be used to the right of the zero and not a comma. 
+
+Supplementary material. Many articles require supplementary materials such as annexed 
+material and/or attached documents: visual, audiovisual, statistical, extensive tables and 
+complex colour graphics among others, due to format and size, they cannot be inserted in the 
+articles. In “Comunicar”, these documents will accompany the manuscript as extra files, and 
+once accepted, the author will publish them online, in its prescriptive form, using the Figshare 
+(http:figshare.com) platform. The citation of this material will be inserted in the manuscript. This 
+web also offers a free complementary DOI. 
+
+ 
+
+ 
+
+5. CHARGES 
+
+ 
+
+“Comunicar” is an Open Access scientific journal that offers its whole production online for the 
+entire scientific community. Likewise, it does not establish any economic charge during the 
+complete editorial process for the publication of the articles, including the scientific review and 
+layout. 
+
+
+In the case of funded research or work that has institutional support, it is compulsory to 
+collaborate in the promotion of the Journal, by acquiring a minimum number of 15-30 issues for 
+free distribution, depending on numbers of authors, for free distribution, without economic 
+purposes or commercial distribution. “Comunicar” will register these entities in the International 
+registry FundRef (CrossRef) as well as in the journal’s official website. In the case of non-funded 
+research, all authors should also collaborate with the acquisition of printed copies and with the 
+online dissemination of their articles. 
+
+ 
+
+ 
+
+6. ETHICAL RESPONSIBILITIES 
+
+ 
+
+Each author must submit a statement of authorship and text originality, the ethical commit-
+ments they have agreed to and, if necessary, any conflicts of interest. A statement justifying the 
+author’s choice of journal is optional. 
+
+ Unpublished. Previously published material will not be accepted. The authors are 
+responsible for obtaining the relevant permission to partially reproduce any material 
+(text, tables or figures) from other publications and to cite their origin correctly. 
+The opinions expressed in the articles published are the responsibility of the author(s). 
+“Comunicar”, as an international partner of CrossRef, uses CrossCheck, an antiplagarism 
+web tool, to guarantee that the manuscripts are original (https://bit.ly/2zm2vo1). 
+ Authorship. The list of signatory authors must only list the people who have contributed 
+intellectually to the development of the work. “Comunicar” refuses any responsibility in 
+relation to possible conflicts derived from the authorship of the work published. 
+ Informed consent. The authors must specify that the procedures used on expe-
+rimentation subjects were performed having previously obtained informed consent. 
+ Transfer of copyright ownership. The cover letter must specify the transfer of copyright 
+ownership of the manuscript for its publication in “Comunicar”. 
+
+
+ 
+
+ 
+
+7. PROMOTION AND DISSEMINATION OF PAPERS 
+
+ 
+
+Authors are expected to promote their own manuscripts once published, as well as the journal 
+itself. Authors are also expected to participate in the pre-print and post-final edition phases of 
+publication via the journal’s social network pages. “Comunicar” has a “Cited by” section that 
+gathers citations in JCR, Scopus, GSM and CrossRef. The authors should promote articles using 
+their link from the journal’s official website (www.comunicarjournal.com) with the DOI, in order 
+to increase reading, citation and the impact of their articles. 
+
+Prior to final publication, it is advisable for authors to file their preprint version on their personal 
+and institutional websites, scientific social networks, repositories, bibliographic managers... The 
+preprint must include the following statement: "This is the electronic version of an article 
+accepted for publication in COMUNICAR [number/year], now available online on the official 
+website through its DOI". Once published, the authors must specify: "This is the electronic 
+
+
+version of an article published in COMUNICAR [number/year]. The final version is available at 
+the official website, on the date indicated in the preprint, through its DOI". 
+
+“Comunicar” encourages authors and the scientific community to generate the maximum 
+promotion and dissemination of the final version of their work through: 
+
+1) Contact (e-mails) and social networks (Facebook, Twitter, LinkedIn…). 
+
+2) Institutional repository of their own University and public repositories (Mendeley…). 
+
+3) Scientific social networks (Academia.edu, ResearchGate, Kudos…). 
+
+4) The authors’ own websites or institutional website, blog, etc. 
+
+5) Google Scholar, ORCID, ResearchID, ScopusID, Dimensions, PlumX... 
+
+6) Printed copies purchased directly and sent to experts for further reading and citation if 
+necessary. 
+
+For new and future submissions from current “Comunicar” authors, the impact of previous 
+published articles will be taken into account. Articles with more citations than the journal’s 
+annual average citation number in JCR / Scopus will be preferred. 
+
+

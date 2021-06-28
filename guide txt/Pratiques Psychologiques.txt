@@ -1,0 +1,1330 @@
+ 
+
+ 
+
+ 
+
+Guide for authors 
+
+ 
+
+ 
+
+ 
+
+Pratiques psychologiques is an official publication of the 'Société française de psychologie'. 
+
+It publishes thematic issues and concentrates on the applications in the psychological practice. It covers all 
+fields of psychology. The journal offers articles in both English and French. 
+
+ 
+
+ 
+
+These manuscripts must be in accordance with the instructions below. They are inspired by the standards of 
+presentation of manuscripts proposed by the international committee of the writers of medical newspapers, 
+known under the name of “Group of Vancouver” (International Committee of Medical Journal Editors. 
+
+ 
+
+Contents (English version - for French version, see below) 
+Publication Rules ....................................................................................................................................................................... 2 
+Ethics in publishing ............................................................................................................................................................... 2 
+Studies in humans and animals ............................................................................................................................................. 2 
+Informed consent and patient details ................................................................................................................................... 3 
+Disclosure of interest ............................................................................................................................................................ 3 
+Submission declaration and verification ............................................................................................................................... 3 
+Change to Authorship ........................................................................................................................................................... 3 
+Copyright............................................................................................................................................................................... 4 
+Role of the funding source .................................................................................................................................................... 4 
+Acknowledgements ............................................................................................................................................................... 4 
+Open access .......................................................................................................................................................................... 4 
+Manuscript Submission .............................................................................................................................................................. 5 
+Language .......................................................................................................................................................................... 5 
+Manuscript presentation ........................................................................................................................................................... 5 
+Title page .............................................................................................................................................................................. 5 
+Manuscript ............................................................................................................................................................................ 5 
+Footnotes .............................................................................................................................................................................. 6 
+Nomenclature and Units ....................................................................................................................................................... 6 
+Tables .................................................................................................................................................................................... 6 
+Figures ................................................................................................................................................................................... 7 
+Color artwork ........................................................................................................................................................................ 7 
+Illustration services ............................................................................................................................................................... 7 
+Video data ............................................................................................................................................................................. 7 
+Acknowledgements ............................................................................................................................................................... 8 
+References ............................................................................................................................................................................ 8 
+After acceptance ........................................................................................................................................................................ 9 
+Board Decision ...................................................................................................................................................................... 9 
+Online proof correction ........................................................................................................................................................ 9 
+Offprints .............................................................................................................................................................................. 10 
+Author Inquiries .................................................................................................................................................................. 10 
+
+Sommaire (version française) 
+Responsabilités éthiques des auteurs ...................................................................................................................................... 11 
+Protection des participants aux études de recherche ........................................................................................................ 11 
+Déclaration de soumission .................................................................................................................................................. 12 
+Paternité de l’article ........................................................................................................................................................... 12 
+Liens d’intérêts.................................................................................................................................................................... 12 
+Copyright............................................................................................................................................................................. 13 
+Rôle des sources de financement ....................................................................................................................................... 13 
+Remerciements ................................................................................................................................................................... 13 
+Open access ........................................................................................................................................................................ 13 
+Soumission des manuscrits ...................................................................................................................................................... 13 
+Présentation du manuscrit .................................................................................................................................................. 14 
+Notes de bas de page .......................................................................................................................................................... 14 
+Unités de mesure, symboles et noms commerciaux. ......................................................................................................... 15 
+Tableaux .............................................................................................................................................................................. 15 
+Figures / Images .................................................................................................................................................................. 15 
+Compléments électroniques ............................................................................................................................................... 15 
+Références bibliographiques ............................................................................................................................................... 15 
+Source des abréviations de la revue ................................................................................................................................... 16 
+Conseils à la rédaction ............................................................................................................................................................. 16 
+Traductions ......................................................................................................................................................................... 16 
+Décision du comité de rédaction ............................................................................................................................................. 17 
+Acceptation du manuscrit ................................................................................................................................................... 17 
+Refus du manuscrit ............................................................................................................................................................. 17 
+Apres acceptation .................................................................................................................................................................... 17 
+Après Mise en page : ProofCentral ..................................................................................................................................... 17 
+Sharelink et tirés-à-part ...................................................................................................................................................... 17 
+Publication Rules 
+
+1. All manuscripts addressed to the journal are submitted to anonymous peer review. After any modifications 
+deemed necessary, manuscripts must then be approved by the Editorial board for publication. 
+
+The Editorial Board reserves the right to publish a commentary concerning the article. This commentary will be 
+addressed to the author with the galley proofs. 
+
+2. Manuscripts must not be submitted to another review or previously published. 
+
+3. It is understood that by submitting a manuscript for publication in the journal that the work has been approved 
+by all authors and also -either explicitly or implicitly- by the institutional authorities under which it was produced. If 
+a manuscript is accepted for publication, it cannot be published again, either in the original language of publication 
+or another language, without the express written consent of the publisher. 
+
+4. If the submitted manuscript includes extracts from other documents or publications covered by copyright, the 
+authors must furnish written authorization for reproduction from the copyright owners and cite, in the submitted 
+manuscript, the source of the original publication. 
+
+ 
+
+Ethics in publishing 
+
+Please see our information pages on Ethics in publishing and Ethical guidelines for journal publication. 
+
+ 
+
+Work submitted for publication must be conducted in application of current regulations concerning biomedical 
+experimentation and comply with the ethical principles of the Helsinki declaration. More information on Ethics in 
+publishing and Ethical guidelines for journal publication. 
+
+ 
+
+Studies in humans and animals 
+
+If the work involves the use of human subjects, the author should ensure that the work described has been carried 
+out in accordance with The Code of Ethics of the World Medical Association (Declaration of Helsinki) for 
+experiments involving humans. The manuscript should be in line with the Recommendations for the Conduct, 
+Reporting, Editing and Publication of Scholarly Work in Medical Journals and aim for the inclusion of representative 
+human populations (sex, age and ethnicity) as per those recommendations. The terms sex and gender should be 
+used correctly. 
+
+ 
+
+
+Authors should include a statement in the ethics form that informed consent was obtained for experimentation 
+with human subjects. The privacy rights of human subjects must always be observed. 
+
+ 
+
+All animal experiments should comply with the ARRIVE guidelines and should be carried out in accordance with the 
+U.K. Animals (Scientific Procedures) Act, 1986 and associated guidelines, EU Directive 2010/63/EU for animal 
+experiments, or the National Institutes of Health guide for the care and use of Laboratory animals (NIH 
+Publications No. 8023, revised 1978) and the authors should clearly indicate in the manuscript that such guidelines 
+have been followed. The sex of animals must be indicated, and where appropriate, the influence (or association) of 
+sex on the results of the study. 
+
+ 
+
+Informed consent and patient details 
+
+Studies on patients or volunteers require ethics committee approval and informed consent, which should be 
+documented in the paper. Appropriate consents, permissions and releases must be obtained where an author 
+wishes to include case details or other personal information or images of patients and any other individuals in an 
+Elsevier publication. Written consents must be retained by the author and copies of the consents or evidence that 
+such consents have been obtained must be provided to Elsevier on request. For more information, please review 
+the Elsevier Policy on the Use of Images or Personal Information of Patients or other Individuals. Unless you have 
+written permission from the patient (or, where applicable, the next of kin), the personal details of any patient 
+included in any part of the article and in any supplementary materials (including all illustrations and videos) must 
+be removed before submission. 
+
+ 
+
+Disclosure of interest 
+
+All authors must disclose any financial and personal relationships with other people or organizations that could 
+inappropriately influence (bias) their work. Examples of potential competing interests include employment, 
+consultancies, stock ownership, honoraria, paid expert testimony, patent applications/registrations, and grants or 
+other funding. Authors must disclose any interests in two places: 1. A summary declaration of interest statement in 
+the manuscript file. If there are no interests to declare then please state this: 'Declarations of interest: none'. This 
+summary statement will be ultimately published if the article is accepted. 2. Detailed disclosures as part of the 
+ethical statement form, is important for potential interests to be declared in both places and that the information 
+matches. More information. 
+
+ 
+
+Submission declaration and verification 
+
+Submission of an article implies that the work described has not been published previously (except in the form of 
+an abstract, a published lecture or academic thesis, see 'Multiple, redundant or concurrent publication' for more 
+information), that it is not under consideration for publication elsewhere, that its publication is approved by all 
+authors and tacitly or explicitly by the responsible authorities where the work was carried out, and that, if 
+accepted, it will not be published elsewhere in the same form, in English or in any other language, including 
+electronically without the written consent of the copyright-holder. To verify originality, your article may be 
+checked by the originality detection service Crossref Similarity Check. 
+
+ 
+
+Change to Authorship 
+
+Authors are expected to consider carefully the list and order of authors before submitting their manuscript and 
+provide the definitive list of authors at the time of the original submission. Any addition, deletion or 
+rearrangement of author names in the authorship list should be made only before the manuscript has been 
+accepted and only if approved by the journal Editor. To request such a change, the Editor must receive the 
+following from the corresponding author: (a) the reason for the change in author list and (b) written confirmation 
+(e-mail, letter) from all authors that they agree with the addition, removal or rearrangement. In the case of 
+addition or removal of authors, this includes confirmation from the author being added or removed. 
+
+Only in exceptional circumstances will the Editor consider the addition, deletion or rearrangement of authors after 
+the manuscript has been accepted. While the Editor considers the request, publication of the manuscript will be 
+suspended. If the manuscript has already been published in an online issue, any requests approved by the Editor 
+will result in a corrigendum. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Copyright 
+
+Upon acceptance of an article, authors will be asked to complete a 'Journal Publishing Agreement' (see more 
+information on this). An e-mail will be sent to the corresponding author confirming receipt of the manuscript 
+together with a 'Journal Publishing Agreement' form or a link to the online version of this agreement. 
+
+Subscribers may reproduce tables of contents or prepare lists of articles including abstracts for internal circulation 
+within their institutions. Permission of the Publisher is required for resale or distribution outside the institution 
+and for all other derivative works, including compilations and translations. If excerpts from other copyrighted 
+works are included, the author(s) must obtain written permission from the copyright owners and credit the 
+source(s) in the article. Elsevier has preprinted forms for use by authors in these cases. 
+
+ 
+
+For gold open access articles: Upon acceptance of an article, authors will be asked to complete an 'Exclusive 
+License Agreement' (more information). Permitted third party reuse of gold open access articles is determined by 
+the author's choice of user license. 
+
+Author rights 
+
+As an author you (or your employer or institution) have certain rights to reuse your work. More information. 
+
+ 
+
+Elsevier supports responsible sharing : Find out how you can share your research published in Elsevier journals. 
+
+ 
+
+Role of the funding source 
+
+You are requested to identify who provided financial support for the conduct of the research and/or preparation of 
+the article and to briefly describe the role of the sponsor(s), if any, in study design; in the collection, analysis and 
+interpretation of data; in the writing of the report; and in the decision to submit the article for publication. If the 
+funding source(s) had no such involvement, then this should be stated. 
+
+Formatting of funding sources 
+
+List funding sources in this standard way to facilitate compliance to funder’s requirements: 
+
+Funding: This work was supported by the National Institutes of Health [grant numbers xxxx, yyyy]; the Bill & 
+Melinda Gates Foundation, Seattle, WA [grant number zzzz]; and the United States Institutes of Peace [grant 
+number aaaa]. 
+
+It is not necessary to include detailed descriptions on the program or type of grants and awards. When funding is 
+from a block grant or other resources available to a university, college, or other research institution, submit the 
+name of the institute or organization that provided the funding. 
+
+If no funding has been provided for the research, please include the following sentence: 
+
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit 
+sectors. 
+
+ 
+
+Acknowledgements 
+
+Collate acknowledgements in a separate section at the end of the article before the references and do not, 
+therefore, include them on the title page, as a footnote to the title or otherwise. List here those individuals who 
+provided help during the research (e.g., providing language help, writing assistance or proof reading the article, 
+etc.). 
+
+ 
+
+Open access 
+
+This journal offers authors the option of an Open Access publication of their research work: 
+
+Articles are in open access for subscribers as well as for the general public with a possibility of reuse. A fee for 
+open access publication must be paid by or on behalf of the authors (e.g. by their funding agencies or institutions). 
+
+The journal will apply the same peer-review criteria and acceptance standards. 
+
+In the case of open access articles, permission for (re)use by third parties is defined according to the following 
+Creative Commons user licenses: 
+
+- CC BY-NC-ND: No Commercial Use + allows users to distribute and copy the article, and to include it in a collective 
+work (such as an anthology) provided that they give credit to the author(s) and do not alter or modify the article. 
+
+For this journal, the Article Publishing Charge (APC) is 1 500 € HT for reviews and 1 000€ HT for another article 
+type. Learn more about Elsevier's Pricing Policy. 
+
+ 
+
+ 
+
+ 
+
+
+Manuscript Submission 
+
+Submission to this journal proceeds totally online and you will be guided stepwise through the creation and 
+uploading of your files. The system automatically converts your files to a single PDF file, which is used in the peer-
+review process. 
+
+ 
+
+Please submit your article via the online journal submission system: 
+
+https://www.editorialmanager.com/prps 
+
+Should you require any technical assistance, please contact our author’s support service: 
+
+france-support@elsevier.com 
+
+ 
+
+ 
+
+This journal uses double-blind review, which means that both the reviewer and author name(s) are not allowed to 
+be revealed to one another for a manuscript under review. The identities of the authors are concealed from the 
+reviewers, and vice versa. For more information. To facilitate this, please include the following separately: 
+
+1. Title page with authors name and affiliation 
+2. Manuscrit with abstract and keywords 
+3. Bibliographic references 
+4. Tables and figures 
+
+
+ 
+
+Language 
+
+Please write your text in good English (American or British usage is accepted, but not a mixture of these) or French. 
+
+Authors who feel their English language manuscript may require editing to eliminate possible grammatical or 
+spelling errors and to conform to correct scientific English may wish to use the English Language Editing service 
+available from Elsevier’s Author Services or you can ask for reliable translator contacts to the Editor-in-chief. 
+
+ 
+
+Manuscript presentation 
+
+Title page 
+
+Title 
+
+Concise and informative. Titles are often used in information-retrieval systems. Avoid abbreviations and formulae 
+where possible. The title must be both in English AND in French. 
+
+Authors’ names and institutional affiliation 
+
+Where the family name may be ambiguous (e.g., a double name), please indicate this clearly. Present the authors’ 
+affiliation addresses (where the actual work was done) below the names. Indicate all affiliations with a lower-case 
+superscript letter immediately after the author’s name and in front of the appropriate address. Provide the full 
+postal address of each affiliation, including the country name and, if available, the e-mail address of each author. 
+
+Corresponding author 
+
+Clearly indicate who will handle correspondence at all stages of refereeing and publication, also post-publication. 
+Ensure that phone numbers (with country and area code) are provided in addition to the e-mail address and the 
+complete postal address. Contact details must be kept up to date by the corresponding author. 
+
+Present/permanent address If an author has moved since the work described in the article was done, or was 
+visiting at the time, a ‘Present address’ (or ‘Permanent address’) may be indicated as a footnote to that author’s 
+name. The address at which the author actually did the work must be retained as the main, affiliation address. 
+Superscript Arabic numerals are used for such footnotes. 
+
+ 
+
+Manuscript 
+
+Abstract 
+
+In English AND in French. 
+
+A concise, factual and structured English abstract is required. Abstracts contain 150 to 250 words. They present a 
+brief description of the problem considered and the main conclusions of the work. 
+
+Care must be taken to furnish an abstract which can be understood alone, without reference to the body of the 
+text. 
+
+For original articles, the abstract has four parts: 
+
+
+1)Objectives; 2) Material and methods; 3) Results; 4) Conclusion; For general reviews and updates, the abstract 
+must not exceed 250 words. They must detail the purpose of the review and present the main points. 
+
+For case reports, the abstract must not exceed 200 words and must focus on the specific contribution of the 
+illustrative case, the main results, and a conclusion. 
+
+Abbreviations and bibliographic references should be avoided. If necessary, references must be cited in extensor 
+without the reference number used in the body of the text. 
+
+Keywords 
+
+In English AND in French. 
+
+Immediately after the abstract, provide a maximum of 6 keywords, using British spelling and avoiding general and 
+plural terms and multiple concepts (avoid, for example, ‘and’, ‘of’). Be sparing with abbreviations: only 
+abbreviations firmly established in the field may be eligible. These keywords will be used for indexing purposes 
+
+Manuscript writing and presentation 
+
+Type the manuscript with a word processor using a common font, size 12, and double spacing, one column per 
+page. You can indicate the titles for sections and subsections by number (1.1.1., 1.1.2, etc.) or using a highlighting 
+system (bold face, italics). 
+
+The reader should be able to follow the outline easily. 
+
+Text body 
+
+Original articles should include the following chapters: introduction, materials/patients, methods, results, 
+discussion, conclusion and references. 
+
+– Introduction: background information with pertinent references from the literature explaining why the work was 
+undertaken. 
+
+– Material/Patients: details based on precise criteria and in compliance with the ethical considerations mentioned 
+above. 
+
+– Methods: detailed presentation, particularly concerning reagents used. 
+
+– Results: as precise as possible with numerical data when possible. Statistical methodology must be described. 
+Redundancy (table, text, figures) should be avoided. 
+
+– Discussion: contribution of the original results by comparison with earlier data in the literature. 
+
+– Conclusion: a short conclusion can be provided but only if it provides a supplementary element to the discussion. 
+
+Authors are requested to limit text outlines to three levels of sections and subsections. 
+
+Care must be taken to submit a clear easily understandable text using concise language. Use clear English, avoiding 
+medical slang. Abbreviations should be explained at their first appearance in the text and be coherent and 
+invariable. Abbreviations cannot be used in titles and should be avoided in the abstract. To avoid confusion, use a 
+limited number of abbreviations. 
+
+The body of the text is followed by the bibliographic references (see references below), then by captions for 
+figures, titles for tables, tables, and figures. 
+
+ 
+
+Footnotes 
+
+Footnotes should be used sparingly. Number them consecutively throughout the article. Many wordprocessors 
+build footnotes into the text, and this feature may be used. Should this not be the case, indicate the position of 
+footnotes in the text and present the footnotes themselves separately at the end of the article. Do not include 
+footnotes in the Reference list. 
+
+ 
+
+Nomenclature and Units 
+
+International nomenclature should be used for anatomic terms and international units of measure (for example 
+minute is abbreviated “min” and not “mn”). The generic name of medications, biochemical products and 
+biomaterials should be used (with their brand name in parentheses if needed). 
+
+ 
+
+Tables 
+
+Each table must be cited in the text as “Table” and numbered with Arabic numerals in the order of citation. A title 
+for the table must be placed above each table. Footnotes for the table should be placed after the end of the table 
+and referenced with lower case letters in the exponent position. Do not use vertical lines. Limit the number of 
+tables. Do not repeat data already presented in the body of the text. 
+
+Tables should not exceed one page. 
+
+ 
+
+ 
+
+ 
+
+
+Figures 
+
+Do not present figures within the body of the text. All Figures are cited in the text and are submitted in a separate 
+file mentioning with number of the figure and the name of the author. All types of illustrations, graphs, artwork, 
+photos, etc. are called Figures and numbered with Arabic numerals according to the order of citation. 
+
+ 
+
+• Care must be taken to use a uniform set of characters in the figure (font, size). 
+
+• Use only: Arial, Courier, Helvetica, Symbol, Times. 
+
+• Submit a separate file for each Figure (the figure caption is placed in the manuscript file, after the list of 
+references). 
+
+• Use a logical system to name figure files. 
+
+Figure captions 
+
+Ensure that each illustration has a caption. Supply captions separately, not attached to the figure. A caption should 
+comprise a brief title (not on the figure itself) and a description of the illustration. Keep text in the illustrations 
+themselves to a minimum but explain all symbols and abbreviations used. 
+
+Figures will be published in colour on the Em-consulte and ScienceDirect websites at no extra charge. Colour 
+figures on the paper journal are at the author's expense. Fees are € 600 for the first illustration, then € 100 per 
+additional illustration. 
+
+Figures should be in one of the following formats: TIFF (.tif), EPS (.eps), or PDF (.pdf). Avoid Word, Powerpoint 
+and Excel formats. To facilitate the editing process, indicate the number of the figure and the format used, for 
+example: 
+
+« fig1.tif », for figure 1 in format TIFF. 
+
+ 
+
+The minimum resolution for figures is 300 DPI (dots per inch) for black and white or color photographs and 500 
+to 1000 DPI for graphs or drawings. High resolution is required for printing. Magnification of an original image 
+reduces resolution (and printing quality). The quality of the final printed image can be determined from the 
+following table. Offset printing requires higher image quality than a desktop printer. 
+
+ 
+
+Color artwork 
+
+Please make sure that artwork files are in an acceptable format (TIFF (or JPEG), EPS (or PDF), or MS Office files) and 
+with the correct resolution. If, together with your accepted article, you submit usable color figures then Elsevier 
+will ensure, at no additional charge, that these figures will appear in color in print and on the Web (e.g., 
+ScienceDirect and other sites) regardless of whether or not these illustrations are reproduced in color in the 
+printed version. 
+
+ 
+
+Illustration services 
+
+Elsevier’s Author Services offers Illustration Services to authors preparing to submit a manuscript but concerned 
+about the quality of the images accompanying their article. Elsevier’s expert illustrators can produce scientific, 
+technical and medical-style images, as well as a full range of charts, tables and graphs. Image ‘polishing’ is also 
+available, where our illustrators take your image(s) and improve them to a professional standard. Please visit the 
+website to find out more. 
+
+ 
+
+Video data 
+
+Video material and animation sequences are encouraged to support and enhance your scientific research. 
+
+Authors who have video or animation files that they wish to submit with their article are strongly encouraged to 
+include links to these within the body of the article. This can be done in the same way as a figure or table by 
+referring to the video or animation content and noting in the body text where it should be placed. All submitted 
+files should be properly labeled so that they directly relate to the video file’s content. In order to ensure that your 
+video or animation material is directly usable, please provide the files in one of our recommended file formats with 
+a preferred maximum size of 150 MB (exceptionally up to 500 MB). Video and animation files supplied will be 
+published online in the electronic version of your article in Elsevier Web products, including ScienceDirect. Please 
+supply ‘stills’ with your files: you can choose any frame from the video or animation or make a separate image. 
+These will be used instead of standard icons and will personalize the link to your video data. For more detailed 
+instructions. Note: since video and animation cannot be embedded in the print version of the journal, please 
+provide text for both the electronic and the print version for the portions of the article that refer to this content. 
+
+ 
+
+
+Acknowledgements 
+
+Collate acknowledgements in a separate section at the end of the article before the references and do not, 
+therefore, include them on the title page, as a footnote to the title or otherwise. List here those individuals who 
+provided help during the research (e.g., providing language help, writing assistance or proof reading the article, 
+etc.). 
+
+ 
+
+References 
+
+The authors are responsible for checking the exactness of the bibliographic references cited. 
+
+ 
+
+Citations in the text 
+
+Please ensure that every reference cited in the text is also present in the reference list (and vice versa). Any 
+references cited in the abstract must be given in full. Unpublished results and personal communications are not 
+recommended in the reference list, but may be mentioned in the text. If these references are included in the 
+reference list they should follow the standard reference style of the journal and should include a substitution of 
+the publication date with either ‘Unpublished results’ or ‘Personal communication’. Citation of a reference as ‘in 
+press’ implies that the item has been accepted for publication. 
+
+Reference links 
+
+Increased discoverability of research and high quality peer review are ensured by online links to the sources cited. 
+In order to allow us to create links to abstracting and indexing services, such as Scopus, CrossRef and PubMed, 
+please ensure that data provided in the references are correct. Please note that incorrect surnames, journal/book 
+titles, publication year and pagination may prevent link creation. When copying references, please be careful as 
+they may already contain errors. Use of the DOI is highly encouraged. 
+
+A DOI is guaranteed never to change, so you can use it as a permanent link to any electronic article. An example of 
+a citation using DOI for an article not yet in an issue is: VanDecar J.C., Russo R.M., James D.E., Ambeh W.B., Franke 
+M. (2003). Aseismic continuation of the Lesser Antilles slab beneath northeastern Venezuela. Journal of 
+Geophysical Research, https://doi.org/10.1029/2001JB000884. Please note the format of such citations should be 
+in the same style as all other references in the paper. 
+
+Web References 
+
+As a minimum, the full URL should be given and the date when the reference was last accessed. Any further 
+information, if known (DOI, author names, dates, reference to a source publication, etc.), should also be given. 
+Web references can be listed separately (e.g., after the reference list) under a different heading if desired, or can 
+be included in the reference list. 
+
+Data references 
+
+This journal encourages you to cite underlying or relevant datasets in your manuscript by citing them in your text 
+and including a data reference in your Reference List. Data references should include the following elements: 
+author name(s), dataset title, data repository, version (where available), year, and global persistent identifier. Add 
+[dataset] immediately before the reference so we can properly identify it as a data reference. The [dataset] 
+identifier will not appear in your published article. 
+
+Reference to arXiv 
+
+As with unpublished results and personal communications, references to arXiv documents are not recommended 
+in the reference list. Please make every effort to obtain the full reference of the published version of an arXiv 
+document. If a reference to an arXiv document must be included in the references list it should follow the standard 
+reference style of the journal and should include a substitution of the volume and page numbers with 
+‘arXiv:YYMM.NNNN’ or ‘arXiv:arch-ive/YYMMNNN’ for articles submitted to arXiv before April 2007. 
+
+Reference management software 
+
+Most Elsevier journals have their reference template available in many of the most popular reference management 
+software products. These include all products that support Citation Style Language styles, such as Mendeley. Using 
+citation plug-ins from these products, authors only need to select the appropriate journal template when 
+preparing their article, after which citations and bibliographies will be automatically formatted in the journal’s 
+style. If no template is yet available for this journal, please follow the format of the sample references and citations 
+as shown in this Guide. If you use reference management software, please ensure that you remove all field codes 
+before submitting the electronic manuscript. More information on how to remove field codes from different 
+reference management software. 
+
+Reference style 
+
+Text : Citations in the text should follow the referencing style used by the American Psychological Association. You 
+are referred to the Publication Manual of the American Psychological Association, Sixth Edition, ISBN 978-1-4338-
+
+
+0561-5, copies of which may be ordered online or APA Order Dept., P.O.B. 2710, Hyattsville, MD 20784, USA or 
+APA, 3 Henrietta Street, London, WC3E 8LU, UK. 
+
+List: References should be arranged first alphabetically and then further sorted chronologically if necessary. More 
+than one reference from the same author(s) in the same year must be identified by the letters 'a', 'b', 'c', etc., 
+placed after the year of publication. 
+
+Examples: 
+
+- Reference to a journal publication: 
+
+
+Van der Geer, J., Hanraads, J. A. J., & Lupton, R. A. (2010). The art of writing a scientific article. Journal of Scientific 
+Communications, 163, 51–59. https://doi.org/10.1016/j.Sc.2010.00372. 
+
+- Reference to a journal publication with an article number: 
+
+
+Van der Geer, J., Hanraads, J. A. J., & Lupton, R. A. (2018). The art of writing a scientific article. Heliyon, 19, e00205. 
+https://doi.org/10.1016/j.heliyon.2018.e00205. 
+
+- Reference to a book: 
+
+
+Strunk, W., Jr., & White, E. B. (2000). The elements of style. (4th ed.). New York: Longman, (Chapter 4). 
+
+- Reference to a chapter in an edited book: 
+
+
+Mettam, G. R., & Adams, L. B. (2009). How to prepare an electronic version of your article. In B. S. Jones, & R. Z. 
+Smith (Eds.), Introduction to the electronic age (pp. 281–304). New York: E-Publishing Inc. 
+
+- Reference to a website: 
+
+
+Cancer Research UK. Cancer statistics reports for the UK. (2003). 
+
+http://www.cancerresearchuk.org/aboutcancer/statistics/cancerstatsreport/ Accessed 13 March 2003. 
+
+- Reference to a dataset: 
+
+
+[dataset] Oguro, M., Imahiro, S., Saito, S., Nakashizuka, T. (2015). Mortality data for Japanese oak wilt disease and 
+surrounding forest compositions. Mendeley Data, v1. https://doi.org/10.17632/xwj98nb39r.1. 
+
+- Reference to a conference paper or poster presentation: 
+
+
+Engle, E.K., Cash, T.F., & Jarry, J.L. (2009, November). The Body Image Behaviours Inventory-3: Development and 
+validation of the Body Image Compulsive Actions and Body Image Avoidance Scales. Poster session presentation at 
+the meeting of the Association for Behavioural and Cognitive Therapies, New York, NY. 
+
+Abbreviations source 
+
+Journal names should be abbreviated according to the List of Title Word Abbreviations. 
+
+ 
+
+After acceptance 
+
+Board Decision 
+
+The Drafting Committee reserves the right to make three types of decision: 
+
+- Refusal 
+
+- Acceptance without modification 
+
+- Request for modifications addressed to the author with secondary agreement, subject to the conformity of the 
+substantive and/or formal corrections made by the author within a reasonable period of time. 
+
+Request for substantial changes does not imply acceptance of the article. 
+
+Online proof correction 
+
+To ensure a fast publication process of the article, we kindly ask authors to provide us with their proof corrections 
+within two days. Corresponding authors will receive an e-mail with a link to our online proofing system, allowing 
+annotation and correction of proofs online. The environment is similar to MS Word: in addition to editing text, you 
+can also comment on figures/tables and answer questions from the Copy Editor. Web-based proofing provides a 
+faster and less error-prone process by allowing you to directly type your corrections, eliminating the potential 
+introduction of errors. 
+
+If preferred, you can still choose to annotate and upload your edits on the PDF version. All instructions for proofing 
+will be given in the e-mail we send to authors, including alternative methods to the online version and PDF. 
+
+We will do everything possible to get your article published quickly and accurately. Please use this proof only for 
+checking the typesetting, editing, completeness and correctness of the text, tables and figures. Significant changes 
+to the article as accepted for publication will only be considered at this stage with permission from the Editor. It is 
+important to ensure that all corrections are sent back to us in one communication. Please check carefully before 
+replying, as inclusion of any subsequent corrections cannot be guaranteed. Proofreading is solely your 
+responsibility. 
+
+
+ 
+
+Offprints 
+
+The corresponding author will, at no cost, receive a customized Share Link providing 50 days free access to the final 
+published version of the article on ScienceDirect. The Share Link can be used for sharing the article via any 
+communication channel, including email and social media. For an extra charge, paper offprints can be ordered via 
+the offprint order form which is sent once the article is accepted for publication. Both corresponding and co-
+authors may order offprints at any time via Elsevier’s Author Services. Corresponding authors who have published 
+their article gold open access do not receive a Share Link as their final published version of the article is available 
+open access on ScienceDirect and can be shared through the article DOI link. 
+
+ 
+
+Author Inquiries 
+
+Visit the Elsevier Support Center to find the answers you need. Here you will find everything from Frequently 
+Asked Questions to ways to get in touch. 
+
+You can also check the status of your submitted article or find out when your accepted article will be published. 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+Instructions aux auteurs 
+
+ 
+
+Publiée sous l'égide de la Société Française de Psychologie (SFP), Pratiques Psychologiques est une revue qui 
+participe du développement de l'innovation et des connaissances théoriques sur les pratiques psychologiques. La 
+revue accueille les propositions de publications portant sur des recherches à visée appliquée, sur des pratiques 
+innovantes, sur la validation d'outils ou sur des analyses relatives à la pratique de la psychologie. Ces propositions 
+peuvent concerner des champs divers (santé, éducation, justice, travail, etc.) selon toutes les perspectives 
+épistémiques de la psychologie. La revue propose des articles en anglais et en français. Elle accueille des numéros 
+thématiques. 
+
+ 
+
+Les travaux doivent être conformes aux instructions ci-dessous. Ces dernières sont dérivées des normes de 
+présentation des manuscrits proposées par le comité international des rédacteurs de journaux médicaux, connu 
+sous le nom de groupe de Vancouver (International Committee of Medical Journal Editors– ICMJE). 
+
+ 
+
+Responsabilités éthiques des auteurs 
+
+• Tout manuscrit adressé à la revue est soumis à un comité de lecture anonyme dont l'approbation de l'article, 
+après modifications éventuelles, est nécessaire pour sa publication. Le comité de rédaction se réserve le droit de 
+publier un commentaire à la suite de l’article. Ce commentaire sera soumis à l’auteur avec le bon à tirer. 
+
+• Les articles ne doivent pas avoir été publiés antérieurement ni être publiés simultanément dans une autre revue. 
+
+• Le fait de soumettre un article sous-entend que le travail décrit est approuvé par tous les auteurs ainsi que – 
+tacitement ou explicitement – par les autorités sous l’égide desquelles il a été réalisé, et qu’en cas d’acceptation il 
+ne fera l’objet d’aucune autre publication en l’état, que ce soit en français ou dans toute autre langue, sans le 
+consentement écrit de l’éditeur. 
+
+• Si des extraits d’autres travaux ou documents sous copyright sont inclus dans l’article, les auteurs doivent fournir 
+une autorisation écrite émanant des détenteurs du copyright et citer les sources dans l’article. 
+
+ 
+
+Informations sur les règles d’éthique liées à la publication d’études scientifiques. 
+
+ 
+
+Protection des participants aux études de recherche 
+
+Tous les investigateurs devraient s’assurer que la conduite et la publication d’une recherche comprenant des 
+données humaines sont en accord avec la Déclaration d’Helsinki révisée en 2013. Ils doivent avoir l’autorisation de 
+conduire une recherche auprès d’un comité d'évaluation indépendant qu'il soit local, régional ou national (par 
+exemple, comités d’éthique, conseil d’évaluation institutionnel). 
+
+ 
+
+Aucune information permettant d’identifier le patient (y compris les noms, initiales ou numéros d’hôpital) ne doit 
+être publiée dans les descriptions écrites, les photographies ou la généalogie, à moins que l’information ne soit 
+essentielle à des fins scientifiques et que le patient (ou ses parents ou son tuteur) ne donne son consentement 
+éclairé par écrit pour la publication. Le consentement éclairé, dans ce cas, nécessite que le patient identifiable ait 
+consulté le manuscrit à publier. Les auteurs doivent révéler à ces patients toute information permettant 
+potentiellement de les identifier qui pourrait être disponible sur Internet ainsi que dans la version imprimée après 
+publication. Le consentement des patients doit être archivé par les auteurs, conformément aux exigences des 
+réglementations ou lois locales. Si elles ne sont pas essentielles, les informations permettant d'identifier les 
+patients peuvent être omises. En cas de doute quant à la possibilité de maintenir l’anonymat, le consentement 
+
+
+éclairé doit être obtenu. Par exemple, le fait de masquer la région des yeux sur les photographies des patients ne 
+protège pas suffisamment leur anonymat. Pour plus d’information. 
+
+Si des caractéristiques permettant d’identifier les patients sont modifiées pour protéger leur anonymat, les auteurs 
+doivent donner l’assurance que ces modifications ne dénaturent pas la signification scientifique et les rédacteurs 
+doivent le vérifier. Le fait que le consentement éclairé a été obtenu doit être spécifié dans l’article publié. 
+
+ 
+
+Par ailleurs, les auteurs doivent s’assurer d’être titulaires exclusifs des droits patrimoniaux sur les photos/vidéos en 
+question. En particulier, ont-ils utilisé des moyens matériels/humains de tiers ? C’est le cas, par exemple, de 
+photos/vidéos réalisées dans le cadre professionnel, avec le matériel de l’employeur (AP-HP par exemple), ou avec 
+le concours du personnel de l’employeur (par exemple, chef de service d’un hôpital qui met à contribution d’autres 
+personnes du service). Ces deux points doivent être pris en compte - avec écrits correspondants des patients et des 
+auteurs - pour lever toute réserve au moment de la publication (reproduction et représentation sur tous supports 
+desdits contenus). 
+
+ 
+
+Déclaration de soumission 
+
+La soumission d’un article implique que ce dernier n’a jamais été soumis précédemment ou simultanément à plus 
+d’une revue, que ce soit dans la même langue ou dans une langue différente. 
+
+De même la publication ne doit pas être redondante, c’est-à-dire qu’elle ne doit pas correspondre en grande partie 
+à un article déjà publié sans référence claire et visible à la publication précédente. 
+
+Pour en vérifier l’originalité, tout article sera l’objet d’une vérification systématique via l’outil de détection de 
+plagiat CrossCheck. 
+
+Les auteurs qui choisissent de déposer leurs travaux sur une plateforme de preprints doivent s’assurer que cette 
+dernière identifie clairement les preprints comme n’ayant fait l’objet d’aucun examen par les pairs et qui 
+comprend une déclaration de conflits d’intérêts. L’auteur doit informer la revue d’un éventuel dépôt de son 
+manuscrit sur une plateforme de preprints. 
+
+Ne sont pas considérés comme publication antérieure le dépôt des résultats d’un essai dans un registre qui répond 
+aux critères ICMJE. Ce dépôt de résultats doit être limité à un bref (<500 mots) résumé structuré ou à des tableaux. 
+
+Les rédacteurs de différentes revues peuvent décider de publier simultanément ou secondairement un article s’ils 
+estiment que cela est dans l’intérêt de la santé publique. Toutefois, les auteurs doivent avoir reçu l’approbation 
+des rédacteurs en chef et des éditeurs des deux revues et respecter les critères ICMJE. Ainsi, il doit notamment 
+être fait clairement mention aux lecteurs de l’existence de plusieurs versions du même titre. 
+
+ 
+
+Paternité de l’article 
+
+La paternité de l’article implique également la responsabilité et l’imputabilité pour la recherche publiée. Tous les 
+auteurs devront avoir apporté une contribution substantielle à l'ensemble des éléments suivants : 1) à la 
+conception ou aux méthodes de la recherche ou à l'acquisition, l'analyse ou l'interprétation des données, 2) à la 
+rédaction préliminaire de l'article ou sa révision critique impliquant une contribution importante au contenu 
+intellectuel, 3) à l'approbation finale de la version à publier. 
+
+Il est attendu des auteurs qu'ils examinent soigneusement la liste et l'ordre des auteurs avant de soumettre leur 
+manuscrit et de communiquer la liste définitive des auteurs au moment de la soumission initiale. L'ensemble des 
+ajouts, suppressions ou réorganisations des noms dans la liste des auteurs, doivent être réalisés avant que le 
+manuscrit ne soit accepté et uniquement si de telles modifications ont été approuvées par le rédacteur de la 
+revue. Pour demander ce type de modification, le rédacteur doit recevoir de l'auteur correspondant les 
+informations suivantes : a) l'explication du changement dans la liste des auteurs et b) la confirmation écrite 
+(courrier électronique, lettre) de tous les auteurs indiquant qu'ils acceptent l'ajout, la suppression ou la 
+réorganisation. Dans le cas où des auteurs sont ajoutés ou supprimés, cela inclut la confirmation des auteurs 
+concernés par cette démarche. 
+
+Le rédacteur n'examinera l'ajout, la suppression ou la réorganisation des auteurs après l’acceptation du manuscrit 
+qu'en des circonstances exceptionnelles. Pendant que le rédacteur examinera la demande, la publication du 
+manuscrit sera suspendue. Si le manuscrit a déjà été publié en ligne, toute demande approuvée par le rédacteur 
+donnera lieu à un rectificatif. 
+
+ 
+
+Liens d’intérêts 
+
+La revue suit les pratiques internationales relatives aux liens d’intérêts. Toute soumission de manuscrit doit être 
+accompagnée d’une déclaration de liens d’intérêts. 
+
+Un lien d’intérêts existe quand un auteur et/ou un coauteur a des relations financières (salaire, expertise-conseil, 
+brevet, expertise judiciaire rémunérée, source de soutien de l’étude…) ou personnelles (relations familiales, 
+
+
+amicales, ou rivalités personnelles, compétition universitaire, convictions intellectuelles…) avec d’autres personnes 
+ou organisations qui sont susceptibles d’influencer ses jugements professionnels concernant une valeur essentielle 
+(bien du patient, intégrité de la recherche…). Plus d’information. 
+
+Tous les auteurs doivent donc signaler tout lien d’intérêts que pourrait susciter leur travail de manière générale en 
+suivant les recommandations ci-dessous citées : 
+
+ 
+
+1. Au cas où il n’existe aucun lien d’intérêts, la mention suivante doit être ajoutée directement en fin de manuscrit 
+(avant les références bibliographiques) : L’auteur [Les auteurs] déclare[ent] ne pas avoir de liens d’intérêts. 
+
+ 
+
+2. Au cas où il existe un (ou plusieurs) lien(s) d’intérêts pour un ou plusieurs des auteurs de l’article, la liste 
+complète de ceux-ci doit être mentionnée en fin de manuscrit (avant les références bibliographiques). Les initiales 
+de(s) l’auteur(s) concerné(s) et le nom de l’entreprise associée sont à ajouter à la liste exhaustive figurant ci-après 
+des liens d’intérêts potentiels qui sont à déclarer. 
+
+ 
+
+Copyright 
+
+Dès qu'un article est accepté, il est demandé à ses auteurs de renseigner un « Accord de publication dans la revue 
+». Un courrier électronique est envoyé à l'auteur correspondant pour confirmer la bonne réception du manuscrit, 
+accompagné d'un formulaire « Accord de publication dans la revue » ou d'un lien pointant vers la version en ligne 
+dudit accord. 
+
+Elsevier encourage le partage responsable. Découvrez comment vous pouvez partager vos travaux de recherche 
+publiés dans les revues Elsevier. 
+
+ 
+
+Rôle des sources de financement 
+
+Il vous est demandé d'identifier la ou les entités à l'origine de l'aide financière sous-jacente à la conduite des 
+travaux de recherche et/ou à la préparation de l'article. Vous devez également décrire brièvement le rôle du ou 
+des financeurs, le cas échéant, dans a) la conception de l'essai, b) la collecte, l'analyse et l'interprétation des 
+données, c) la rédaction du rapport et d) la décision de soumettre l'article en vue de sa publication. Si la ou les 
+sources de financement n'y ont pas contribué, cela doit alors être mentionné. 
+
+ 
+
+Remerciements 
+
+Ils figurent à une place appropriée dans l’article (en fin d’article, avant les références) et précisent : les 
+contributions qui appellent un remerciement mais ne justifie pas une place parmi les auteurs, les remerciements 
+pour les aides techniques, les remerciements pour un soutien matériel ou financier, les liens financiers qui peuvent 
+être à l’origine d’un conflit d’intérêt. 
+
+ 
+
+ Open access 
+
+Cette revue propose aux auteurs l’option d’une publication Open Access de leurs travaux de recherche : 
+
+Les articles sont en open access pour les abonnés comme pour le grand public avec une possibilité de réutilisation. 
+Des frais de publication en open access doivent être réglés par les auteurs ou pour leur compte (par ex., par leurs 
+organismes de financement ou leurs institutions). 
+
+La revue appliquera les mêmes critères d'évaluation par des pairs et les mêmes normes d'acceptation. 
+
+Dans le cas des articles en open access, l'autorisation de (ré)utilisation par des tiers est définie en fonction de la 
+licences utilisateur Creative Commons suivante : 
+
+• CC BY-NC-ND : Pas d’utilisation commerciale + permet aux utilisateurs de distribuer et de copier l'article, et de 
+l'inclure dans une oeuvre collective (une anthologie par exemple) à condition qu'ils créditent le ou les auteurs et 
+qu'ils n'altèrent ni ne modifient l'article. 
+
+Pour cette revue, les frais de publication en open access s'élèvent à 1500 € HT pour les revues et 1 000 € HT pour 
+les autres articles. En savoir plus sur la Politique de tarification d'Elsevier. 
+
+ 
+
+Soumission des manuscrits 
+
+Votre manuscrit est à soumettre exclusivement en ligne sur le site de la revue à l’adresse suivante : 
+
+https://www.editorialmanager.com/prps 
+
+ 
+
+Pour toute question technique sur l’utilisation de ce site, vous pouvez contacter : france-support@elsevier.com 
+
+
+ 
+
+Ce journal utilise un système de relecture en double-aveugle. Cela signifie que l’identité des auteurs est inconnue 
+des relecteurs et vice-versa. Par conséquent, des fichiers distincts sont nécessaires pour : 
+
+• La page de titre 
+
+• Le manuscrit (avec résumé et mots-clefs selon la rubrique sélectionnée) 
+
+• Les références bibliographiques 
+
+• Les figures et/ou tableaux 
+
+ 
+
+Présentation du manuscrit 
+
+La présentation formelle du manuscrit doit respecter la totalité des règles suivantes. 
+
+ 
+
+Page de titre (fichier séparé) 
+
+La page de titre comporte les mentions suivantes : 
+
+- le titre (en français ET en anglais), concis, qui indique de manière précise le sujet du travail et ne comporte pas 
+d’abréviations ; la rédaction se réserve le droit de le modifier dans le sens de la précision ; 
+
+- le prénom et le nom de chaque auteur ; quand les auteurs appartiennent à des services différents, leurs noms 
+sont suivis de chiffres en exposant qui renvoient aux services ou adresses correspondants ; 
+
+- les intitulés et adresse complètes des services, laboratoires ou organismes d’origine des auteurs ; préciser les 
+numéros de téléphone et de télécopie, ainsi que l’adresse électronique de l’auteur auquel doivent être envoyés la 
+correspondance et le bon à tirer; 
+
+ 
+
+Manuscrit 
+
+ 
+
+Résumés et mots clés 
+
+Chaque article comporte un résumé en français ET en anglais, sans abréviation ni référence, de 250 mots au 
+maximum. 
+
+Les résumés (en anglais comme en français) seront structurés explicitement (en intégrant les noms de section) 
+selon le modèle suivant : Introduction/Objective/Method/Results/Conclusion, sauf pour les revues de questions 
+dont les résumés seront conformes à la structure suivante : Introduction/Literature findings (and/or Clinical 
+findings)/Discussion/Conclusion. 
+
+La traduction anglaise de ces résumés doit conserver la même formulation et être revue par un collègue 
+anglophone. 
+
+Les mots clés (en français ET en anglais) seront au maximum de 5. 
+
+ 
+
+Texte 
+
+Rédaction. Le texte est rédigé dans un style clair, concis et précis. Il doit être compréhensible pour un lecteur qui 
+n’appartient au domaine étudié. L’emploi de la première personne n’est pas d’usage. Les retours à la ligne trop 
+fréquents sont à éviter. Les événements passés sont rapportés à l’imparfait ou au passé composé. Tel est le cas, 
+notamment, des rubriques patients et méthodes et résultats. En cas de mention de noms d’auteurs dans le texte, 
+s’ils ne sont que deux, les deux sont cités ; s’ils sont plus de deux, le nom du premier auteur est suivi de la mention 
+« et al. ». Les titres et intertitres de même valeur sont signalés de façon identique. Les locutions et abréviations 
+latines usuelles en français s’écrivent en caractères romains, et non en italique. 
+
+Plan général de l’article. 
+
+Divisez votre article en sections clairement définies et numérotées. Les sous-sections doivent être numérotées 1.1 
+(puis 1.1.1, 1.1.2, etc.), 1.2, etc. (le résumé n'est pas inclus dans la numérotation des sections). Utilisez également 
+cette numérotation pour les renvois internes : ne vous contentez pas de citer simplement le texte concerné. Un 
+titre court devra être attribué à chaque sous-section. 
+
+L’introduction doit être clairement signalée. Pour les articles originaux, il faut traiter dans l’ordre les rubriques 
+suivantes : méthodes, résultats, discussion, conclusions. Pour les lettres à la rédaction, il faut limiter au minimum 
+le nombre de segmentations de l’article. Le corps du texte est suivi des remerciements éventuels, des références, 
+puis des tableaux, puis des légendes des figures. Les figures sont jointes à la suite. 
+
+ 
+
+Notes de bas de page 
+
+Les notes de bas de page sont à éviter. Elles doivent être numérotées à la suite dans le texte et ne doivent surtout 
+pas être incluses dans les références. 
+
+ 
+
+ 
+
+
+Unités de mesure, symboles et noms commerciaux. 
+
+Les symboles et unités scientifiques doivent être cohérents et conformes aux normes internationales. Les mesures 
+de longueur, hauteur, poids et volume sont dans le système métrique : m, kg, L, ou leurs multiples. Les 
+températures sont en degrés Celsius (°C), les pressions sanguines en millimètres de mercure (mmHG). Les mesures 
+hématologiques et biochimiques sont dans le système des unités internationales. Les médicaments sont identifiés 
+par leur nom générique (dénomination commune internationale), sans majuscule à l’initiale. Sauf nécessité 
+absolue, l’emploi du nom de spécialité est découragé ; s’il doit absolument être employé, il doit être accompagné 
+du nom générique du médicament, et le nom de spécialité est suivi du sigle ® et du nom de la firme 
+pharmaceutique, si le médicament est peu connu. Le nom commercial d’un appareil porte le sigle TM et, entre 
+parenthèses, le nom du fabricant ou du distributeur. Dans une phrase, les nombres de zéro à dix s’écrivent en 
+toutes lettres. Une virgule précède les décimales dans les textes en français. Les isotopes sont notés avec la masse 
+atomique en exposant à gauche du symbole (131I). 
+
+ 
+
+Tableaux 
+
+Les tableaux doivent se comprendre de façon autonome avec leur légende. 
+
+Chaque tableau doit être présenté sur une page séparée, numéroté en chiffres arabes et indexé dans le texte par 
+appel de son numéro entre parenthèses. Il est accompagné d’un titre (placé au-dessus) et, éventuellement, de 
+notes explicatives (au-dessous). Il est important de penser à la dimension d’une page écran pour une bonne 
+lisibilité du tableau lors de sa mise en ligne. 
+
+ 
+
+Figures / Images 
+
+La fourniture des fichiers informatiques des figures est obligatoire. La légende doit être fournie à part indiquant 
+clairement l’objet de la figure et précisant les abréviations en français et en anglais. 
+
+Les figures seront publiées en couleurs sur les sites internet em-consulte et ScienceDirect sans frais 
+supplémentaires. Les figures en couleurs sur la revue papier sont au frais de l’auteur. Le tarif est de 600 € pour la 
+première illustration, puis 100 par illustration supplémentaires. La rédaction se réserve le droit de refuser les 
+figures trop nombreuses ou de qualité insuffisante au regard de l’intérêt de l’information apportée. 
+
+Les figures doivent être fournies de préférence en format TIFF (.tiff), EPS (.eps), ou PDF (.pdf). Les formats Word, 
+Powerpoint et Excel sont également acceptés. Pour permettre à l’éditeur d’identifier facilement les figures 
+transmises, il est recommandé de nommer les fichiers en indiquant le numéro de la figure et le format utilisé. Par 
+exemple : « fig1.tif », pour le fichier de la figure 1 sous format TIFF. 
+
+La résolution minimale des figures doit être de 300 DPI pour les photographies en noir et blanc ou en couleur, et 
+de 500 à 1000 DPI pour les graphiques ou schémas. 
+
+La haute résolution est absolument nécessaire pour l’impression. 
+
+ 
+
+Compléments électroniques 
+
+La revue encourage les auteurs à soumettre avec leur article des compléments électroniques. Il peut s’agir de 
+tableaux, figures, vidéos, QCM, etc. Les compléments électroniques ont pour but d’offrir au lecteur une meilleure 
+condition de lecture d’un élément de l’article (par exemple : grand tableau, trop nombreuses figures), ou 
+d’approfondir un point de l’article, ou encore d’élargir le travail des auteurs. 
+
+Ces éléments seront accessibles uniquement en ligne (le lien vers la page de référence étant indiqué dans la 
+version papier de votre article) et seront signalés par un pictogramme figurant en première page de l’article ainsi 
+qu’au sommaire. Vous pourrez ainsi proposer des images (.gif, .tif, .jpg, .svg, .png, etc.), des vidéos (.mp4, .mpg, 
+.mov, .avi, etc.), des podcasts (.mp3, .wma, .wav), des documents (.doc, .pdf, etc) des tableurs (.xls, .cvs, etc.) ou 
+des présentations (.ppt, .pps, etc.). 
+
+Les vidéos, d’un poids maximal de 150 Mo (exceptionnellement jusqu’à 500 Mo) doivent avoir leur commentaire 
+audio en anglais. Leur durée ne doit pas excéder 8 mn. Il faut prévoir une capture d’écran sous la forme d’une 
+figure légendée afin d’illustrer le lien sur la version papier. 
+
+Pour obtenir toutes les informations techniques sur la préparation de ce matériel complémentaire : 
+
+http://www.elsevier.com/locate/authorartwork 
+
+ 
+
+Références bibliographiques 
+
+Elles sont sous la responsabilité des auteurs et leur précision doit impérativement être vérifiée avant l’envoi du 
+manuscrit. D’une façon générale, les références citées doivent correspondre à des documents accessibles aux 
+lecteurs. 
+
+
+ 
+
+Les normes bibliographiques de Pratiques psychologiques sont conformes au Publication Manual of the 
+American Psychological Association (6th edition). Les auteurs veilleront particulièrement au respect des normes 
+suivantes : 
+
+Article de revue avec un n° DOI 
+
+van de Vijver, F., & Tanzer, N. K. (2004). Bias and equivalence in cross-cultural assessment: An overview. Revue 
+Européenne de Psychologie Appliquée - European Review of Applied Psychology, 54, 119-135. doi: 
+10.1016/j.erap.2003.12.004 
+
+ 
+
+Article non anglophone 
+
+Genoud, P. A., Brodard, F., & Reicherts, M. (2009). Facteurs de stress et burnout chez les enseignants de l'école 
+primaire [Stress factors and burnout in elementary school teachers]. Revue Européenne de Psychologie Appliquée - 
+European Review of Applied Psychology, 59, 37-45. doi.org/10.1016/j.erap.2007.03.001 
+
+ 
+
+Article avec un n° DOI, publié en ligne 
+
+Prestwich, A., & Kellar, I. (2013). How can the impact of implementation intentions as a behaviour change 
+intervention be improved? Revue Européenne de Psychologie Appliquée - European Review of Applied Psychology. 
+Advance online publication. doi: 10.1016/j.erap.2010.03.003 
+
+ 
+
+Numéro spécial d’une revue 
+
+Dinet, J., & A. Chevalier A. (Eds). (2012). Recent advances in human information search behavior [Special issue]. 
+Revue Européenne de Psychologie Appliquée - European Review of Applied Psychology, 62(1). 
+
+ 
+
+Supplément électronique d’un article de revue 
+
+Baurain, C., & Nader-Grosbois, N. (2011). Validation of a method of assessing socioemotional regulation in 
+preschoolers (Appendix: Coding grid of socio-emotional regulation by sequences) [Supplemental material]. Revue 
+Européenne de Psychologie Appliquée - European Review of Applied Psychology, 61, 185-194. doi : 
+10.1016/j.erap.2011.05.007 
+
+ 
+
+Chapitre dans un livre 
+
+Jouffre, S. (2003). The procedures of measure: Questionnaires and scales. In N. Dubois (Ed.). A sociocognitive 
+approach to social norms (pp. 70-93). London: Routledge. 
+
+ 
+
+Livre 
+
+Fisher, R.P., & Geiselman, R.E. (1992). Memory-enhancing techniques for investigative 
+
+interviewing: The cognitive interview. Springfield: Charles C. Thomas. 
+
+ 
+
+Livre collectif coordonné par un rédacteur 
+
+Bull, R., Valentine, T, & Williamson, T. (Eds). (2009). Handbook of psychology of investigative interviewing. 
+Chichester: Wiley. 
+
+ 
+
+Présentation orale 
+
+Grist, C. & Tredoux, C. (2012, July). Varying facial similarity with an automated lineup generator. Paper presented 
+at the 30th International Congress of Psychology. Cape Town, South Africa. 
+
+ 
+
+Source des abréviations de la revue 
+
+Les noms des revues doivent être abrégés selon la List of Title Word Abbreviations. 
+
+ 
+
+Conseils à la rédaction 
+
+Traductions 
+
+Si le texte est soumis en anglais par des auteurs non anglophones, ceux-ci doivent s’assurer de la bonne qualité de 
+l’anglais médical. IL est recommandé aux auteurs qui ne sont pas de langue maternelle anglaise de faire relire et 
+corriger leur texte par un collègue de langue maternelle anglaise avant de le soumettre, ou de consulter le support 
+de traduction et editing proposé par Elsevier. 
+
+ 
+
+
+Décision du comité de rédaction 
+
+Le comité de rédaction se réserve le droit de prendre trois types de décision : 
+
+- Refus 
+- Acceptation sans modification 
+- Demande de modifications adressée à l’auteur avec accord secondaire, sous réserve de la conformité 
+des corrections de fond et/ou de forme apportées par l’auteur dans un délai raisonnable. 
+
+
+Le fait de demander des modifications importantes ne signifie pas que l’article est accepté. 
+
+ 
+
+Acceptation du manuscrit 
+
+C’est donc sur une version ultérieure du manuscrit que sera prise la décision d’acceptation définitive. 
+
+Les versions corrigées des différents articles doivent respecter les indications suivantes : 
+
+• être accompagnées d’une lettre reprenant chacune des modifications demandées dans les commentaires de 
+lecture, et qui précise : 
+
+• soit la modification effectivement apportée au texte par l’auteur ; 
+
+• soit la raison pour laquelle celui-ci n’a pas souhaité apporter la modification demandée, ou n’a pas 
+été en mesure de le faire. 
+
+• sur la version corrigée elle-même, la modification apportée doit être signalée (au moyen de soulignements, 
+surlignages, caractères en couleurs, etc.). 
+
+Les versions qui ne respecteront pas ces consignes seront refusées. 
+
+Cette rubrique permet aussi un échange entre les lecteurs et les auteurs ou la rédaction, une réponse pouvant 
+être publiée à la suite. 
+
+ 
+
+Refus du manuscrit 
+
+Les manuscrits refusés ne seront pas réadressés à l’auteur qui sera avisé de cet avis. 
+
+ 
+
+Apres acceptation 
+
+Après Mise en page : ProofCentral 
+
+L’auteur correspondant recevra un courrier électronique contenant un lien vers notre système de relecture en 
+ligne qui permet d’annoter et de corriger les épreuves maquettées en ligne dans un environnement similaire à 
+celui de Word. Nous mettrons tout en oeuvre pour que votre article soit publié de façon rapide et fidèle. Veuillez 
+n'utiliser cette épreuve que pour vérifier la saisie, les révisions, le caractère exhaustif et la justesse du texte, des 
+tableaux et des figures. Toute modification significative de l'article accepté pour publication ne sera prise en 
+considération à ce stade qu'avec l'autorisation du rédacteur. Il est important de s'assurer que toutes les 
+corrections nous sont renvoyées dans une communication unique. Veuillez vérifier soigneusement votre envoi 
+avant de répondre car toute insertion de corrections ultérieure ne pourra être garantie. La relecture relève de 
+votre seule responsabilité. La validation doit être donnée dans les 48 heures. En cas de retard, l’éditeur se 
+réserve le droit de procéder à l’impression, après accord de la rédaction, sans la validation de l’auteur. En toute 
+circonstance, la rédaction se réserve la possibilité d’effectuer les corrections de forme nécessaires en dernier 
+ressort. 
+
+ 
+
+Sharelink et tirés-à-part 
+
+L'auteur correspondant recevra gratuitement un lien Sharelink personnalisé lui offrant 50 jours d'accès gratuit à 
+la version publiée définitive de l'article dans ScienceDirect. Le lien Sharelink peut être utilisé pour partager 
+l'article via n'importe quel canal de communication, notamment par courrier électronique et les réseaux sociaux. 
+Moyennant un supplément, des tirés à part en version papier peuvent être commandés via le formulaire de 
+commande envoyé une fois l'article accepté pour publication. L'auteur correspondant comme les co-auteurs 
+peuvent commander des tirés à part à tout moment via la boutique en ligne (WebShop) d’Elsevier. Les auteurs 
+chargés de la correspondance ayant publié leur article en open access ne reçoivent pas de lien Sharelink dans la 
+mesure où la version publiée définitive de leur article est disponible en open access dans ScienceDirect et peut 
+être partagée à l'aide du lien DOI de l'article. 
+
+ 
+
+ 
+
+ 
+
+

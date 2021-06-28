@@ -1,0 +1,468 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Instructions to Authors 
+
+ 
+
+Social Psychology 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hogrefe Publishing GmbH 
+
+Merkelstr. 3 
+
+37085 Göttingen 
+
+Germany 
+
+Tel. +49 551 999 50 0 
+
+Fax +49 551 999 50 111 
+
+publishing@hogrefe.com 
+
+www.hogrefe.com 
+
+
+
+ 
+
+
+Social Psychology is a publication dedicated to international research in social psychology as 
+well as a forum for scientific discussion and debate. The sole publishing language is English, 
+and there are 6 issues per year. 
+
+ 
+
+Aims and Scope 
+
+Social Psychology publishes innovative and methodologically sound research and serves as 
+an international forum for scientific discussion and debate in the field of social psychology. 
+Topics include all basic social psychological research themes, methodological advances in 
+social psychology, as well as research in applied fields of social psychology. The journal 
+focuses on original empirical contributions to social psychological research, but is open to 
+theoretical articles, critical reviews, and replications of published research. 
+
+The journal welcomes original empirical and theoretical contributions to basic research in 
+social psychology, to social psychological methods, as well as contributions covering research 
+in applied fields of social psychology, such as economics, marketing, politics, law, sports, the 
+environment, the community, or health. Preference will be given to original empirical and 
+experimental manuscripts, but theoretical contributions, critical reviews, and replications of 
+published research are welcome as well. 
+
+ 
+
+Experience and Innovation 
+
+The journal was published until volume 38 (2007) as the Zeitschrift für Sozialpsychologie 
+(ISSN 0044-3514). Drawing on over 30 years of experience and tradition in publishing high-
+quality, innovative science as the Zeitschrift für Sozialpsychologie, Social Psychology has an 
+internationally renowned team of editors and consulting editors from all areas of basic and 
+applied social psychology, thus ensuring that the highest international standards are 
+maintained. 
+
+ 
+
+Transparency, Openness, and Replicability 
+
+Social Psychology is committed to increasing openness and transparency of the research 
+process. We therefore require authors to 
+
+(a) report sample size and power considerations, 
+
+(b) report effect sizes and confidence intervals for these effect sizes, 
+
+(c) to share their data (upon acceptance), 
+
+(d) to share their materials (upon acceptance) 
+
+(e) to share their analytic code producing the reported findings (upon acceptance) 
+
+In addition, we encourage authors to preregister experiments with their analysis plans. 
+Authors will report whether they preregistered their studies and, if they did, to provide the 
+respective URL in the manuscript. We also encourage authors to include the 21-word 
+statement by Simmons, Nelson, and Simonsohn (2011) for empirical studies: 
+
+ 
+
+“We report how we determined our sample size, all data exclusions (if any), all 
+manipulations, and all measures in the study.“ 
+
+
+Social Psychology publishes the following types of articles 
+
+ 
+
+Original Articles, Research Reports, and Replications. 
+
+ 
+
+Original Articles report empirical and/or theoretical contributions to social psychological 
+research; they should not exceed 8,000 words (including abstract, text, references, notes, 
+appendices, as well as figures and tables). 
+
+Research Reports present concise descriptions of innovative empirical findings; they 
+should not exceed 2,500 words (including abstract, text, references, notes, appendices, as 
+well as figures and tables). 
+
+Replications offer the opportunity to report successful or failed replications of existing 
+research; they should not exceed 2,500 words (including abstract, text, references, notes, 
+appendices, as well as figures and tables). Please note that electronic supplementary material 
+(ESM) is not included in the word count. 
+
+ 
+
+Rapid Turnaround 
+
+Social Psychology offers a rapid and transparent peer-review process and a short time-lag 
+between acceptance of papers and publication. The time between manuscript submission and 
+editorial decision is usually less than 8 weeks. Mean time from submission to first decision 
+(2019): 60 days. 
+
+ 
+
+Manuscript Submission 
+
+All manuscripts should be submitted online at http://www.editorialmanager.com/sopsy, 
+including electronic supplementary material (ESM). Please follow the online instructions for 
+submission. Should you have any technical queries regarding this process, please contact 
+Juliane Munson, Hogrefe Publishing (E-mail production@hogrefe.com, Tel. +49 551 99950-
+422, fax +49 551 99950-425). 
+
+Please direct any editorial questions to the editorial office: 
+
+E-mail SocialPsych.EditorialOffice@gmail.com 
+
+ 
+
+Manuscript format and style 
+
+Blind Reviewing is Mandatory 
+
+Authors should therefore remove all potentially identifying information from the manuscript, 
+replacing names and any indication of the university where a study was conducted by neutral 
+placeholders. 
+
+ 
+
+Title Page 
+
+To facilitate blind reviewing, the Title Page of the submitted manuscript should include only 
+the paper’s title and running head. A second title page including all author information 
+
+
+should be submitted as a separate document. This should include the title, author name(s) 
+(preceded by first names, but with no academic titles given); name of institute (if there is 
+more than one author or institution, affiliations should be indicated, using superscript Arabic 
+numerals); and an address for correspondence (including the name of the corresponding 
+author and e-mail address). 
+
+ 
+
+Author contribution 
+
+Please state the contribution of each author on the title page of your submission (e.g., “All 
+authors were involved in all parts of the research; XY designed the study and collected the 
+data”; etc.). 
+
+ 
+
+Abstract 
+
+An Abstract (maximum length 120 words) should be printed on a separate sheet for original 
+papers, reviews, and reports. A maximum of 5 keywords should be given after the abstract. 
+Reference Citations in the text and in the reference list proper should follow conventions 
+listed in the Publication Manual of the American Psychological Association, 7th ed. (APA 
+Manual). Tables should be numbered using Arabic numerals. 
+
+ 
+
+Tables and Figures 
+
+Tables must be cited in the text (e.g., ‘‘As shown in Table 1, . . .’’). Each table should be 
+printed on a separate sheet. Below the table number, a brief descriptive title should be given; 
+this should then be followed by the body of the table. It is recommended that each table 
+should also include a brief explanatory legend. 
+
+Figures should be numbered using Arabic numerals. Each figure must be cited in the text 
+(e.g., ‘‘As illustrated in Figure 1, . . .’’) and should be accompanied by a legend on a separate 
+sheet. As online submission requires papers to be submitted as one file, figures and tables etc 
+should be embedded or appended to the paper and not be sent as separate files. However, 
+upon acceptance of an article, it may be necessary for figures to be supplied separately in a 
+form suitable for better reproduction: preferably high-resolution (300 dpi) or vector graphics 
+files. Where this is necessary, the corresponding author will be notified by the publishers. 
+Figures will normally be reproduced in black and white only. While it is possible to reproduce 
+color illustrations, authors are reminded that they will be invoiced for the extra costs 
+involved. 
+
+Note that an allowance for any tables and figures should be deducted from the above 
+depending on their size (approximately 200 words per quarter print page). 
+
+ 
+
+Scientific Nomenclature and Style 
+
+Authors should follow the guidelines of the APA Manual regarding style and nomenclature. 
+Authors should avoid using masculine generic forms in their manuscripts. General 
+statements about groups of people should be written in gender-neutral form (see APA 
+
+
+Manual); when presenting examples, authors may alternate between female and male forms 
+throughout their text. In the reference list make sure to provide the DOIs (Digital Object 
+Identifier) of the cited journal articles. 
+
+ 
+
+Language 
+
+It is recommended that authors who are not native speakers of English have their papers 
+checked and corrected by a native-speaker colleague before submission. Standard US 
+American spelling and punctuation as given in Webster’s New Collegiate Dictionary should 
+be followed. 
+
+ 
+
+ 
+
+Open Data and Electronic Supplementary Material (ESM) 
+
+Authors may submit study data, analysis scripts, and other study materials for manuscripts 
+that involve new data as Electronic Supplementary Materials (ESM). In general, may be files 
+that were used to carry out the research (such as datasets) or additional items that are not 
+essential for inclusion in the full text but would nevertheless benefit the reader. Being 
+electronic, ESM can also include items that cannot, at this time, be produced in print form. 
+ESM will be published online as received from the author(s) without any conversion, testing, 
+or reformatting. They will not be checked for typographical errors or functionality. The 
+responsibility for the content and functionality remains entirely with the author(s). 
+
+Hogrefe Publishing does not provide technical support for the creation or viewing of the 
+supplementary files. If necessary, authors should seek the assistance of their local IT 
+department. Like the manuscript, ESM should be original and not previously published. If 
+previously published, it must be submitted with the necessary permissions. Note that the 
+ESM files, just like the article itself, are permanent records and may not be altered once they 
+have been published online. 
+
+Please ensure that any ESM submitted with the article is in compliance with the EU 
+General Data Protection Regulation (GDPR). 
+
+ 
+
+Submission of ESM 
+
+ESM files will be subjected to peer review along with the article itself. The number of ESM 
+files you submit should be limited to 10. The file size should be kept as small as possible, not 
+exceeding 10 MB in total. All file formats are accepted with the exception of executable files 
+(e.g., .exe, .com, or .msi). Commonly used file formats that are accessible by most readers are 
+preferred. Following the online instructions, submit the ESM files in a single zip file separate 
+from the other files that are part of your submission. 
+
+ 
+
+Citation in manuscript 
+
+All ESM files must be referred to with in-text citations (as for tables, figures, and appendices) 
+and should be numbered in the order in which they are cited in the text. Follow the example: 
+
+
+For more information, listen to the audio file in Electronic Supplementary Material 1. 
+
+or: (listen to the audio file in Electronic Supplementary Material 1) 
+
+or: (the audio file is provided in Electronic Supplementary Material 1) 
+
+ 
+
+If appropriate, you may combine several ESM elements into a single file. For example: 
+
+ 
+
+See Tables 1–3 in Electronic Supplementary Material 1. 
+
+ 
+
+Include a section headed ‘‘Electronic Supplementary Material’’ at the end of your article 
+before the reference section. List all files in the order in which they are cited in the text. 
+Provide a title for each ESM file along with the file name. Optionally, you may also provide a 
+short description for each file (max. 20 words). Follow the example: 
+
+ 
+
+ESM 1. Audio file (.mp3). (= title and file name) 
+
+This audio file contains utterances of the study participants. (= description of file) 
+
+ESM 1. Tables 1–3 (.xlsx). (= title and file name) 
+
+The tables show additional p-values, weather variables, and demographic characteristics. 
+(= description of file) 
+
+ 
+
+Make sure that the file names listed here match the names of the submitted files. Please note 
+that only the title and the description will appear in the article; the file name will not. It is for 
+reference purposes only. 
+
+ 
+
+ 
+
+Proofs 
+
+PDF proofs will be sent to the corresponding author. Changes of content or stylistic changes 
+may only be made in exceptional cases in the proofs. Corrections that exceed 5% of the 
+typesetting costs may be invoiced to the authors. 
+
+ 
+
+ 
+
+Offprints 
+
+ 
+
+Hogrefe will send the corresponding author of each accepted paper free of charge an 
+e-offprint (PDF) of the published version of the paper when it is first released online. This 
+e-offprint is provided for the author’s personal use, including for sharing with coauthors (see 
+also ‘‘Guidelines on sharing and use of articles in Hogrefe journals’’ on the journal’s web page 
+at www.hogrefe.com/j/sp). 
+
+ 
+
+ 
+
+
+Copyright Agreement 
+
+ 
+
+By submitting an article, the author confirms and guarantees on behalf of themselves and any 
+co-authors that the manuscript has not been submitted or published elsewhere, and that they 
+hold all copyright in and titles to the submitted contribution, including any figures, 
+photographs, line drawings, plans, maps, sketches, and tables, and that the article and its 
+contents do not infringe in any way on the rights of third parties. The author indemnifies and 
+holds harmless the publisher from any third-party claims. 
+
+The author agrees, upon acceptance of the article for publication, to transfer to the publisher 
+the exclusive right to reproduce and distribute the article and its contents, both physically and in 
+nonphysical, electronic, or other form, in the journal to which it has been submitted and in other 
+independent publications, with no limitations on the number of copies or on the form or the 
+extent of distribution. These rights are transferred for the duration of copyright as defined by 
+international law. Furthermore, the author transfers to the publisher the following exclusive 
+rights to the article and its contents: 
+
+1. The rights to produce advance copies, reprints, or offprints of the article, in full or in part, 
+to undertake or allow translations into other languages, to distribute other forms or 
+modified versions of the article, and to produce and distribute summaries or abstracts. 
+
+2. The rights to microfilm and microfiche editions or similar, to the use of the article and its 
+contents in videotext, teletext, and similar systems, to recordings or reproduction using 
+other media, digital or analog, including electronic, magnetic, and optical media, and in 
+multimedia form, as well as for public broadcasting in radio, television, or other forms of 
+broadcast. 
+
+3. The rights to store the article and its content in machine-readable or electronic form on all 
+media (such as computer disks, compact disks, magnetic tape), to store the article and its 
+contents in online databases belonging to the publisher or third parties for viewing or 
+downloading by third parties, and to present or reproduce the article or its contents on 
+visual display screens, monitors, and similar devices, either directly or via data 
+transmission. 
+
+4. The rights to reproduce and distribute the article and its contents by all other means, 
+including photo-mechanical and similar processes (such as photocopying or facsimile), and 
+as part of so-called document delivery services. 
+
+5. The right to transfer any or all rights mentioned in this agreement, as well as rights 
+retained by the relevant copyright clearing centers, including royalty rights to third 
+parties. 
+
+ 
+
+
+Online Rights for Journal Articles 
+
+ 
+
+Guidelines on authors’ rights to archive electronic versions of their manuscripts online are 
+given in the document ‘‘Guidelines on sharing and use of articles in Hogrefe journals’’ on the 
+journal’s web page at www.hogrefe.com/j/sp. 
+
+ 
+
+July 2020 
+
+

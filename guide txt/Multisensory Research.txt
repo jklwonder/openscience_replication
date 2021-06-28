@@ -1,0 +1,359 @@
+Scope 
+
+ 
+
+Multisensory Research (MSR) is an interdisciplinary archival journal covering all aspects of multisensory 
+processing including the control of action, cognition and attention. Research using any approach to 
+increase our understanding of multisensory perceptual, behavioural, neural and computational 
+mechanisms is encouraged. Empirical, neurophysiological, psychophysical, brain imaging, clinical, 
+developmental, mathematical and computational analyses are welcome. Research will also be 
+considered covering multisensory applications such as sensory substitution, crossmodal methods for 
+delivering sensory information or multisensory approaches to robotics and engineering. Short 
+communications and technical notes that draw attention to new developments will be included, as will 
+reviews and commentaries on current issues. Special issues dealing with specific topics will be 
+announced from time to time. Multisensory Research is a continuation of Seeing and Perceiving: A Journal 
+of Multisensory Science, and of Spatial Vision. 
+
+
+Ethical and Legal Conditions 
+
+ 
+
+The publication of a manuscript in a peer-reviewed work is expected to follow standards of ethical 
+behavior for all parties involved in the act of publishing: authors, editors, and reviewers. Authors, editors, 
+and reviewers should thoroughly acquaint themselves with Brill’s publication ethics, which may be 
+downloaded here: brill.com/page/ethics/publication-ethics-cope-compliance. 
+
+ 
+
+Online Submission 
+
+ 
+
+Authors should submit their manuscript online via the Editorial Manager (EM) online submission 
+system at editorialmanager.com/msrbrill. 
+
+First-time users of EM need to register first. Go to the website and click on the "Register Now" link in the 
+login menu. Enter the information requested. During registration, you can fill in your username and 
+password. If you should forget your Username and Password, click on the "send login details" link in the 
+login section, and enter your e-mail address exactly as you entered it when you registered. Your access 
+codes will then be e-mailed to you. 
+
+Prior to submission, authors are encouraged to read the ‘Instructions for Authors’. When submitting via 
+the website, you will be guided stepwise through the creation and uploading of the various files. 
+
+A revised document is uploaded the same way as the initial submission. The system automatically 
+generates an electronic (PDF) proof, which is then used for reviewing purposes. All correspondence, 
+including the editor’s request for revision and final decision, is sent by e-mail. 
+
+Authors also have the opportunity to suggest and oppose reviewers by submitting the names and (e-mail) 
+addresses. 
+
+ 
+
+
+Supplementary Media / Data Files 
+
+To support and enhance your manuscript, MSR accepts electronic supplementary material, including 
+supporting applications, high-resolution images, background datasets, sound or video clips, large 
+appendices, data tables and other items that cannot be included in the article PDF itself. Authors should 
+submit the material in electronic format together with the other manuscript files and supply a concise 
+and descriptive caption for each file. In order to ensure that your submitted material is directly usable, 
+please provide the data in one of the broadly accepted file formats for video, audio, etc. and limit the file 
+size (e.g., for video: max. 3 GB). Supplementary files supplied will be published online at FigShare 
+(www.figshare.com), to which reference is made in the published article on Brill Online Books and 
+Journals, and vice versa. 
+
+ 
+
+File Formats 
+
+Most popular formats are allowed for the initial submission, as long as an editable source file (i.e., Word 
+or LaTeX document) is included. Figures must be in digital format. Please refer to ‘Figures’ further in this 
+document for more detailed instructions. 
+
+ 
+
+Contact Address 
+
+For any questions or problems relating to your manuscript please contact the Editors; Laurence Harris – 
+harris@yorku.ca; Marc Ernst – marc.ernst@uni-ulm.de. 
+
+For eventual questions about Editorial Manager, authors can also contact the Brill EM Support 
+Department at: em@brill.com. 
+
+ 
+
+When submitting a manuscript, please note: 
+
+− The editorial board tries to keep the reviewing process as short as possible and to inform the author of 
+the final decision (accept/reject/revise) within two months of submission, whenever possible. 
+
+
+ 
+
+Submission Requirements 
+
+ 
+
+Language 
+
+Manuscripts should be written in English. Spelling (British or American) should be consistent 
+throughout. 
+
+
+Manuscript Structure 
+
+ 
+
+Contributions should be typed with numbered pages, 1.5 or double line spacing and wide margins 
+throughout. 
+
+ 
+
+
+The first page of an article should contain the title of the paper, the name(s) and address(es) of the 
+author(s), a short title (not exceeding 50 characters, spaces included), and the name, e-mail address and 
+postal address of the author to whom correspondence and proofs should be sent. 
+
+ 
+
+The manuscript title should be given in roman (The Title of the Manuscript), with capitals for the first 
+letter of main words and should be as brief and informative as possible. 
+
+ 
+
+Authors’ names should be in roman type as normally used by the author, first name followed by family 
+name, names separated by commas and between the last two names by ‘and’, references to institutes 
+and addresses as superscripts (e.g. 1, or 1,2 in ascending order). 
+
+ 
+
+Affiliation: the institute where the work has been done should be indicated under the authors in roman 
+type, first letters of major words in capitals. When the authors are based at different organizations this 
+should be indicated in superscript in front of the institute (e.g. 1Centre for Spatial Vision Sciences –
+corresponding to the references under ‘authors’). 
+
+ 
+
+E-mail addresses of corresponding authors may be added as numbered footnotes. 
+
+ 
+
+Summary and Keywords 
+
+Each article should be accompanied by a summary in English, which should mention all the principal 
+facts and conclusions set forth in the paper. A similar summary in another relevant language may be 
+added, but this is not required. The word limit for the summary is 250. 
+
+Three to eight keywords should be given. 
+
+ 
+
+Headings 
+
+Main headings in bold (Summary, Introduction, Material and methods, Results, Discussion, 
+Acknowledgements, References or other variants if appropriate), capitals only for first letter of sentence 
+and first letters proper names, separated by white lines from text. 
+
+Second level headings in italics, flush left, capitals only for first letter of sentence and first letters proper 
+names, separated by white lines from text. Sub-subheadings in roman type, aligned to the left, capitals 
+only for first letter of sentence and first letters proper names, separated by a white line from preceding 
+text, following text starting on next line. 
+
+Italics should only be used for scientific species names, words that need to be emphasized (no italics for: 
+e.g., i.e., etc., cf.) and for mathematical and statistical variables such as p, F, U, T, N, r, but not for SD 
+(standard deviation), SE (standard error), DF (degrees of freedom) and NS (non-significant). 
+
+ 
+
+Bold should only be used in exceptional cases of extra emphasis or in some formulas. 
+
+ 
+
+
+Capitals should only be used for first letters of sentences, first letters proper names and first letters of 
+specific words (e.g. tables, figures, experiments, behaviour patterns) that should be emphasized; small 
+capitals for words that should be printed in capitals. 
+
+ 
+
+Mathematics 
+
+Detailed mathematical discussion should be placed in an appendix. 
+
+Units of measurement, abbreviations and symbols should follow the international system of units (SI). 
+
+Equations and formulae should be numbered consecutively with Arabic numerals in parentheses on the 
+right-hand side of the page. 
+
+ 
+
+References 
+
+The Harvard system should be used for the references. In this system, names and dates are given in the 
+body of the text and an alphabetical list of references given at the end of the manuscript in a reference 
+list. 
+
+ 
+
+Text Citations 
+
+References in the text should give the author’s surname with the year of publication in parentheses. 
+When reference is made to a work by two authors, both names should be given; references to works by 
+more than two authors should give the name of the first author, followed by et al., e.g. Smith et al. (1973). 
+If several papers by the same author(s) in the same year are cited, a, b, c, etc. should be placed after the 
+year of publication, e.g. Smith and Jones (1982a, b). 
+
+ 
+
+Reference List 
+
+ 
+
+Journal Articles 
+
+Please list the doi number whenever possible. 
+
+Pavani, F., Boscagli, I., Benvenuti, F., Rabuffetti, M. and Farne, A. (1999). Are perception and action 
+affected differently by the Titchener circles illusion? Exper. Brain Res. 127, 95–101. 
+
+ 
+
+Books 
+
+Milner, A. D. and Goodale, M. A. (1995). The Visual Brain in Action. Oxford University Press, Oxford, UK. 
+
+Chapter in Edited Book 
+
+Pinna, B. and Reeves, A. (2006). Lighting, backlighting and watercolor illusions and the laws of figurality, 
+in: Color, Line, and Space. The Neuroscience of Spatio-Chromatic Vision, B. Pinna (Ed.), Spatial Vision 
+Perspectives, Vol. 1, pp. 239-271, Brill, Leiden, The Netherlands. 
+
+ 
+
+
+Conference Proceedings 
+
+De Grave, D., Brenner, E. and Smeets, J. (2002). Pointing towards the Brentano illusion, in: VSS 2nd Annual 
+Meeting, Sarasota, Florida, Abstract 726, p. 247. 
+
+ 
+
+PhD (MSc, MD, etc.) Thesis 
+
+Vighetto, A. (1980). Etude neuropsychologique et psychophysique de l’ataxie optique, Thèse médecine, 
+Lyon. 
+
+ 
+
+If a publication is in press, the reference should be made as complete as possible, stating the name of the 
+journal and adding “in press”. 
+
+ 
+
+Figures and Tables 
+
+References to tables should consist of the complete word, first letter capital (also in the middle of a 
+sentence or in brackets) + number in Arabic numerals: Table 7 or (Table 7). 
+
+References to figures should consist of the complete word only at the beginning of a sentence and in the 
+figure captions; otherwise the abbreviations “Fig.” or “Figs” are used. 
+
+Tables should be kept as simple as possible with at least 3 horizontal lines and additional lines if 
+appropriate, data ordered in a convenient way. The title should give all details that are needed to 
+understand the table except obvious footnotes. 
+
+Figures should be submitted as separate source files in .eps, .tif, or .jpg format, in a size suitable for the 
+typesetting area of the journal which is 125 x 195 mm. The resolution of these files should be at least 300 
+dpi for half-tone figures, and 600 dpi for line drawings. Number the files, and indicate in the manuscript 
+where they are to appear (Fig. 1 here). 
+
+The text in a figure must be legible, and should not be smaller than corps 7. The size of this lettering for 
+any text in a figure should be the same for all figures in the manuscript. 
+
+Greyscale graphics must be provided as monochrome images. There is no charge for full colour images 
+or figures in either the print or electronic edition. 
+
+To guarantee good resolution in printing, colour figures must be original TIF or EPS (no PDF) files with a 
+minimal resolution of 300 dpi for half-tone figures, and 600 dpi for line drawings and in full colour (i.e., 
+CMYK and not RGB format). Diagrams, maps, drawings, charts, and photographs should be free of 
+charge and copyright, or permission for publication has to be obtained from the original copyright 
+owner(s). 
+
+Figure captions should not be attached to the figures, but should be included as a separate page at the 
+end of the manuscript. 
+
+ 
+
+Abbreviations 
+
+Abbreviations should be followed by ‘.’ unless the abbreviation is written with the last letter of the 
+original word at the end position (thus: i.e. – e.g. – cf. – etc. but Eds – Dr – edn – Figs) – measures (such 
+as mm cm m s l) without ‘.’. 
+
+
+Quotations 
+
+Use single quotation marks (‘) for isolated words or conceptions, double (“) for literal quotes. 
+
+ 
+
+Copyright 
+
+The use of general descriptive names, trademarks, etc., in this publication, even if the former are not 
+specifically identified, is not to be taken as a sign that such names are exempt from the relevant 
+protective Instructions to Authors’ laws and regulations and may accordingly be used freely by anyone. 
+
+
+Publication 
+
+ 
+
+Proofs 
+
+Upon acceptance, a PDF of the article proofs will be sent to each author by e-mail to check carefully for 
+factual and typographic errors. Authors are responsible for checking these proofs and are strongly urged 
+to make use of the Comment & Markup toolbar to note their corrections directly on the proofs. At this 
+stage in the production process only minor corrections are allowed. Alterations to the original 
+manuscript at this stage will result in considerable delay in publication and, therefore, are not accepted 
+unless charged to the author. Proofs should be corrected and returned to the managing editor as quickly 
+as possible. 
+
+ 
+
+E-offprints 
+
+A PDF file of the article will be supplied free of charge by the publisher to authors for personal use. Brill 
+is a RoMEO yellow publisher. The Author retains the right to self-archive the submitted (pre-peer-review) 
+version of the article at any time. The submitted version of an article is the author's version that has not 
+been peer-reviewed, nor had any value added to it by Brill (such as formatting or copy editing). The 
+Author retains the right to self-archive the accepted (peer-reviewed) version after an embargo period of 
+12 months. The accepted version means the version which has been accepted for publication and 
+contains all revisions made after peer reviewing and copy editing, but has not yet been typeset in the 
+publisher’s lay-out. The publisher’s lay-out must not be used in any repository or on any 
+website (brill.com/resources/authors/publishing-books-brill/self-archiving-rights). 
+
+
+Consent to Publish 
+
+ 
+
+Transfer of Copyright 
+
+By submitting a manuscript, the author agrees that the copyright for the article is transferred to the 
+publisher if and when the article is accepted for publication. For that purpose the author needs to sign 
+the Consent to Publish which will be sent with the first proofs of the manuscript. 
+
+
+Open Access 
+
+Should the author wish to publish the article in Open Access he/she can choose the Brill Open option. 
+This allows for non-exclusive Open Access publication under a Creative Commons license in exchange 
+for an Article Publication Charge (APC), upon signing a special Brill Open Consent to Publish Form. 
+
+More information on Brill Open can be found on brill.com/brillopen. 
+
+ 
+
+

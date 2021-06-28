@@ -1,0 +1,555 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Instructions to Authors 
+
+ 
+
+Journal of Media Psychology 
+
+ 
+
+Theories, Methods, and Applications 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hogrefe Publishing GmbH 
+
+Merkelstr. 3 
+
+37085 Göttingen 
+
+Germany 
+
+Tel. +49 551 999 50 0 
+
+Fax +49 551 999 50 111 
+
+publishing@hogrefe.com 
+
+www.hogrefe.com 
+
+
+
+ 
+
+
+Journal of Media Psychology (JMP) is committed to publishing original, high-quality papers 
+which cover the broad range of media psychological research. This peer-reviewed journal 
+focuses on how human beings select, use, and experience various media as well as how media 
+(use) can affect their cognitions, emotions, and behaviors. Submissions must substantially 
+advance the current state-of the art on a theoretical and/or an empirical level. To name just a 
+few typical fields and domains of inquiry, the Journal of Media Psychology considers 
+manuscripts dealing with research on entertainment, computer-mediated communication 
+(including social media), human-computer interaction, e-learning, computer and video 
+games, virtual environments, or advertising. The journal is also open to research from 
+neighboring disciplines as far as this work ties in with psychological concepts of the uses and 
+effects of the media. Submissions of comparative work, e.g., cross-media, cross-gender, or 
+cross-cultural, are encouraged. Moreover, submissions including alternative analysis 
+procedures such as the Bayesian approach are welcome. The pre-registration of research 
+plans will also be possible. To ensure short turn-around cycles for manuscript review and fast 
+publication, the Journal of Media Psychology relies heavily upon electronic communication 
+and information exchange, starting from electronic submission and continuing throughout 
+the entire review and production process. 
+
+ 
+
+Journal of Media Psychology publishes the following types of 
+articles 
+
+Original Research Papers, regardless of methodology, may contain up to 8,000 words, 
+including abstract, text, references, notes, appendices, as well as figures and tables. An 
+allowance for any tables and figures should be deducted from the above depending on 
+their size (approximately 200 words per quarter print page). 
+
+Theoretical Articles provide state-of-the-art overviews of research in pertinent areas, or 
+presentations of innovative theories and models for media psychology; they may also 
+focus on methodological issues relevant for the discipline. The specifications are the same 
+as for original research papers. 
+
+Research Reports will typically focus on methods, such as the development of a new 
+questionnaire, or they may feature smaller empirical studies. Research reports may 
+contain up to 4,000 words, again including abstract, text, references, notes, appendices, 
+and an allowance for any tables and figures depending on their size (approximately 200 
+words per quarter print page). 
+
+Pre-Registered Reports: As an alternative to the other submission categories, authors have 
+the opportunity to ‘‘register’’ a research idea before data are collected. For this purpose, 
+authors are called to submit a proposal for a scientific question (with a maximum of 6,000 
+words; including abstract, text, references, notes, appendices, as well as figures and 
+tables), elaborating on the theoretical background, hypotheses, a detailed methodological 
+and a complete analysis plan (including exclusion criteria, e.g., procedures for defining 
+outliers). In the methodological section, planned sample sizes should be calculated based 
+
+
+on power analyses. Moreover, authors are allowed to report results from pre-tests that 
+were already conducted. Please submit any stimulus material, questionnaires and/or 
+codebooks you wish to use in your research. Note that this is supplementary material, not 
+being part of the proposal with a maximum of 6,000 words. 
+
+In a first round of review, the proposal will be judged by its theoretical contribution, 
+plausibility of hypotheses, and soundness of the methodological and analysis plan. If it is 
+evaluated positively in this round, the study receives an ‘‘in principle’’ acceptance 
+(potentially with recommendations by editor and reviewers). Subsequently, within 6 
+months, authors are asked to conduct the pre-registered study. Data files should be 
+appropriately time stamped to show that data was collected after the in-principle 
+acceptance and not before. Any deviation from the stated methodological procedures, 
+regardless of how minor it may seem to the authors, may lead to summary rejection of the 
+manuscript (in cases of unforeseen circumstances authors may consult the corresponding 
+editor for advice). 
+
+After completion of the study, authors submit the second part of their work (containing an 
+additional maximum of 2,000 words) presenting and discussing their results. After this 
+step, the manuscript (with a total of 8,000 words including abstract, text, references, 
+notes, appendices, and an allowance for any tables and figures depending on their size) 
+will be published regardless of whether the initial hypotheses are supported by the data or 
+not. However, the second part will also undergo a review round in order to evaluate 
+whether the results and discussion sections meet the standards of the journal. 
+
+Please consider that also this second review round may result in a major revision of the 
+empirical part of the paper. For this category of submission, please consider that the 
+hypotheses and methods that were proposed initially have to be reported in the final 
+article. Statistical post-hoc analyses that go beyond the first plan are possible, but should 
+be explained in a detailed letter to the editor and reviewers when submitting the second 
+part of the manuscript. 
+
+ 
+
+Manuscript Submission 
+
+All manuscripts should be submitted online at http://www.editorialmanager.com/jmp. 
+
+Please follow the online instructions for submission. Should you have any technical queries 
+regarding this process, please contact Juliane Munson, Hogrefe Publishing (E-mail 
+production@hogrefe.com, Tel. +49 551 99950-422, Fax +49 551 99950-425). 
+
+Please direct any editorial questions to the editorial office: 
+
+E-mail jmp@ijk.hmtm-hannover.de. 
+
+ 
+
+
+Review Process 
+
+All manuscripts are subject to anonymous peer review. An editorial decision on research 
+papers will be made within 8 weeks. Based on the title and abstract, two or more reviewers 
+will be requested to review the manuscript. Reviewers will be asked to complete their review 
+within 4 weeks. The editor responsible for the manuscript makes his or her editorial decision 
+and notifies the corresponding author of the result, usually within 2 working days after 
+receiving the reviewers’ feedback. For original research papers, theoretical articles, and 
+research reports, there are three kinds of decisions: accept, revise and resubmit (with either 
+major or minor revisions), and reject. Rejected manuscripts can be resubmitted after 
+substantial revision, but they will be treated as new manuscripts. The entire review process is 
+completely reliant on electronic communication in order to ensure speedy processing. 
+
+ 
+
+Manuscript Preparation 
+
+Manuscripts should be prepared in accordance with conventions listed in the Publication 
+Manual of the American Psychological Association (6th ed.). 
+
+The first page should contain the title of the article, names of authors and affiliation(s), a 
+running title, and an address for correspondence, including telephone and fax numbers and 
+e-mail address. The second page should contain an abstract (not exceeding 250 words) which 
+should be intelligible without recourse to the main text, and up to 5 keywords. 
+
+The rest of the manuscript should then follow in the order: 
+
+Introduction, Methods, Results, Discussion, Research Transparency Statement, References, 
+Tables, Figures, and Legends. 
+
+ 
+
+Tables should be numbered using Arabic numerals and be given a brief descriptive title. 
+Tables must be cited in the text (e.g., ‘‘As shown in Table 1, ...’’). It is recommended that each 
+table should also include a brief explanatory legend. 
+
+Figures should be numbered using Arabic numerals and be given a brief descriptive title 
+and an explanatory legend, if required. Figures must be cited in the text. Care should be 
+taken to ensure that lettering and detail will be legible after any size reduction necessary for 
+publication. Figures must be supplied in a form suitable for reproduction: preferably high 
+resolution bitmaps (e.g., jpg, 300 dpi). If these are not submitted together with the 
+manuscript, they need to be supplied upon its acceptance. 
+
+Electronic Supplementary Materials: The Electronic Supplementary Material (ESM) 
+will not be printed and is not included in the word count. Please follow the instructions 
+below. 
+
+References: Authors are responsible for checking the accuracy of all references. Reference 
+citations in the text and in the reference list proper should conform to the APA Manual. All 
+references listed have to be cited in the text. In the reference list make sure to provide the 
+DOIs (Digital Object Identifier) of the cited journal articles. 
+
+
+Manuscript Format and Style 
+
+Manuscripts should be prepared according to the Publication Manual of the American 
+Psychological Association (7th ed.). In particular, statistical and mathematical copy, 
+reference citations in the text and the reference list proper should conform to the Publication 
+Manual. 
+
+ 
+
+Each submission must include the following: 
+
+(a) a main document including the manuscript which is subject to anonymous peer review. 
+Please make sure that all references to author names and affiliations have been removed 
+from the manuscript and related documents (and the properties of the documents). 
+
+Please check that all identifying information has been removed from your electronic files, 
+for example, documents prepared using Microsoft™ Word®. Personal or hidden 
+information is stored in File Properties (e.g., Author, Manager, Company, and Last Saved 
+By; hidden information includes hidden text, revised text, comments, or field codes). 
+These may be in a document even when they are not openly displayed. You must edit or 
+remove the custom field to remove that information. Go to the File menu, select info, and 
+then click check for issues. Select inspect document. In the Document Inspector 
+dialog box, select the check boxes to choose the types of hidden content that you want to 
+be inspected. Select remove all. Click Close and save the document. 
+
+Please submit this document as ‘‘manuscript’’; 
+
+(b) a title page including names and affiliations of all authors and indicating the 
+corresponding author by giving his/her name and complete address, including email and 
+telephone and fax number(s). 
+
+(c) an abstract (maximum length 250 words) and a maximum of 5 key reference terms. 
+
+Figures and tables (if any) should be numbered using Arabic numerals. 
+
+The number of figures and tables should be kept to a minimum and only be included to 
+facilitate understanding of the text. The same information should not appear in both a figure 
+and a table. Each table and figure must be cited in the text and should be accompanied by a 
+legend on a separate sheet. Please note that online submission via the Editorial Manager 
+allows text, figures, and tables to be submitted as separate files. Figures must be supplied in a 
+form suitable for reproduction: preferably high resolution bitmaps (e.g., jpg, 300 dpi) or as 
+vector graphics files. Figures will normally be reproduced in black and white only. While it is 
+possible to reproduce color illustrations, authors are reminded that they will be invoiced for 
+the extra costs involved. After acceptance, authors will be asked to upload a brief biography 
+(up to 50 words) and a photo of each author. 
+
+ 
+
+
+Guidelines for Transparency and Openness Promotion 
+
+Please consider the following guidelines when preparing your manuscript. 
+
+Citation standards. All data, program code and other methods used in the submitted 
+research should be appropriately cited. Such materials should be recognized as original 
+intellectual contributions and afforded recognition through citation. 
+
+a. All data sets and program code used in a publication should be cited in the text and listed 
+in the reference section. 
+
+b. References for data sets and program code should include a persistent identifier, such as a 
+Digital Object Identifier (DOI). Persistent identifiers ensure future access to unique 
+published digital objects, such as a text or data set. Persistent identifiers are assigned to 
+data sets by digital archives. Authors are offered the opportunity to publish their data and 
+materials (i.e., stimuli and surveys) as Electronic Supplementary Material on the 
+publisher’s website at https://econtent@hogrefe.com 
+
+c. Data set citation example: 
+
+Campbell, Angus, and Robert L. Kahn. American National Election Study, 1948. 
+ICPSR07218-v3. Ann Arbor, MI: Inter-University Consortium for Political and Social 
+Research [distributor], 1999. http://doi.org/10.3886/ICPSR07218.v3 
+
+ 
+
+Data, Analytic Methods (Code), and Research Materials Transparency. Journal of 
+Media Psychology publishes papers where authors indicate whether the data, methods used 
+in the analysis, and materials used to conduct the research will be made available to any 
+researcher for purposes of reproducing the results or replicating the procedure. In line with 
+the Peer Reviewers’ Openness Initiative, authors may be asked by reviewers to share their 
+data and materials at any stage of the reviewing process. 
+
+As a part of the manuscript, authors must include a Research Transparency Statement, 
+indicating if they will or will not make their data, analytic methods, and study materials 
+available to other researchers. Authors may use the following statement: 
+
+“The authors are willing/not willing to share their data, analytics methods, and study 
+materials with other researchers. The material will be available [at a repository / upon 
+request].” 
+
+This transparency statement will not influence the editorial decision. 
+
+ 
+
+Design and Analysis Transparency. Journal of Media Psychology publishes papers in 
+which authors follow standards for disclosing key aspects of the research design and data 
+analysis. Authors are encouraged to review the standards available for many research 
+applications from http://www.equator-network.org/ and use those that are relevant for the 
+reported research applications. 
+
+ 
+
+Preregistration of Studies and Analysis Plans. The policy of the Journal of 
+Media Psychology is to publish papers where authors indicate whether or not the 
+
+
+conducted research was preregistered with an analysis plan in an independent, 
+institutional registry (e.g., http://clinicaltrials.gov/, http://socialscienceregistry.org/, 
+http://openscienceframework.org/, http://ridie.3ieimpact.org/; http://egap.org/design-
+registration/). Even if authors do not use the preregistration offer of JMP as described below, 
+they need to acknowledge whether they opted for a pre-registration of the study at another 
+independent institution. Preregistration of studies involves registering the study design, 
+variables, and treatment conditions. Including an analysis plan involves specification of 
+sequence of analyses or the statistical model that will be reported. 
+
+1. Authors must, in acknowledgments or the first footnote, indicate if they did or did not 
+preregister the research with or without an analysis plan in an independent, institutional 
+registry. Please add a Preregistration Statement to your manuscript, indicating: “The 
+authors have/have not preregistered this research with/without an analysis plan which is 
+retrievable at: URL.” 
+
+2. If authors preregistered the research with an analysis plan, the author must: 
+
+a. confirm in the text that the study was registered prior to conducting the research with links 
+to the time-stamped preregistration(s) at the institutional registry, and that the 
+preregistration adheres to the disclosure requirements of the institutional registry or those 
+required for the preregistered badge with analysis plans maintained by the Center for 
+Open Science. 
+
+b. report all preregistered analyses in the text, or, if there were changes in the analysis plan 
+following preregistration, those changes must be disclosed with explanation for the 
+changes. 
+
+c. clearly distinguish in text analyses that were preregistered from those that were not, such 
+as having separate sections in the results for confirmatory and exploratory analyses. 
+
+ 
+
+Replication. The policy of the Journal of Media Psychology is to encourage submission of 
+replication studies, particularly of research published in this journal. 
+
+ 
+
+Electronic Supplementary Materials 
+
+Authors may submit study data, analysis scripts, and other study materials for manuscripts 
+that involve new data as Electronic Supplementary Materials (ESM). In general, ESM may 
+include items that cannot be produced in print form and may consist of material used to 
+carry out the research (e.g., data sets, participant instructions, audiovisual stimuli, video 
+footage of the experimental setup) or addition items that are not essential for inclusion in the 
+full text but would nevertheless benefit the reader. ESM is not included in the word count. 
+ESM will be published online as received from the author(s) without any conversion, testing, 
+or reformatting. They will not be checked for typographical errors or functionality. The 
+responsibility for the content and functionality remains entirely with the author(s). 
+
+Hogrefe Publishing does not provide technical support for the creation or viewing of the 
+supplementary files. If necessary, authors should seek the assistance of their local IT 
+
+
+department. Like the manuscript, ESM should be original and not previously published. If 
+previously published, it must be submitted with the necessary permissions. Note that the 
+ESM files, just like the article itself, are permanent records and may not be altered once they 
+have been published online. 
+
+Please ensure that any ESM submitted with the article is in compliance with the EU 
+General Data Protection Regulation (GDPR). 
+
+ 
+
+Submission 
+
+ESM files will be subjected to peer review along with the article itself. The number of ESM 
+files you submit should be limited to 10. The file size should be kept as small as possible, not 
+exceeding 10 MB in total. All file formats are accepted with the exception of executable files 
+(e.g., .exe, .com, or .msi). Commonly used file formats that are accessible by most readers are 
+preferred. Following the online instructions, submit the ESM files in a single zip file separate 
+from the other files that are part of your submission. 
+
+ 
+
+Citation in Manuscript 
+
+All ESM files must be referred to with intext citations (as for tables, figures, and appendices) 
+and should be numbered in the order in which they are cited in the text. 
+
+ 
+
+Follow the example: 
+
+– For more information, listen to the audio file in Electronic Supplementary Material 1. 
+
+or: 
+
+– (listen to the audio file in Electronic Supplementary Material 1) 
+
+or: 
+
+–(the audio file is provided in Electronic Supplementary Material 1) 
+
+ 
+
+If appropriate, you may combine several ESM elements into a single file. For example: 
+
+– See Tables 1–3 in Electronic Supplementary Material 1. 
+
+ 
+
+Include a section headed ‘‘Electronic Supplementary Material’’ at the end of your article 
+before the reference section. List all files in the order in which they are cited in the text. 
+Provide a title for each ESM file along with the file name. Optionally, you may also provide a 
+short description for each file (max. 20 words). Follow the example: 
+
+– ESM 1. Audio file (mp3). (= title and file name) 
+
+This audio file contains utterances of the study participants. (= description of file) 
+
+– ESM 1. Tables 1–3 (xlsx). (= title and file name) 
+
+The tables show additional p-values, weather variables, and demographic characteristics. 
+(= description of file) 
+
+
+Make sure that the file names listed here match the names of the submitted files. Please note 
+that only the title and the description will appear in the article; the file name will not. It is for 
+reference purposes only. 
+
+ 
+
+Proofs 
+
+PDF proofs will be sent to the corresponding author. Changes of content or stylistic changes 
+may only be made in exceptional cases in the proofs. Corrections that exceed 5% of the 
+typesetting costs may be invoiced to the authors. 
+
+ 
+
+Offprints 
+
+The corresponding author of each accepted paper will receive free online access to the 
+published version of the paper when it is first released online. The author may download the 
+PDF of the published version of record. It is provided for the author’s personal use, including 
+for sharing with coauthors (see also ‘‘Guidelines on sharing and use of articles in Hogrefe 
+journals’’ on the journal’s web page at www.hogrefe.com/j/jmp). 
+
+ 
+
+Copyright Agreement 
+
+By submitting an article, the author confirms and guarantees on behalf of themselves and any 
+co-authors that the manuscript has not been submitted or published elsewhere, and that they 
+hold all copyright in and titles to the submitted contribution, including any figures, 
+photographs, line drawings, plans, maps, sketches, and tables, and that the article and its 
+contents do not infringe in any way on the rights of third parties. The author indemnifies and 
+holds harmless the publisher from any third-party claims. 
+
+The author agrees, upon acceptance of the article for publication, to transfer to the publisher 
+the exclusive right to reproduce and distribute the article and its contents, both physically 
+and in nonphysical, electronic, or other form, in the journal to which it has been submitted 
+and in other independent publications, with no limitations on the number of copies or on the 
+form or the extent of distribution. These rights are transferred for the duration of copyright 
+as defined by international law. Furthermore, the author transfers to the publisher the 
+following exclusive rights to the article and its contents: 
+
+ 
+
+1. The rights to produce advance copies, reprints, or offprints of the article, in full or in part, 
+to undertake or allow translations into other languages, to distribute other forms or 
+modified versions of the article, and to produce and distribute summaries or abstracts. 
+
+2. The rights to microfilm and microfiche editions or similar, to the use of the article and its 
+contents in videotext, teletext, and similar systems, to recordings or reproduction using 
+other media, digital or analog, including electronic, magnetic, and optical media, and in 
+multimedia form, as well as for public broadcasting in radio, television, or other forms of 
+broadcast. 
+
+
+3. The rights to store the article and its content in electronic form on all media (such as 
+computer disks, compact disks, magnetic tape), to store the article and its contents in 
+online databases belonging to the publisher or third parties for viewing or downloading by 
+third parties, and to present or reproduce the article or its contents on visual display 
+screens, monitors, and similar devices, either directly or via data transmission. 
+
+4. The rights to reproduce and distribute the article and its contents by all other means, 
+including photo-mechanical and similar processes (such as photocopying or facsimile), 
+and as part of so-called document delivery services. 
+
+5. The right to transfer any or all rights mentioned in this agreement, as well as rights 
+retained by the relevant copyright clearing centers, including royalty rights to third 
+parties. 
+
+ 
+
+Online Rights for Journal Articles 
+
+Guidelines on authors’ rights to archive electronic versions of their manuscripts online are 
+given in the document ‘‘Guidelines on sharing and use of articles in Hogrefe journals’’ on the 
+journal’s web page at www.hogrefe.com/j/jmp. 
+
+June 2020 
+
+
